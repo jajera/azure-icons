@@ -1,0 +1,7 @@
+Family: Azure architecture icons
+URL: https://learn.microsoft.com/en-us/azure/architecture/icons/
+Download: https://arch-center.azureedge.net/icons/Azure_Public_Service_Icons_V24.zip
+Date: 2026-08-02
+Format: SVG
+Note: Microsoft permits use in architectural diagrams, training materials, or documentation per the icon terms on the Azure Icons page. Azure and related marks are trademarks of Microsoft. Do not modify icons beyond Microsoft brand guidance.
+Icons were deduplicated by basename when the same service icon appeared in multiple category folders.
