@@ -1,0 +1,7052 @@
+[
+  {
+    "path": "icons/ai-machine-learning/ai-foundry.svg",
+    "tags": [
+      "ai-machine-learning"
+    ],
+    "category": "ai-machine-learning",
+    "color": "#0078D4",
+    "description": "AI Foundry Azure architecture icon (AI + Machine Learning).",
+    "fullname": "AI Foundry",
+    "name": "ai-foundry"
+  },
+  {
+    "path": "icons/ai-machine-learning/ai-studio.svg",
+    "tags": [
+      "ai-machine-learning"
+    ],
+    "category": "ai-machine-learning",
+    "color": "#0078D4",
+    "description": "AI Studio Azure architecture icon (AI + Machine Learning).",
+    "fullname": "AI Studio",
+    "name": "ai-studio"
+  },
+  {
+    "path": "icons/ai-machine-learning/anomaly-detector.svg",
+    "tags": [
+      "ai-machine-learning"
+    ],
+    "category": "ai-machine-learning",
+    "color": "#0078D4",
+    "description": "Anomaly Detector Azure architecture icon (AI + Machine Learning).",
+    "fullname": "Anomaly Detector",
+    "name": "anomaly-detector"
+  },
+  {
+    "path": "icons/ai-machine-learning/azure-ai-foundry-iq.svg",
+    "tags": [
+      "ai-machine-learning"
+    ],
+    "category": "ai-machine-learning",
+    "color": "#0078D4",
+    "description": "Azure AI Foundry Iq Azure architecture icon (AI + Machine Learning).",
+    "fullname": "Azure AI Foundry Iq",
+    "name": "azure-ai-foundry-iq"
+  },
+  {
+    "path": "icons/ai-machine-learning/azure-applied-ai-services.svg",
+    "tags": [
+      "ai-machine-learning"
+    ],
+    "category": "ai-machine-learning",
+    "color": "#0078D4",
+    "description": "Azure Applied AI Services Azure architecture icon (AI + Machine Learning).",
+    "fullname": "Azure Applied AI Services",
+    "name": "azure-applied-ai-services"
+  },
+  {
+    "path": "icons/ai-machine-learning/azure-experimentation-studio.svg",
+    "tags": [
+      "ai-machine-learning"
+    ],
+    "category": "ai-machine-learning",
+    "color": "#0078D4",
+    "description": "Azure Experimentation Studio Azure architecture icon (AI + Machine Learning).",
+    "fullname": "Azure Experimentation Studio",
+    "name": "azure-experimentation-studio"
+  },
+  {
+    "path": "icons/ai-machine-learning/azure-machine-learning.svg",
+    "tags": [
+      "ai-machine-learning"
+    ],
+    "category": "ai-machine-learning",
+    "color": "#0078D4",
+    "description": "Azure Machine Learning Azure architecture icon (AI + Machine Learning).",
+    "fullname": "Azure Machine Learning",
+    "name": "azure-machine-learning"
+  },
+  {
+    "path": "icons/ai-machine-learning/azure-object-understanding.svg",
+    "tags": [
+      "ai-machine-learning"
+    ],
+    "category": "ai-machine-learning",
+    "color": "#0078D4",
+    "description": "Azure Object Understanding Azure architecture icon (AI + Machine Learning).",
+    "fullname": "Azure Object Understanding",
+    "name": "azure-object-understanding"
+  },
+  {
+    "path": "icons/ai-machine-learning/azure-openai.svg",
+    "tags": [
+      "ai-machine-learning"
+    ],
+    "category": "ai-machine-learning",
+    "color": "#0078D4",
+    "description": "Azure Openai Azure architecture icon (AI + Machine Learning).",
+    "fullname": "Azure Openai",
+    "name": "azure-openai"
+  },
+  {
+    "path": "icons/ai-machine-learning/batch-ai.svg",
+    "tags": [
+      "ai-machine-learning"
+    ],
+    "category": "ai-machine-learning",
+    "color": "#0078D4",
+    "description": "Batch AI Azure architecture icon (AI + Machine Learning).",
+    "fullname": "Batch AI",
+    "name": "batch-ai"
+  },
+  {
+    "path": "icons/ai-machine-learning/bonsai.svg",
+    "tags": [
+      "ai-machine-learning"
+    ],
+    "category": "ai-machine-learning",
+    "color": "#0078D4",
+    "description": "Bonsai Azure architecture icon (AI + Machine Learning).",
+    "fullname": "Bonsai",
+    "name": "bonsai"
+  },
+  {
+    "path": "icons/ai-machine-learning/bot-services.svg",
+    "tags": [
+      "ai-machine-learning"
+    ],
+    "category": "ai-machine-learning",
+    "color": "#0078D4",
+    "description": "Bot Services Azure architecture icon (AI + Machine Learning).",
+    "fullname": "Bot Services",
+    "name": "bot-services"
+  },
+  {
+    "path": "icons/ai-machine-learning/cognitive-services.svg",
+    "tags": [
+      "ai-machine-learning"
+    ],
+    "category": "ai-machine-learning",
+    "color": "#0078D4",
+    "description": "Cognitive Services Azure architecture icon (AI + Machine Learning).",
+    "fullname": "Cognitive Services",
+    "name": "cognitive-services"
+  },
+  {
+    "path": "icons/ai-machine-learning/cognitive-services-decisions.svg",
+    "tags": [
+      "ai-machine-learning"
+    ],
+    "category": "ai-machine-learning",
+    "color": "#0078D4",
+    "description": "Cognitive Services Decisions Azure architecture icon (AI + Machine Learning).",
+    "fullname": "Cognitive Services Decisions",
+    "name": "cognitive-services-decisions"
+  },
+  {
+    "path": "icons/ai-machine-learning/computer-vision.svg",
+    "tags": [
+      "ai-machine-learning"
+    ],
+    "category": "ai-machine-learning",
+    "color": "#0078D4",
+    "description": "Computer Vision Azure architecture icon (AI + Machine Learning).",
+    "fullname": "Computer Vision",
+    "name": "computer-vision"
+  },
+  {
+    "path": "icons/ai-machine-learning/content-moderators.svg",
+    "tags": [
+      "ai-machine-learning"
+    ],
+    "category": "ai-machine-learning",
+    "color": "#0078D4",
+    "description": "Content Moderators Azure architecture icon (AI + Machine Learning).",
+    "fullname": "Content Moderators",
+    "name": "content-moderators"
+  },
+  {
+    "path": "icons/ai-machine-learning/content-safety.svg",
+    "tags": [
+      "ai-machine-learning"
+    ],
+    "category": "ai-machine-learning",
+    "color": "#0078D4",
+    "description": "Content Safety Azure architecture icon (AI + Machine Learning).",
+    "fullname": "Content Safety",
+    "name": "content-safety"
+  },
+  {
+    "path": "icons/ai-machine-learning/custom-vision.svg",
+    "tags": [
+      "ai-machine-learning"
+    ],
+    "category": "ai-machine-learning",
+    "color": "#0078D4",
+    "description": "Custom Vision Azure architecture icon (AI + Machine Learning).",
+    "fullname": "Custom Vision",
+    "name": "custom-vision"
+  },
+  {
+    "path": "icons/ai-machine-learning/face-apis.svg",
+    "tags": [
+      "ai-machine-learning"
+    ],
+    "category": "ai-machine-learning",
+    "color": "#0078D4",
+    "description": "Face APIs Azure architecture icon (AI + Machine Learning).",
+    "fullname": "Face APIs",
+    "name": "face-apis"
+  },
+  {
+    "path": "icons/ai-machine-learning/form-recognizers.svg",
+    "tags": [
+      "ai-machine-learning"
+    ],
+    "category": "ai-machine-learning",
+    "color": "#0078D4",
+    "description": "Form Recognizers Azure architecture icon (AI + Machine Learning).",
+    "fullname": "Form Recognizers",
+    "name": "form-recognizers"
+  },
+  {
+    "path": "icons/ai-machine-learning/foundry-agent-service.svg",
+    "tags": [
+      "ai-machine-learning"
+    ],
+    "category": "ai-machine-learning",
+    "color": "#0078D4",
+    "description": "Foundry Agent Service Azure architecture icon (AI + Machine Learning).",
+    "fullname": "Foundry Agent Service",
+    "name": "foundry-agent-service"
+  },
+  {
+    "path": "icons/ai-machine-learning/foundry-application.svg",
+    "tags": [
+      "ai-machine-learning"
+    ],
+    "category": "ai-machine-learning",
+    "color": "#0078D4",
+    "description": "Foundry Application Azure architecture icon (AI + Machine Learning).",
+    "fullname": "Foundry Application",
+    "name": "foundry-application"
+  },
+  {
+    "path": "icons/ai-machine-learning/foundry-control-plane.svg",
+    "tags": [
+      "ai-machine-learning"
+    ],
+    "category": "ai-machine-learning",
+    "color": "#0078D4",
+    "description": "Foundry Control Plane Azure architecture icon (AI + Machine Learning).",
+    "fullname": "Foundry Control Plane",
+    "name": "foundry-control-plane"
+  },
+  {
+    "path": "icons/ai-machine-learning/foundry-labs.svg",
+    "tags": [
+      "ai-machine-learning"
+    ],
+    "category": "ai-machine-learning",
+    "color": "#0078D4",
+    "description": "Foundry Labs Azure architecture icon (AI + Machine Learning).",
+    "fullname": "Foundry Labs",
+    "name": "foundry-labs"
+  },
+  {
+    "path": "icons/ai-machine-learning/foundry-local.svg",
+    "tags": [
+      "ai-machine-learning"
+    ],
+    "category": "ai-machine-learning",
+    "color": "#0078D4",
+    "description": "Foundry Local Azure architecture icon (AI + Machine Learning).",
+    "fullname": "Foundry Local",
+    "name": "foundry-local"
+  },
+  {
+    "path": "icons/ai-machine-learning/foundry-models.svg",
+    "tags": [
+      "ai-machine-learning"
+    ],
+    "category": "ai-machine-learning",
+    "color": "#0078D4",
+    "description": "Foundry Models Azure architecture icon (AI + Machine Learning).",
+    "fullname": "Foundry Models",
+    "name": "foundry-models"
+  },
+  {
+    "path": "icons/ai-machine-learning/foundry-project.svg",
+    "tags": [
+      "ai-machine-learning"
+    ],
+    "category": "ai-machine-learning",
+    "color": "#0078D4",
+    "description": "Foundry Project Azure architecture icon (AI + Machine Learning).",
+    "fullname": "Foundry Project",
+    "name": "foundry-project"
+  },
+  {
+    "path": "icons/ai-machine-learning/frd-qa.svg",
+    "tags": [
+      "ai-machine-learning"
+    ],
+    "category": "ai-machine-learning",
+    "color": "#0078D4",
+    "description": "Frd Qa Azure architecture icon (AI + Machine Learning).",
+    "fullname": "Frd Qa",
+    "name": "frd-qa"
+  },
+  {
+    "path": "icons/ai-machine-learning/genomics.svg",
+    "tags": [
+      "ai-machine-learning"
+    ],
+    "category": "ai-machine-learning",
+    "color": "#0078D4",
+    "description": "Genomics Azure architecture icon (AI + Machine Learning).",
+    "fullname": "Genomics",
+    "name": "genomics"
+  },
+  {
+    "path": "icons/ai-machine-learning/genomics-accounts.svg",
+    "tags": [
+      "ai-machine-learning"
+    ],
+    "category": "ai-machine-learning",
+    "color": "#0078D4",
+    "description": "Genomics Accounts Azure architecture icon (AI + Machine Learning).",
+    "fullname": "Genomics Accounts",
+    "name": "genomics-accounts"
+  },
+  {
+    "path": "icons/ai-machine-learning/immersive-readers.svg",
+    "tags": [
+      "ai-machine-learning"
+    ],
+    "category": "ai-machine-learning",
+    "color": "#0078D4",
+    "description": "Immersive Readers Azure architecture icon (AI + Machine Learning).",
+    "fullname": "Immersive Readers",
+    "name": "immersive-readers"
+  },
+  {
+    "path": "icons/ai-machine-learning/language.svg",
+    "tags": [
+      "ai-machine-learning"
+    ],
+    "category": "ai-machine-learning",
+    "color": "#0078D4",
+    "description": "Language Azure architecture icon (AI + Machine Learning).",
+    "fullname": "Language",
+    "name": "language"
+  },
+  {
+    "path": "icons/ai-machine-learning/language-understanding.svg",
+    "tags": [
+      "ai-machine-learning"
+    ],
+    "category": "ai-machine-learning",
+    "color": "#0078D4",
+    "description": "Language Understanding Azure architecture icon (AI + Machine Learning).",
+    "fullname": "Language Understanding",
+    "name": "language-understanding"
+  },
+  {
+    "path": "icons/ai-machine-learning/machine-learning.svg",
+    "tags": [
+      "ai-machine-learning"
+    ],
+    "category": "ai-machine-learning",
+    "color": "#0078D4",
+    "description": "Machine Learning Azure architecture icon (AI + Machine Learning).",
+    "fullname": "Machine Learning",
+    "name": "machine-learning"
+  },
+  {
+    "path": "icons/ai-machine-learning/machine-learning-studio-classic-web-services.svg",
+    "tags": [
+      "ai-machine-learning"
+    ],
+    "category": "ai-machine-learning",
+    "color": "#0078D4",
+    "description": "Machine Learning Studio Classic Web Services Azure architecture icon (AI + Machine Learning).",
+    "fullname": "Machine Learning Studio Classic Web Services",
+    "name": "machine-learning-studio-classic-web-services"
+  },
+  {
+    "path": "icons/ai-machine-learning/machine-learning-studio-web-service-plans.svg",
+    "tags": [
+      "ai-machine-learning"
+    ],
+    "category": "ai-machine-learning",
+    "color": "#0078D4",
+    "description": "Machine Learning Studio Web Service Plans Azure architecture icon (AI + Machine Learning).",
+    "fullname": "Machine Learning Studio Web Service Plans",
+    "name": "machine-learning-studio-web-service-plans"
+  },
+  {
+    "path": "icons/ai-machine-learning/machine-learning-studio-workspaces.svg",
+    "tags": [
+      "ai-machine-learning"
+    ],
+    "category": "ai-machine-learning",
+    "color": "#0078D4",
+    "description": "Machine Learning Studio Workspaces Azure architecture icon (AI + Machine Learning).",
+    "fullname": "Machine Learning Studio Workspaces",
+    "name": "machine-learning-studio-workspaces"
+  },
+  {
+    "path": "icons/ai-machine-learning/personalizers.svg",
+    "tags": [
+      "ai-machine-learning"
+    ],
+    "category": "ai-machine-learning",
+    "color": "#0078D4",
+    "description": "Personalizers Azure architecture icon (AI + Machine Learning).",
+    "fullname": "Personalizers",
+    "name": "personalizers"
+  },
+  {
+    "path": "icons/ai-machine-learning/planetary-computer-pro.svg",
+    "tags": [
+      "ai-machine-learning"
+    ],
+    "category": "ai-machine-learning",
+    "color": "#0078D4",
+    "description": "Planetary Computer Pro Azure architecture icon (AI + Machine Learning).",
+    "fullname": "Planetary Computer Pro",
+    "name": "planetary-computer-pro"
+  },
+  {
+    "path": "icons/ai-machine-learning/qna-makers.svg",
+    "tags": [
+      "ai-machine-learning"
+    ],
+    "category": "ai-machine-learning",
+    "color": "#0078D4",
+    "description": "Qna Makers Azure architecture icon (AI + Machine Learning).",
+    "fullname": "Qna Makers",
+    "name": "qna-makers"
+  },
+  {
+    "path": "icons/ai-machine-learning/serverless-search.svg",
+    "tags": [
+      "ai-machine-learning"
+    ],
+    "category": "ai-machine-learning",
+    "color": "#0078D4",
+    "description": "Serverless Search Azure architecture icon (AI + Machine Learning).",
+    "fullname": "Serverless Search",
+    "name": "serverless-search"
+  },
+  {
+    "path": "icons/ai-machine-learning/speech-services.svg",
+    "tags": [
+      "ai-machine-learning"
+    ],
+    "category": "ai-machine-learning",
+    "color": "#0078D4",
+    "description": "Speech Services Azure architecture icon (AI + Machine Learning).",
+    "fullname": "Speech Services",
+    "name": "speech-services"
+  },
+  {
+    "path": "icons/ai-machine-learning/translator-text.svg",
+    "tags": [
+      "ai-machine-learning"
+    ],
+    "category": "ai-machine-learning",
+    "color": "#0078D4",
+    "description": "Translator Text Azure architecture icon (AI + Machine Learning).",
+    "fullname": "Translator Text",
+    "name": "translator-text"
+  },
+  {
+    "path": "icons/analytics/analysis-services.svg",
+    "tags": [
+      "analytics"
+    ],
+    "category": "analytics",
+    "color": "#0078D4",
+    "description": "Analysis Services Azure architecture icon (Analytics).",
+    "fullname": "Analysis Services",
+    "name": "analysis-services"
+  },
+  {
+    "path": "icons/analytics/azure-databricks.svg",
+    "tags": [
+      "analytics"
+    ],
+    "category": "analytics",
+    "color": "#0078D4",
+    "description": "Azure Databricks Azure architecture icon (Analytics).",
+    "fullname": "Azure Databricks",
+    "name": "azure-databricks"
+  },
+  {
+    "path": "icons/analytics/azure-workbooks.svg",
+    "tags": [
+      "analytics"
+    ],
+    "category": "analytics",
+    "color": "#0078D4",
+    "description": "Azure Workbooks Azure architecture icon (Analytics).",
+    "fullname": "Azure Workbooks",
+    "name": "azure-workbooks"
+  },
+  {
+    "path": "icons/analytics/data-lake-analytics.svg",
+    "tags": [
+      "analytics"
+    ],
+    "category": "analytics",
+    "color": "#0078D4",
+    "description": "Data Lake Analytics Azure architecture icon (Analytics).",
+    "fullname": "Data Lake Analytics",
+    "name": "data-lake-analytics"
+  },
+  {
+    "path": "icons/analytics/data-lake-store-gen1.svg",
+    "tags": [
+      "analytics"
+    ],
+    "category": "analytics",
+    "color": "#0078D4",
+    "description": "Data Lake Store Gen1 Azure architecture icon (Analytics).",
+    "fullname": "Data Lake Store Gen1",
+    "name": "data-lake-store-gen1"
+  },
+  {
+    "path": "icons/analytics/endpoint-analytics.svg",
+    "tags": [
+      "analytics"
+    ],
+    "category": "analytics",
+    "color": "#0078D4",
+    "description": "Endpoint Analytics Azure architecture icon (Analytics).",
+    "fullname": "Endpoint Analytics",
+    "name": "endpoint-analytics"
+  },
+  {
+    "path": "icons/analytics/event-hub-clusters.svg",
+    "tags": [
+      "analytics"
+    ],
+    "category": "analytics",
+    "color": "#0078D4",
+    "description": "Event Hub Clusters Azure architecture icon (Analytics).",
+    "fullname": "Event Hub Clusters",
+    "name": "event-hub-clusters"
+  },
+  {
+    "path": "icons/analytics/event-hubs.svg",
+    "tags": [
+      "analytics",
+      "messaging",
+      "streaming"
+    ],
+    "category": "analytics",
+    "color": "#0078D4",
+    "description": "Event Hubs Azure architecture icon (Analytics).",
+    "fullname": "Event Hubs",
+    "name": "event-hubs"
+  },
+  {
+    "path": "icons/analytics/hd-insight-clusters.svg",
+    "tags": [
+      "analytics"
+    ],
+    "category": "analytics",
+    "color": "#0078D4",
+    "description": "Hd Insight Clusters Azure architecture icon (Analytics).",
+    "fullname": "Hd Insight Clusters",
+    "name": "hd-insight-clusters"
+  },
+  {
+    "path": "icons/analytics/log-analytics-workspaces.svg",
+    "tags": [
+      "analytics"
+    ],
+    "category": "analytics",
+    "color": "#0078D4",
+    "description": "Log Analytics Workspaces Azure architecture icon (Analytics).",
+    "fullname": "Log Analytics Workspaces",
+    "name": "log-analytics-workspaces"
+  },
+  {
+    "path": "icons/analytics/power-bi-embedded.svg",
+    "tags": [
+      "analytics"
+    ],
+    "category": "analytics",
+    "color": "#0078D4",
+    "description": "Power Bi Embedded Azure architecture icon (Analytics).",
+    "fullname": "Power Bi Embedded",
+    "name": "power-bi-embedded"
+  },
+  {
+    "path": "icons/analytics/power-platform.svg",
+    "tags": [
+      "analytics"
+    ],
+    "category": "analytics",
+    "color": "#0078D4",
+    "description": "Power Platform Azure architecture icon (Analytics).",
+    "fullname": "Power Platform",
+    "name": "power-platform"
+  },
+  {
+    "path": "icons/analytics/stream-analytics-jobs.svg",
+    "tags": [
+      "analytics"
+    ],
+    "category": "analytics",
+    "color": "#0078D4",
+    "description": "Stream Analytics Jobs Azure architecture icon (Analytics).",
+    "fullname": "Stream Analytics Jobs",
+    "name": "stream-analytics-jobs"
+  },
+  {
+    "path": "icons/app-services/app-service-certificates.svg",
+    "tags": [
+      "app-services"
+    ],
+    "category": "app-services",
+    "color": "#0078D4",
+    "description": "App Service Certificates Azure architecture icon (App Services).",
+    "fullname": "App Service Certificates",
+    "name": "app-service-certificates"
+  },
+  {
+    "path": "icons/app-services/app-service-domains.svg",
+    "tags": [
+      "app-services"
+    ],
+    "category": "app-services",
+    "color": "#0078D4",
+    "description": "App Service Domains Azure architecture icon (App Services).",
+    "fullname": "App Service Domains",
+    "name": "app-service-domains"
+  },
+  {
+    "path": "icons/app-services/app-service-environments.svg",
+    "tags": [
+      "app-services"
+    ],
+    "category": "app-services",
+    "color": "#0078D4",
+    "description": "App Service Environments Azure architecture icon (App Services).",
+    "fullname": "App Service Environments",
+    "name": "app-service-environments"
+  },
+  {
+    "path": "icons/app-services/app-service-plans.svg",
+    "tags": [
+      "app-services"
+    ],
+    "category": "app-services",
+    "color": "#0078D4",
+    "description": "App Service Plans Azure architecture icon (App Services).",
+    "fullname": "App Service Plans",
+    "name": "app-service-plans"
+  },
+  {
+    "path": "icons/app-services/cognitive-search.svg",
+    "tags": [
+      "app-services"
+    ],
+    "category": "app-services",
+    "color": "#0078D4",
+    "description": "Cognitive Search Azure architecture icon (App Services).",
+    "fullname": "Cognitive Search",
+    "name": "cognitive-search"
+  },
+  {
+    "path": "icons/app-services/notification-hubs.svg",
+    "tags": [
+      "app-services"
+    ],
+    "category": "app-services",
+    "color": "#0078D4",
+    "description": "Notification Hubs Azure architecture icon (App Services).",
+    "fullname": "Notification Hubs",
+    "name": "notification-hubs"
+  },
+  {
+    "path": "icons/azure-ecosystem/applens.svg",
+    "tags": [
+      "azure-ecosystem"
+    ],
+    "category": "azure-ecosystem",
+    "color": "#0078D4",
+    "description": "Applens Azure architecture icon (Azure Ecosystem).",
+    "fullname": "Applens",
+    "name": "applens"
+  },
+  {
+    "path": "icons/azure-ecosystem/azure-hybrid-center.svg",
+    "tags": [
+      "azure-ecosystem"
+    ],
+    "category": "azure-ecosystem",
+    "color": "#0078D4",
+    "description": "Azure Hybrid Center Azure architecture icon (Azure Ecosystem).",
+    "fullname": "Azure Hybrid Center",
+    "name": "azure-hybrid-center"
+  },
+  {
+    "path": "icons/azure-ecosystem/collaborative-service.svg",
+    "tags": [
+      "azure-ecosystem"
+    ],
+    "category": "azure-ecosystem",
+    "color": "#0078D4",
+    "description": "Collaborative Service Azure architecture icon (Azure Ecosystem).",
+    "fullname": "Collaborative Service",
+    "name": "collaborative-service"
+  },
+  {
+    "path": "icons/blockchain/abs-member.svg",
+    "tags": [
+      "blockchain"
+    ],
+    "category": "blockchain",
+    "color": "#0078D4",
+    "description": "Abs Member Azure architecture icon (Blockchain).",
+    "fullname": "Abs Member",
+    "name": "abs-member"
+  },
+  {
+    "path": "icons/blockchain/azure-blockchain-service.svg",
+    "tags": [
+      "blockchain"
+    ],
+    "category": "blockchain",
+    "color": "#0078D4",
+    "description": "Azure Blockchain Service Azure architecture icon (Blockchain).",
+    "fullname": "Azure Blockchain Service",
+    "name": "azure-blockchain-service"
+  },
+  {
+    "path": "icons/blockchain/azure-token-service.svg",
+    "tags": [
+      "blockchain"
+    ],
+    "category": "blockchain",
+    "color": "#0078D4",
+    "description": "Azure Token Service Azure architecture icon (Blockchain).",
+    "fullname": "Azure Token Service",
+    "name": "azure-token-service"
+  },
+  {
+    "path": "icons/blockchain/blockchain-applications.svg",
+    "tags": [
+      "blockchain"
+    ],
+    "category": "blockchain",
+    "color": "#0078D4",
+    "description": "Blockchain Applications Azure architecture icon (Blockchain).",
+    "fullname": "Blockchain Applications",
+    "name": "blockchain-applications"
+  },
+  {
+    "path": "icons/blockchain/consortium.svg",
+    "tags": [
+      "blockchain"
+    ],
+    "category": "blockchain",
+    "color": "#0078D4",
+    "description": "Consortium Azure architecture icon (Blockchain).",
+    "fullname": "Consortium",
+    "name": "consortium"
+  },
+  {
+    "path": "icons/blockchain/outbound-connection.svg",
+    "tags": [
+      "blockchain"
+    ],
+    "category": "blockchain",
+    "color": "#0078D4",
+    "description": "Outbound Connection Azure architecture icon (Blockchain).",
+    "fullname": "Outbound Connection",
+    "name": "outbound-connection"
+  },
+  {
+    "path": "icons/compute/aks-automatic.svg",
+    "tags": [
+      "aks",
+      "compute",
+      "kubernetes"
+    ],
+    "category": "compute",
+    "color": "#0078D4",
+    "description": "AKS Automatic Azure architecture icon (Compute).",
+    "fullname": "AKS Automatic",
+    "name": "aks-automatic"
+  },
+  {
+    "path": "icons/compute/application-group.svg",
+    "tags": [
+      "compute"
+    ],
+    "category": "compute",
+    "color": "#0078D4",
+    "description": "Application Group Azure architecture icon (Compute).",
+    "fullname": "Application Group",
+    "name": "application-group"
+  },
+  {
+    "path": "icons/compute/automanaged-vm.svg",
+    "tags": [
+      "compute"
+    ],
+    "category": "compute",
+    "color": "#0078D4",
+    "description": "Automanaged VM Azure architecture icon (Compute).",
+    "fullname": "Automanaged VM",
+    "name": "automanaged-vm"
+  },
+  {
+    "path": "icons/compute/availability-sets.svg",
+    "tags": [
+      "compute"
+    ],
+    "category": "compute",
+    "color": "#0078D4",
+    "description": "Availability Sets Azure architecture icon (Compute).",
+    "fullname": "Availability Sets",
+    "name": "availability-sets"
+  },
+  {
+    "path": "icons/compute/azure-compute-galleries.svg",
+    "tags": [
+      "compute"
+    ],
+    "category": "compute",
+    "color": "#0078D4",
+    "description": "Azure Compute Galleries Azure architecture icon (Compute).",
+    "fullname": "Azure Compute Galleries",
+    "name": "azure-compute-galleries"
+  },
+  {
+    "path": "icons/compute/azure-linux.svg",
+    "tags": [
+      "compute"
+    ],
+    "category": "compute",
+    "color": "#0078D4",
+    "description": "Azure Linux Azure architecture icon (Compute).",
+    "fullname": "Azure Linux",
+    "name": "azure-linux"
+  },
+  {
+    "path": "icons/compute/azure-spring-apps.svg",
+    "tags": [
+      "compute"
+    ],
+    "category": "compute",
+    "color": "#0078D4",
+    "description": "Azure Spring Apps Azure architecture icon (Compute).",
+    "fullname": "Azure Spring Apps",
+    "name": "azure-spring-apps"
+  },
+  {
+    "path": "icons/compute/cloud-services-classic.svg",
+    "tags": [
+      "compute"
+    ],
+    "category": "compute",
+    "color": "#0078D4",
+    "description": "Cloud Services Classic Azure architecture icon (Compute).",
+    "fullname": "Cloud Services Classic",
+    "name": "cloud-services-classic"
+  },
+  {
+    "path": "icons/compute/compute-fleet.svg",
+    "tags": [
+      "compute"
+    ],
+    "category": "compute",
+    "color": "#0078D4",
+    "description": "Compute Fleet Azure architecture icon (Compute).",
+    "fullname": "Compute Fleet",
+    "name": "compute-fleet"
+  },
+  {
+    "path": "icons/compute/container-services-deprecated.svg",
+    "tags": [
+      "compute"
+    ],
+    "category": "compute",
+    "color": "#0078D4",
+    "description": "Container Services Deprecated Azure architecture icon (Compute).",
+    "fullname": "Container Services Deprecated",
+    "name": "container-services-deprecated"
+  },
+  {
+    "path": "icons/compute/disk-encryption-sets.svg",
+    "tags": [
+      "compute"
+    ],
+    "category": "compute",
+    "color": "#0078D4",
+    "description": "Disk Encryption Sets Azure architecture icon (Compute).",
+    "fullname": "Disk Encryption Sets",
+    "name": "disk-encryption-sets"
+  },
+  {
+    "path": "icons/compute/disks.svg",
+    "tags": [
+      "compute"
+    ],
+    "category": "compute",
+    "color": "#0078D4",
+    "description": "Disks Azure architecture icon (Compute).",
+    "fullname": "Disks",
+    "name": "disks"
+  },
+  {
+    "path": "icons/compute/disks-classic.svg",
+    "tags": [
+      "compute"
+    ],
+    "category": "compute",
+    "color": "#0078D4",
+    "description": "Disks Classic Azure architecture icon (Compute).",
+    "fullname": "Disks Classic",
+    "name": "disks-classic"
+  },
+  {
+    "path": "icons/compute/disks-snapshots.svg",
+    "tags": [
+      "compute"
+    ],
+    "category": "compute",
+    "color": "#0078D4",
+    "description": "Disks Snapshots Azure architecture icon (Compute).",
+    "fullname": "Disks Snapshots",
+    "name": "disks-snapshots"
+  },
+  {
+    "path": "icons/compute/function-apps.svg",
+    "tags": [
+      "compute",
+      "functions",
+      "serverless"
+    ],
+    "category": "compute",
+    "color": "#0078D4",
+    "description": "Function Apps Azure architecture icon (Compute).",
+    "fullname": "Function Apps",
+    "name": "function-apps"
+  },
+  {
+    "path": "icons/compute/host-groups.svg",
+    "tags": [
+      "compute"
+    ],
+    "category": "compute",
+    "color": "#0078D4",
+    "description": "Host Groups Azure architecture icon (Compute).",
+    "fullname": "Host Groups",
+    "name": "host-groups"
+  },
+  {
+    "path": "icons/compute/host-pools.svg",
+    "tags": [
+      "compute"
+    ],
+    "category": "compute",
+    "color": "#0078D4",
+    "description": "Host Pools Azure architecture icon (Compute).",
+    "fullname": "Host Pools",
+    "name": "host-pools"
+  },
+  {
+    "path": "icons/compute/hosts.svg",
+    "tags": [
+      "compute"
+    ],
+    "category": "compute",
+    "color": "#0078D4",
+    "description": "Hosts Azure architecture icon (Compute).",
+    "fullname": "Hosts",
+    "name": "hosts"
+  },
+  {
+    "path": "icons/compute/image-definitions.svg",
+    "tags": [
+      "compute"
+    ],
+    "category": "compute",
+    "color": "#0078D4",
+    "description": "Image Definitions Azure architecture icon (Compute).",
+    "fullname": "Image Definitions",
+    "name": "image-definitions"
+  },
+  {
+    "path": "icons/compute/image-templates.svg",
+    "tags": [
+      "compute"
+    ],
+    "category": "compute",
+    "color": "#0078D4",
+    "description": "Image Templates Azure architecture icon (Compute).",
+    "fullname": "Image Templates",
+    "name": "image-templates"
+  },
+  {
+    "path": "icons/compute/image-versions.svg",
+    "tags": [
+      "compute"
+    ],
+    "category": "compute",
+    "color": "#0078D4",
+    "description": "Image Versions Azure architecture icon (Compute).",
+    "fullname": "Image Versions",
+    "name": "image-versions"
+  },
+  {
+    "path": "icons/compute/images.svg",
+    "tags": [
+      "compute"
+    ],
+    "category": "compute",
+    "color": "#0078D4",
+    "description": "Images Azure architecture icon (Compute).",
+    "fullname": "Images",
+    "name": "images"
+  },
+  {
+    "path": "icons/compute/maintenance-configuration.svg",
+    "tags": [
+      "compute"
+    ],
+    "category": "compute",
+    "color": "#0078D4",
+    "description": "Maintenance Configuration Azure architecture icon (Compute).",
+    "fullname": "Maintenance Configuration",
+    "name": "maintenance-configuration"
+  },
+  {
+    "path": "icons/compute/managed-service-fabric.svg",
+    "tags": [
+      "compute"
+    ],
+    "category": "compute",
+    "color": "#0078D4",
+    "description": "Managed Service Fabric Azure architecture icon (Compute).",
+    "fullname": "Managed Service Fabric",
+    "name": "managed-service-fabric"
+  },
+  {
+    "path": "icons/compute/mesh-applications.svg",
+    "tags": [
+      "compute"
+    ],
+    "category": "compute",
+    "color": "#0078D4",
+    "description": "Mesh Applications Azure architecture icon (Compute).",
+    "fullname": "Mesh Applications",
+    "name": "mesh-applications"
+  },
+  {
+    "path": "icons/compute/metrics-advisor.svg",
+    "tags": [
+      "compute"
+    ],
+    "category": "compute",
+    "color": "#0078D4",
+    "description": "Metrics Advisor Azure architecture icon (Compute).",
+    "fullname": "Metrics Advisor",
+    "name": "metrics-advisor"
+  },
+  {
+    "path": "icons/compute/os-images-classic.svg",
+    "tags": [
+      "compute"
+    ],
+    "category": "compute",
+    "color": "#0078D4",
+    "description": "Os Images Classic Azure architecture icon (Compute).",
+    "fullname": "Os Images Classic",
+    "name": "os-images-classic"
+  },
+  {
+    "path": "icons/compute/restore-points.svg",
+    "tags": [
+      "compute"
+    ],
+    "category": "compute",
+    "color": "#0078D4",
+    "description": "Restore Points Azure architecture icon (Compute).",
+    "fullname": "Restore Points",
+    "name": "restore-points"
+  },
+  {
+    "path": "icons/compute/restore-points-collections.svg",
+    "tags": [
+      "compute"
+    ],
+    "category": "compute",
+    "color": "#0078D4",
+    "description": "Restore Points Collections Azure architecture icon (Compute).",
+    "fullname": "Restore Points Collections",
+    "name": "restore-points-collections"
+  },
+  {
+    "path": "icons/compute/scheduled-actions.svg",
+    "tags": [
+      "compute"
+    ],
+    "category": "compute",
+    "color": "#0078D4",
+    "description": "Scheduled Actions Azure architecture icon (Compute).",
+    "fullname": "Scheduled Actions",
+    "name": "scheduled-actions"
+  },
+  {
+    "path": "icons/compute/shared-image-galleries.svg",
+    "tags": [
+      "compute"
+    ],
+    "category": "compute",
+    "color": "#0078D4",
+    "description": "Shared Image Galleries Azure architecture icon (Compute).",
+    "fullname": "Shared Image Galleries",
+    "name": "shared-image-galleries"
+  },
+  {
+    "path": "icons/compute/stage-maps.svg",
+    "tags": [
+      "compute"
+    ],
+    "category": "compute",
+    "color": "#0078D4",
+    "description": "Stage Maps Azure architecture icon (Compute).",
+    "fullname": "Stage Maps",
+    "name": "stage-maps"
+  },
+  {
+    "path": "icons/compute/virtual-machine.svg",
+    "tags": [
+      "compute"
+    ],
+    "category": "compute",
+    "color": "#0078D4",
+    "description": "Virtual Machine Azure architecture icon (Compute).",
+    "fullname": "Virtual Machine",
+    "name": "virtual-machine"
+  },
+  {
+    "path": "icons/compute/virtual-machines-classic.svg",
+    "tags": [
+      "compute"
+    ],
+    "category": "compute",
+    "color": "#0078D4",
+    "description": "Virtual Machines Classic Azure architecture icon (Compute).",
+    "fullname": "Virtual Machines Classic",
+    "name": "virtual-machines-classic"
+  },
+  {
+    "path": "icons/compute/vm-images-classic.svg",
+    "tags": [
+      "compute"
+    ],
+    "category": "compute",
+    "color": "#0078D4",
+    "description": "VM Images Classic Azure architecture icon (Compute).",
+    "fullname": "VM Images Classic",
+    "name": "vm-images-classic"
+  },
+  {
+    "path": "icons/compute/vm-scale-sets.svg",
+    "tags": [
+      "compute"
+    ],
+    "category": "compute",
+    "color": "#0078D4",
+    "description": "VM Scale Sets Azure architecture icon (Compute).",
+    "fullname": "VM Scale Sets",
+    "name": "vm-scale-sets"
+  },
+  {
+    "path": "icons/compute/workspaces.svg",
+    "tags": [
+      "compute"
+    ],
+    "category": "compute",
+    "color": "#0078D4",
+    "description": "Workspaces Azure architecture icon (Compute).",
+    "fullname": "Workspaces",
+    "name": "workspaces"
+  },
+  {
+    "path": "icons/compute/workspaces-00400.svg",
+    "tags": [
+      "compute"
+    ],
+    "category": "compute",
+    "color": "#0078D4",
+    "description": "Workspaces 00400 Azure architecture icon (Compute).",
+    "fullname": "Workspaces 00400",
+    "name": "workspaces-00400"
+  },
+  {
+    "path": "icons/containers/aks-network-policy.svg",
+    "tags": [
+      "containers"
+    ],
+    "category": "containers",
+    "color": "#0078D4",
+    "description": "AKS Network Policy Azure architecture icon (Containers).",
+    "fullname": "AKS Network Policy",
+    "name": "aks-network-policy"
+  },
+  {
+    "path": "icons/containers/app-services.svg",
+    "tags": [
+      "app-service",
+      "containers",
+      "webapp"
+    ],
+    "category": "containers",
+    "color": "#0078D4",
+    "description": "App Services Azure architecture icon (Containers).",
+    "fullname": "App Services",
+    "name": "app-services"
+  },
+  {
+    "path": "icons/containers/azure-container-storage.svg",
+    "tags": [
+      "containers"
+    ],
+    "category": "containers",
+    "color": "#0078D4",
+    "description": "Azure Container Storage Azure architecture icon (Containers).",
+    "fullname": "Azure Container Storage",
+    "name": "azure-container-storage"
+  },
+  {
+    "path": "icons/containers/azure-red-hat-openshift.svg",
+    "tags": [
+      "containers"
+    ],
+    "category": "containers",
+    "color": "#0078D4",
+    "description": "Azure Red Hat Openshift Azure architecture icon (Containers).",
+    "fullname": "Azure Red Hat Openshift",
+    "name": "azure-red-hat-openshift"
+  },
+  {
+    "path": "icons/containers/batch-accounts.svg",
+    "tags": [
+      "containers"
+    ],
+    "category": "containers",
+    "color": "#0078D4",
+    "description": "Batch Accounts Azure architecture icon (Containers).",
+    "fullname": "Batch Accounts",
+    "name": "batch-accounts"
+  },
+  {
+    "path": "icons/containers/container-instances.svg",
+    "tags": [
+      "containers"
+    ],
+    "category": "containers",
+    "color": "#0078D4",
+    "description": "Container Instances Azure architecture icon (Containers).",
+    "fullname": "Container Instances",
+    "name": "container-instances"
+  },
+  {
+    "path": "icons/containers/container-registries.svg",
+    "tags": [
+      "acr",
+      "containers",
+      "registry"
+    ],
+    "category": "containers",
+    "color": "#0078D4",
+    "description": "Container Registries Azure architecture icon (Containers).",
+    "fullname": "Container Registries",
+    "name": "container-registries"
+  },
+  {
+    "path": "icons/containers/kubernetes-hub.svg",
+    "tags": [
+      "containers"
+    ],
+    "category": "containers",
+    "color": "#0078D4",
+    "description": "Kubernetes Hub Azure architecture icon (Containers).",
+    "fullname": "Kubernetes Hub",
+    "name": "kubernetes-hub"
+  },
+  {
+    "path": "icons/containers/kubernetes-services.svg",
+    "tags": [
+      "aks",
+      "containers",
+      "k8s",
+      "kubernetes"
+    ],
+    "category": "containers",
+    "color": "#0078D4",
+    "description": "Kubernetes Services Azure architecture icon (Containers).",
+    "fullname": "Kubernetes Services",
+    "name": "kubernetes-services"
+  },
+  {
+    "path": "icons/containers/service-fabric-clusters.svg",
+    "tags": [
+      "containers"
+    ],
+    "category": "containers",
+    "color": "#0078D4",
+    "description": "Service Fabric Clusters Azure architecture icon (Containers).",
+    "fullname": "Service Fabric Clusters",
+    "name": "service-fabric-clusters"
+  },
+  {
+    "path": "icons/containers/service-groups.svg",
+    "tags": [
+      "containers"
+    ],
+    "category": "containers",
+    "color": "#0078D4",
+    "description": "Service Groups Azure architecture icon (Containers).",
+    "fullname": "Service Groups",
+    "name": "service-groups"
+  },
+  {
+    "path": "icons/databases/azure-cosmos-db.svg",
+    "tags": [
+      "cosmos",
+      "databases",
+      "nosql"
+    ],
+    "category": "databases",
+    "color": "#0078D4",
+    "description": "Azure Cosmos DB Azure architecture icon (Databases).",
+    "fullname": "Azure Cosmos DB",
+    "name": "azure-cosmos-db"
+  },
+  {
+    "path": "icons/databases/azure-data-explorer-clusters.svg",
+    "tags": [
+      "databases"
+    ],
+    "category": "databases",
+    "color": "#0078D4",
+    "description": "Azure Data Explorer Clusters Azure architecture icon (Databases).",
+    "fullname": "Azure Data Explorer Clusters",
+    "name": "azure-data-explorer-clusters"
+  },
+  {
+    "path": "icons/databases/azure-database-mariadb-server.svg",
+    "tags": [
+      "databases"
+    ],
+    "category": "databases",
+    "color": "#0078D4",
+    "description": "Azure Database Mariadb Server Azure architecture icon (Databases).",
+    "fullname": "Azure Database Mariadb Server",
+    "name": "azure-database-mariadb-server"
+  },
+  {
+    "path": "icons/databases/azure-database-migration-services.svg",
+    "tags": [
+      "databases"
+    ],
+    "category": "databases",
+    "color": "#0078D4",
+    "description": "Azure Database Migration Services Azure architecture icon (Databases).",
+    "fullname": "Azure Database Migration Services",
+    "name": "azure-database-migration-services"
+  },
+  {
+    "path": "icons/databases/azure-database-mysql-server.svg",
+    "tags": [
+      "databases"
+    ],
+    "category": "databases",
+    "color": "#0078D4",
+    "description": "Azure Database Mysql Server Azure architecture icon (Databases).",
+    "fullname": "Azure Database Mysql Server",
+    "name": "azure-database-mysql-server"
+  },
+  {
+    "path": "icons/databases/azure-database-postgresql-server.svg",
+    "tags": [
+      "databases"
+    ],
+    "category": "databases",
+    "color": "#0078D4",
+    "description": "Azure Database Postgresql Server Azure architecture icon (Databases).",
+    "fullname": "Azure Database Postgresql Server",
+    "name": "azure-database-postgresql-server"
+  },
+  {
+    "path": "icons/databases/azure-database-postgresql-server-group.svg",
+    "tags": [
+      "databases"
+    ],
+    "category": "databases",
+    "color": "#0078D4",
+    "description": "Azure Database Postgresql Server Group Azure architecture icon (Databases).",
+    "fullname": "Azure Database Postgresql Server Group",
+    "name": "azure-database-postgresql-server-group"
+  },
+  {
+    "path": "icons/databases/azure-documentdb.svg",
+    "tags": [
+      "databases"
+    ],
+    "category": "databases",
+    "color": "#0078D4",
+    "description": "Azure Documentdb Azure architecture icon (Databases).",
+    "fullname": "Azure Documentdb",
+    "name": "azure-documentdb"
+  },
+  {
+    "path": "icons/databases/azure-managed-redis.svg",
+    "tags": [
+      "databases"
+    ],
+    "category": "databases",
+    "color": "#0078D4",
+    "description": "Azure Managed Redis Azure architecture icon (Databases).",
+    "fullname": "Azure Managed Redis",
+    "name": "azure-managed-redis"
+  },
+  {
+    "path": "icons/databases/azure-sql.svg",
+    "tags": [
+      "databases"
+    ],
+    "category": "databases",
+    "color": "#0078D4",
+    "description": "Azure SQL Azure architecture icon (Databases).",
+    "fullname": "Azure SQL",
+    "name": "azure-sql"
+  },
+  {
+    "path": "icons/databases/azure-sql-edge.svg",
+    "tags": [
+      "databases"
+    ],
+    "category": "databases",
+    "color": "#0078D4",
+    "description": "Azure SQL Edge Azure architecture icon (Databases).",
+    "fullname": "Azure SQL Edge",
+    "name": "azure-sql-edge"
+  },
+  {
+    "path": "icons/databases/azure-sql-server-stretch-databases.svg",
+    "tags": [
+      "databases"
+    ],
+    "category": "databases",
+    "color": "#0078D4",
+    "description": "Azure SQL Server Stretch Databases Azure architecture icon (Databases).",
+    "fullname": "Azure SQL Server Stretch Databases",
+    "name": "azure-sql-server-stretch-databases"
+  },
+  {
+    "path": "icons/databases/azure-sql-vm.svg",
+    "tags": [
+      "databases"
+    ],
+    "category": "databases",
+    "color": "#0078D4",
+    "description": "Azure SQL VM Azure architecture icon (Databases).",
+    "fullname": "Azure SQL VM",
+    "name": "azure-sql-vm"
+  },
+  {
+    "path": "icons/databases/azure-synapse-analytics.svg",
+    "tags": [
+      "databases"
+    ],
+    "category": "databases",
+    "color": "#0078D4",
+    "description": "Azure Synapse Analytics Azure architecture icon (Databases).",
+    "fullname": "Azure Synapse Analytics",
+    "name": "azure-synapse-analytics"
+  },
+  {
+    "path": "icons/databases/cache-redis.svg",
+    "tags": [
+      "databases"
+    ],
+    "category": "databases",
+    "color": "#0078D4",
+    "description": "Cache Redis Azure architecture icon (Databases).",
+    "fullname": "Cache Redis",
+    "name": "cache-redis"
+  },
+  {
+    "path": "icons/databases/data-factories.svg",
+    "tags": [
+      "databases"
+    ],
+    "category": "databases",
+    "color": "#0078D4",
+    "description": "Data Factories Azure architecture icon (Databases).",
+    "fullname": "Data Factories",
+    "name": "data-factories"
+  },
+  {
+    "path": "icons/databases/elastic-job-agents.svg",
+    "tags": [
+      "databases"
+    ],
+    "category": "databases",
+    "color": "#0078D4",
+    "description": "Elastic Job Agents Azure architecture icon (Databases).",
+    "fullname": "Elastic Job Agents",
+    "name": "elastic-job-agents"
+  },
+  {
+    "path": "icons/databases/instance-pools.svg",
+    "tags": [
+      "databases"
+    ],
+    "category": "databases",
+    "color": "#0078D4",
+    "description": "Instance Pools Azure architecture icon (Databases).",
+    "fullname": "Instance Pools",
+    "name": "instance-pools"
+  },
+  {
+    "path": "icons/databases/managed-database.svg",
+    "tags": [
+      "databases"
+    ],
+    "category": "databases",
+    "color": "#0078D4",
+    "description": "Managed Database Azure architecture icon (Databases).",
+    "fullname": "Managed Database",
+    "name": "managed-database"
+  },
+  {
+    "path": "icons/databases/oracle-database.svg",
+    "tags": [
+      "databases"
+    ],
+    "category": "databases",
+    "color": "#0078D4",
+    "description": "Oracle Database Azure architecture icon (Databases).",
+    "fullname": "Oracle Database",
+    "name": "oracle-database"
+  },
+  {
+    "path": "icons/databases/sql-data-warehouses.svg",
+    "tags": [
+      "databases"
+    ],
+    "category": "databases",
+    "color": "#0078D4",
+    "description": "SQL Data Warehouses Azure architecture icon (Databases).",
+    "fullname": "SQL Data Warehouses",
+    "name": "sql-data-warehouses"
+  },
+  {
+    "path": "icons/databases/sql-database.svg",
+    "tags": [
+      "database",
+      "databases",
+      "mssql"
+    ],
+    "category": "databases",
+    "color": "#0078D4",
+    "description": "SQL Database Azure architecture icon (Databases).",
+    "fullname": "SQL Database",
+    "name": "sql-database"
+  },
+  {
+    "path": "icons/databases/sql-database-fleet-manager.svg",
+    "tags": [
+      "databases"
+    ],
+    "category": "databases",
+    "color": "#0078D4",
+    "description": "SQL Database Fleet Manager Azure architecture icon (Databases).",
+    "fullname": "SQL Database Fleet Manager",
+    "name": "sql-database-fleet-manager"
+  },
+  {
+    "path": "icons/databases/sql-elastic-pools.svg",
+    "tags": [
+      "databases"
+    ],
+    "category": "databases",
+    "color": "#0078D4",
+    "description": "SQL Elastic Pools Azure architecture icon (Databases).",
+    "fullname": "SQL Elastic Pools",
+    "name": "sql-elastic-pools"
+  },
+  {
+    "path": "icons/databases/sql-managed-instance.svg",
+    "tags": [
+      "databases"
+    ],
+    "category": "databases",
+    "color": "#0078D4",
+    "description": "SQL Managed Instance Azure architecture icon (Databases).",
+    "fullname": "SQL Managed Instance",
+    "name": "sql-managed-instance"
+  },
+  {
+    "path": "icons/databases/sql-server.svg",
+    "tags": [
+      "databases"
+    ],
+    "category": "databases",
+    "color": "#0078D4",
+    "description": "SQL Server Azure architecture icon (Databases).",
+    "fullname": "SQL Server",
+    "name": "sql-server"
+  },
+  {
+    "path": "icons/databases/sql-server-registries.svg",
+    "tags": [
+      "databases"
+    ],
+    "category": "databases",
+    "color": "#0078D4",
+    "description": "SQL Server Registries Azure architecture icon (Databases).",
+    "fullname": "SQL Server Registries",
+    "name": "sql-server-registries"
+  },
+  {
+    "path": "icons/databases/ssis-lift-and-shift-ir.svg",
+    "tags": [
+      "databases"
+    ],
+    "category": "databases",
+    "color": "#0078D4",
+    "description": "Ssis Lift And Shift Ir Azure architecture icon (Databases).",
+    "fullname": "Ssis Lift And Shift Ir",
+    "name": "ssis-lift-and-shift-ir"
+  },
+  {
+    "path": "icons/databases/virtual-clusters.svg",
+    "tags": [
+      "databases"
+    ],
+    "category": "databases",
+    "color": "#0078D4",
+    "description": "Virtual Clusters Azure architecture icon (Databases).",
+    "fullname": "Virtual Clusters",
+    "name": "virtual-clusters"
+  },
+  {
+    "path": "icons/developer-tools/azure-app-testing.svg",
+    "tags": [
+      "developer-tools"
+    ],
+    "category": "developer-tools",
+    "color": "#0078D4",
+    "description": "Azure App Testing Azure architecture icon (Developer Tools).",
+    "fullname": "Azure App Testing",
+    "name": "azure-app-testing"
+  },
+  {
+    "path": "icons/devops/api-connections.svg",
+    "tags": [
+      "devops"
+    ],
+    "category": "devops",
+    "color": "#0078D4",
+    "description": "API Connections Azure architecture icon (DevOps).",
+    "fullname": "API Connections",
+    "name": "api-connections"
+  },
+  {
+    "path": "icons/devops/api-management-services.svg",
+    "tags": [
+      "apim",
+      "devops",
+      "gateway"
+    ],
+    "category": "devops",
+    "color": "#0078D4",
+    "description": "API Management Services Azure architecture icon (DevOps).",
+    "fullname": "API Management Services",
+    "name": "api-management-services"
+  },
+  {
+    "path": "icons/devops/application-insights.svg",
+    "tags": [
+      "devops"
+    ],
+    "category": "devops",
+    "color": "#0078D4",
+    "description": "Application Insights Azure architecture icon (DevOps).",
+    "fullname": "Application Insights",
+    "name": "application-insights"
+  },
+  {
+    "path": "icons/devops/azure-devops.svg",
+    "tags": [
+      "devops"
+    ],
+    "category": "devops",
+    "color": "#0078D4",
+    "description": "Azure Devops Azure architecture icon (DevOps).",
+    "fullname": "Azure Devops",
+    "name": "azure-devops"
+  },
+  {
+    "path": "icons/devops/change-analysis.svg",
+    "tags": [
+      "devops"
+    ],
+    "category": "devops",
+    "color": "#0078D4",
+    "description": "Change Analysis Azure architecture icon (DevOps).",
+    "fullname": "Change Analysis",
+    "name": "change-analysis"
+  },
+  {
+    "path": "icons/devops/cloudtest.svg",
+    "tags": [
+      "devops"
+    ],
+    "category": "devops",
+    "color": "#0078D4",
+    "description": "Cloudtest Azure architecture icon (DevOps).",
+    "fullname": "Cloudtest",
+    "name": "cloudtest"
+  },
+  {
+    "path": "icons/devops/code-optimization.svg",
+    "tags": [
+      "devops"
+    ],
+    "category": "devops",
+    "color": "#0078D4",
+    "description": "Code Optimization Azure architecture icon (DevOps).",
+    "fullname": "Code Optimization",
+    "name": "code-optimization"
+  },
+  {
+    "path": "icons/devops/devops-starter.svg",
+    "tags": [
+      "devops"
+    ],
+    "category": "devops",
+    "color": "#0078D4",
+    "description": "Devops Starter Azure architecture icon (DevOps).",
+    "fullname": "Devops Starter",
+    "name": "devops-starter"
+  },
+  {
+    "path": "icons/devops/devtest-labs.svg",
+    "tags": [
+      "devops"
+    ],
+    "category": "devops",
+    "color": "#0078D4",
+    "description": "Devtest Labs Azure architecture icon (DevOps).",
+    "fullname": "Devtest Labs",
+    "name": "devtest-labs"
+  },
+  {
+    "path": "icons/devops/lab-accounts.svg",
+    "tags": [
+      "devops"
+    ],
+    "category": "devops",
+    "color": "#0078D4",
+    "description": "Lab Accounts Azure architecture icon (DevOps).",
+    "fullname": "Lab Accounts",
+    "name": "lab-accounts"
+  },
+  {
+    "path": "icons/devops/lab-services.svg",
+    "tags": [
+      "devops"
+    ],
+    "category": "devops",
+    "color": "#0078D4",
+    "description": "Lab Services Azure architecture icon (DevOps).",
+    "fullname": "Lab Services",
+    "name": "lab-services"
+  },
+  {
+    "path": "icons/devops/load-testing.svg",
+    "tags": [
+      "devops"
+    ],
+    "category": "devops",
+    "color": "#0078D4",
+    "description": "Load Testing Azure architecture icon (DevOps).",
+    "fullname": "Load Testing",
+    "name": "load-testing"
+  },
+  {
+    "path": "icons/devops/managed-devops-pools.svg",
+    "tags": [
+      "devops"
+    ],
+    "category": "devops",
+    "color": "#0078D4",
+    "description": "Managed Devops Pools Azure architecture icon (DevOps).",
+    "fullname": "Managed Devops Pools",
+    "name": "managed-devops-pools"
+  },
+  {
+    "path": "icons/devops/workspace-gateway.svg",
+    "tags": [
+      "devops"
+    ],
+    "category": "devops",
+    "color": "#0078D4",
+    "description": "Workspace Gateway Azure architecture icon (DevOps).",
+    "fullname": "Workspace Gateway",
+    "name": "workspace-gateway"
+  },
+  {
+    "path": "icons/general/all-resources.svg",
+    "tags": [
+      "general"
+    ],
+    "category": "general",
+    "color": "#0078D4",
+    "description": "All Resources Azure architecture icon (General).",
+    "fullname": "All Resources",
+    "name": "all-resources"
+  },
+  {
+    "path": "icons/general/backlog.svg",
+    "tags": [
+      "general"
+    ],
+    "category": "general",
+    "color": "#0078D4",
+    "description": "Backlog Azure architecture icon (General).",
+    "fullname": "Backlog",
+    "name": "backlog"
+  },
+  {
+    "path": "icons/general/biz-talk.svg",
+    "tags": [
+      "general"
+    ],
+    "category": "general",
+    "color": "#0078D4",
+    "description": "Biz Talk Azure architecture icon (General).",
+    "fullname": "Biz Talk",
+    "name": "biz-talk"
+  },
+  {
+    "path": "icons/general/blob-block.svg",
+    "tags": [
+      "general"
+    ],
+    "category": "general",
+    "color": "#0078D4",
+    "description": "Blob Block Azure architecture icon (General).",
+    "fullname": "Blob Block",
+    "name": "blob-block"
+  },
+  {
+    "path": "icons/general/blob-page.svg",
+    "tags": [
+      "general"
+    ],
+    "category": "general",
+    "color": "#0078D4",
+    "description": "Blob Page Azure architecture icon (General).",
+    "fullname": "Blob Page",
+    "name": "blob-page"
+  },
+  {
+    "path": "icons/general/branch.svg",
+    "tags": [
+      "general"
+    ],
+    "category": "general",
+    "color": "#0078D4",
+    "description": "Branch Azure architecture icon (General).",
+    "fullname": "Branch",
+    "name": "branch"
+  },
+  {
+    "path": "icons/general/browser.svg",
+    "tags": [
+      "general"
+    ],
+    "category": "general",
+    "color": "#0078D4",
+    "description": "Browser Azure architecture icon (General).",
+    "fullname": "Browser",
+    "name": "browser"
+  },
+  {
+    "path": "icons/general/bug.svg",
+    "tags": [
+      "general"
+    ],
+    "category": "general",
+    "color": "#0078D4",
+    "description": "Bug Azure architecture icon (General).",
+    "fullname": "Bug",
+    "name": "bug"
+  },
+  {
+    "path": "icons/general/builds.svg",
+    "tags": [
+      "general"
+    ],
+    "category": "general",
+    "color": "#0078D4",
+    "description": "Builds Azure architecture icon (General).",
+    "fullname": "Builds",
+    "name": "builds"
+  },
+  {
+    "path": "icons/general/cache.svg",
+    "tags": [
+      "general"
+    ],
+    "category": "general",
+    "color": "#0078D4",
+    "description": "Cache Azure architecture icon (General).",
+    "fullname": "Cache",
+    "name": "cache"
+  },
+  {
+    "path": "icons/general/code.svg",
+    "tags": [
+      "general"
+    ],
+    "category": "general",
+    "color": "#0078D4",
+    "description": "Code Azure architecture icon (General).",
+    "fullname": "Code",
+    "name": "code"
+  },
+  {
+    "path": "icons/general/commit.svg",
+    "tags": [
+      "general"
+    ],
+    "category": "general",
+    "color": "#0078D4",
+    "description": "Commit Azure architecture icon (General).",
+    "fullname": "Commit",
+    "name": "commit"
+  },
+  {
+    "path": "icons/general/controls.svg",
+    "tags": [
+      "general"
+    ],
+    "category": "general",
+    "color": "#0078D4",
+    "description": "Controls Azure architecture icon (General).",
+    "fullname": "Controls",
+    "name": "controls"
+  },
+  {
+    "path": "icons/general/controls-horizontal.svg",
+    "tags": [
+      "general"
+    ],
+    "category": "general",
+    "color": "#0078D4",
+    "description": "Controls Horizontal Azure architecture icon (General).",
+    "fullname": "Controls Horizontal",
+    "name": "controls-horizontal"
+  },
+  {
+    "path": "icons/general/cost-alerts.svg",
+    "tags": [
+      "general"
+    ],
+    "category": "general",
+    "color": "#0078D4",
+    "description": "Cost Alerts Azure architecture icon (General).",
+    "fullname": "Cost Alerts",
+    "name": "cost-alerts"
+  },
+  {
+    "path": "icons/general/cost-analysis.svg",
+    "tags": [
+      "general"
+    ],
+    "category": "general",
+    "color": "#0078D4",
+    "description": "Cost Analysis Azure architecture icon (General).",
+    "fullname": "Cost Analysis",
+    "name": "cost-analysis"
+  },
+  {
+    "path": "icons/general/cost-budgets.svg",
+    "tags": [
+      "general"
+    ],
+    "category": "general",
+    "color": "#0078D4",
+    "description": "Cost Budgets Azure architecture icon (General).",
+    "fullname": "Cost Budgets",
+    "name": "cost-budgets"
+  },
+  {
+    "path": "icons/general/cost-management.svg",
+    "tags": [
+      "general"
+    ],
+    "category": "general",
+    "color": "#0078D4",
+    "description": "Cost Management Azure architecture icon (General).",
+    "fullname": "Cost Management",
+    "name": "cost-management"
+  },
+  {
+    "path": "icons/general/counter.svg",
+    "tags": [
+      "general"
+    ],
+    "category": "general",
+    "color": "#0078D4",
+    "description": "Counter Azure architecture icon (General).",
+    "fullname": "Counter",
+    "name": "counter"
+  },
+  {
+    "path": "icons/general/cubes.svg",
+    "tags": [
+      "general"
+    ],
+    "category": "general",
+    "color": "#0078D4",
+    "description": "Cubes Azure architecture icon (General).",
+    "fullname": "Cubes",
+    "name": "cubes"
+  },
+  {
+    "path": "icons/general/dashboard.svg",
+    "tags": [
+      "general"
+    ],
+    "category": "general",
+    "color": "#0078D4",
+    "description": "Dashboard Azure architecture icon (General).",
+    "fullname": "Dashboard",
+    "name": "dashboard"
+  },
+  {
+    "path": "icons/general/dev-console.svg",
+    "tags": [
+      "general"
+    ],
+    "category": "general",
+    "color": "#0078D4",
+    "description": "Dev Console Azure architecture icon (General).",
+    "fullname": "Dev Console",
+    "name": "dev-console"
+  },
+  {
+    "path": "icons/general/download.svg",
+    "tags": [
+      "general"
+    ],
+    "category": "general",
+    "color": "#0078D4",
+    "description": "Download Azure architecture icon (General).",
+    "fullname": "Download",
+    "name": "download"
+  },
+  {
+    "path": "icons/general/error.svg",
+    "tags": [
+      "general"
+    ],
+    "category": "general",
+    "color": "#0078D4",
+    "description": "Error Azure architecture icon (General).",
+    "fullname": "Error",
+    "name": "error"
+  },
+  {
+    "path": "icons/general/extensions.svg",
+    "tags": [
+      "general"
+    ],
+    "category": "general",
+    "color": "#0078D4",
+    "description": "Extensions Azure architecture icon (General).",
+    "fullname": "Extensions",
+    "name": "extensions"
+  },
+  {
+    "path": "icons/general/feature-previews.svg",
+    "tags": [
+      "general"
+    ],
+    "category": "general",
+    "color": "#0078D4",
+    "description": "Feature Previews Azure architecture icon (General).",
+    "fullname": "Feature Previews",
+    "name": "feature-previews"
+  },
+  {
+    "path": "icons/general/file.svg",
+    "tags": [
+      "general"
+    ],
+    "category": "general",
+    "color": "#0078D4",
+    "description": "File Azure architecture icon (General).",
+    "fullname": "File",
+    "name": "file"
+  },
+  {
+    "path": "icons/general/files.svg",
+    "tags": [
+      "general"
+    ],
+    "category": "general",
+    "color": "#0078D4",
+    "description": "Files Azure architecture icon (General).",
+    "fullname": "Files",
+    "name": "files"
+  },
+  {
+    "path": "icons/general/folder-blank.svg",
+    "tags": [
+      "general"
+    ],
+    "category": "general",
+    "color": "#0078D4",
+    "description": "Folder Blank Azure architecture icon (General).",
+    "fullname": "Folder Blank",
+    "name": "folder-blank"
+  },
+  {
+    "path": "icons/general/folder-website.svg",
+    "tags": [
+      "general"
+    ],
+    "category": "general",
+    "color": "#0078D4",
+    "description": "Folder Website Azure architecture icon (General).",
+    "fullname": "Folder Website",
+    "name": "folder-website"
+  },
+  {
+    "path": "icons/general/free-services.svg",
+    "tags": [
+      "general"
+    ],
+    "category": "general",
+    "color": "#0078D4",
+    "description": "Free Services Azure architecture icon (General).",
+    "fullname": "Free Services",
+    "name": "free-services"
+  },
+  {
+    "path": "icons/general/ftp.svg",
+    "tags": [
+      "general"
+    ],
+    "category": "general",
+    "color": "#0078D4",
+    "description": "Ftp Azure architecture icon (General).",
+    "fullname": "Ftp",
+    "name": "ftp"
+  },
+  {
+    "path": "icons/general/gear.svg",
+    "tags": [
+      "general"
+    ],
+    "category": "general",
+    "color": "#0078D4",
+    "description": "Gear Azure architecture icon (General).",
+    "fullname": "Gear",
+    "name": "gear"
+  },
+  {
+    "path": "icons/general/globe-error.svg",
+    "tags": [
+      "general"
+    ],
+    "category": "general",
+    "color": "#0078D4",
+    "description": "Globe Error Azure architecture icon (General).",
+    "fullname": "Globe Error",
+    "name": "globe-error"
+  },
+  {
+    "path": "icons/general/globe-success.svg",
+    "tags": [
+      "general"
+    ],
+    "category": "general",
+    "color": "#0078D4",
+    "description": "Globe Success Azure architecture icon (General).",
+    "fullname": "Globe Success",
+    "name": "globe-success"
+  },
+  {
+    "path": "icons/general/globe-warning.svg",
+    "tags": [
+      "general"
+    ],
+    "category": "general",
+    "color": "#0078D4",
+    "description": "Globe Warning Azure architecture icon (General).",
+    "fullname": "Globe Warning",
+    "name": "globe-warning"
+  },
+  {
+    "path": "icons/general/guide.svg",
+    "tags": [
+      "general"
+    ],
+    "category": "general",
+    "color": "#0078D4",
+    "description": "Guide Azure architecture icon (General).",
+    "fullname": "Guide",
+    "name": "guide"
+  },
+  {
+    "path": "icons/general/heart.svg",
+    "tags": [
+      "general"
+    ],
+    "category": "general",
+    "color": "#0078D4",
+    "description": "Heart Azure architecture icon (General).",
+    "fullname": "Heart",
+    "name": "heart"
+  },
+  {
+    "path": "icons/general/help-and-support.svg",
+    "tags": [
+      "general"
+    ],
+    "category": "general",
+    "color": "#0078D4",
+    "description": "Help And Support Azure architecture icon (General).",
+    "fullname": "Help And Support",
+    "name": "help-and-support"
+  },
+  {
+    "path": "icons/general/image.svg",
+    "tags": [
+      "general"
+    ],
+    "category": "general",
+    "color": "#0078D4",
+    "description": "Image Azure architecture icon (General).",
+    "fullname": "Image",
+    "name": "image"
+  },
+  {
+    "path": "icons/general/information.svg",
+    "tags": [
+      "general"
+    ],
+    "category": "general",
+    "color": "#0078D4",
+    "description": "Information Azure architecture icon (General).",
+    "fullname": "Information",
+    "name": "information"
+  },
+  {
+    "path": "icons/general/input-output.svg",
+    "tags": [
+      "general"
+    ],
+    "category": "general",
+    "color": "#0078D4",
+    "description": "Input Output Azure architecture icon (General).",
+    "fullname": "Input Output",
+    "name": "input-output"
+  },
+  {
+    "path": "icons/general/journey-hub.svg",
+    "tags": [
+      "general"
+    ],
+    "category": "general",
+    "color": "#0078D4",
+    "description": "Journey Hub Azure architecture icon (General).",
+    "fullname": "Journey Hub",
+    "name": "journey-hub"
+  },
+  {
+    "path": "icons/general/launch-portal.svg",
+    "tags": [
+      "general"
+    ],
+    "category": "general",
+    "color": "#0078D4",
+    "description": "Launch Portal Azure architecture icon (General).",
+    "fullname": "Launch Portal",
+    "name": "launch-portal"
+  },
+  {
+    "path": "icons/general/learn.svg",
+    "tags": [
+      "general"
+    ],
+    "category": "general",
+    "color": "#0078D4",
+    "description": "Learn Azure architecture icon (General).",
+    "fullname": "Learn",
+    "name": "learn"
+  },
+  {
+    "path": "icons/general/load-test.svg",
+    "tags": [
+      "general"
+    ],
+    "category": "general",
+    "color": "#0078D4",
+    "description": "Load Test Azure architecture icon (General).",
+    "fullname": "Load Test",
+    "name": "load-test"
+  },
+  {
+    "path": "icons/general/location.svg",
+    "tags": [
+      "general"
+    ],
+    "category": "general",
+    "color": "#0078D4",
+    "description": "Location Azure architecture icon (General).",
+    "fullname": "Location",
+    "name": "location"
+  },
+  {
+    "path": "icons/general/log-streaming.svg",
+    "tags": [
+      "general"
+    ],
+    "category": "general",
+    "color": "#0078D4",
+    "description": "Log Streaming Azure architecture icon (General).",
+    "fullname": "Log Streaming",
+    "name": "log-streaming"
+  },
+  {
+    "path": "icons/general/management-groups.svg",
+    "tags": [
+      "general"
+    ],
+    "category": "general",
+    "color": "#0078D4",
+    "description": "Management Groups Azure architecture icon (General).",
+    "fullname": "Management Groups",
+    "name": "management-groups"
+  },
+  {
+    "path": "icons/general/management-portal.svg",
+    "tags": [
+      "general"
+    ],
+    "category": "general",
+    "color": "#0078D4",
+    "description": "Management Portal Azure architecture icon (General).",
+    "fullname": "Management Portal",
+    "name": "management-portal"
+  },
+  {
+    "path": "icons/general/marketplace.svg",
+    "tags": [
+      "general"
+    ],
+    "category": "general",
+    "color": "#0078D4",
+    "description": "Marketplace Azure architecture icon (General).",
+    "fullname": "Marketplace",
+    "name": "marketplace"
+  },
+  {
+    "path": "icons/general/marketplace-management.svg",
+    "tags": [
+      "general"
+    ],
+    "category": "general",
+    "color": "#0078D4",
+    "description": "Marketplace Management Azure architecture icon (General).",
+    "fullname": "Marketplace Management",
+    "name": "marketplace-management"
+  },
+  {
+    "path": "icons/general/media.svg",
+    "tags": [
+      "general"
+    ],
+    "category": "general",
+    "color": "#0078D4",
+    "description": "Media Azure architecture icon (General).",
+    "fullname": "Media",
+    "name": "media"
+  },
+  {
+    "path": "icons/general/media-file.svg",
+    "tags": [
+      "general"
+    ],
+    "category": "general",
+    "color": "#0078D4",
+    "description": "Media File Azure architecture icon (General).",
+    "fullname": "Media File",
+    "name": "media-file"
+  },
+  {
+    "path": "icons/general/mobile.svg",
+    "tags": [
+      "general"
+    ],
+    "category": "general",
+    "color": "#0078D4",
+    "description": "Mobile Azure architecture icon (General).",
+    "fullname": "Mobile",
+    "name": "mobile"
+  },
+  {
+    "path": "icons/general/mobile-engagement.svg",
+    "tags": [
+      "general"
+    ],
+    "category": "general",
+    "color": "#0078D4",
+    "description": "Mobile Engagement Azure architecture icon (General).",
+    "fullname": "Mobile Engagement",
+    "name": "mobile-engagement"
+  },
+  {
+    "path": "icons/general/module.svg",
+    "tags": [
+      "general"
+    ],
+    "category": "general",
+    "color": "#0078D4",
+    "description": "Module Azure architecture icon (General).",
+    "fullname": "Module",
+    "name": "module"
+  },
+  {
+    "path": "icons/general/power.svg",
+    "tags": [
+      "general"
+    ],
+    "category": "general",
+    "color": "#0078D4",
+    "description": "Power Azure architecture icon (General).",
+    "fullname": "Power",
+    "name": "power"
+  },
+  {
+    "path": "icons/general/power-up.svg",
+    "tags": [
+      "general"
+    ],
+    "category": "general",
+    "color": "#0078D4",
+    "description": "Power Up Azure architecture icon (General).",
+    "fullname": "Power Up",
+    "name": "power-up"
+  },
+  {
+    "path": "icons/general/powershell.svg",
+    "tags": [
+      "general"
+    ],
+    "category": "general",
+    "color": "#0078D4",
+    "description": "Powershell Azure architecture icon (General).",
+    "fullname": "Powershell",
+    "name": "powershell"
+  },
+  {
+    "path": "icons/general/preview-features.svg",
+    "tags": [
+      "general"
+    ],
+    "category": "general",
+    "color": "#0078D4",
+    "description": "Preview Features Azure architecture icon (General).",
+    "fullname": "Preview Features",
+    "name": "preview-features"
+  },
+  {
+    "path": "icons/general/process-explorer.svg",
+    "tags": [
+      "general"
+    ],
+    "category": "general",
+    "color": "#0078D4",
+    "description": "Process Explorer Azure architecture icon (General).",
+    "fullname": "Process Explorer",
+    "name": "process-explorer"
+  },
+  {
+    "path": "icons/general/production-ready-database.svg",
+    "tags": [
+      "general"
+    ],
+    "category": "general",
+    "color": "#0078D4",
+    "description": "Production Ready Database Azure architecture icon (General).",
+    "fullname": "Production Ready Database",
+    "name": "production-ready-database"
+  },
+  {
+    "path": "icons/general/quickstart-center.svg",
+    "tags": [
+      "general"
+    ],
+    "category": "general",
+    "color": "#0078D4",
+    "description": "Quickstart Center Azure architecture icon (General).",
+    "fullname": "Quickstart Center",
+    "name": "quickstart-center"
+  },
+  {
+    "path": "icons/general/recent.svg",
+    "tags": [
+      "general"
+    ],
+    "category": "general",
+    "color": "#0078D4",
+    "description": "Recent Azure architecture icon (General).",
+    "fullname": "Recent",
+    "name": "recent"
+  },
+  {
+    "path": "icons/general/region-management.svg",
+    "tags": [
+      "general"
+    ],
+    "category": "general",
+    "color": "#0078D4",
+    "description": "Region Management Azure architecture icon (General).",
+    "fullname": "Region Management",
+    "name": "region-management"
+  },
+  {
+    "path": "icons/general/reservations.svg",
+    "tags": [
+      "general"
+    ],
+    "category": "general",
+    "color": "#0078D4",
+    "description": "Reservations Azure architecture icon (General).",
+    "fullname": "Reservations",
+    "name": "reservations"
+  },
+  {
+    "path": "icons/general/resource-explorer.svg",
+    "tags": [
+      "general"
+    ],
+    "category": "general",
+    "color": "#0078D4",
+    "description": "Resource Explorer Azure architecture icon (General).",
+    "fullname": "Resource Explorer",
+    "name": "resource-explorer"
+  },
+  {
+    "path": "icons/general/resource-group-list.svg",
+    "tags": [
+      "general"
+    ],
+    "category": "general",
+    "color": "#0078D4",
+    "description": "Resource Group List Azure architecture icon (General).",
+    "fullname": "Resource Group List",
+    "name": "resource-group-list"
+  },
+  {
+    "path": "icons/general/resource-groups.svg",
+    "tags": [
+      "general"
+    ],
+    "category": "general",
+    "color": "#0078D4",
+    "description": "Resource Groups Azure architecture icon (General).",
+    "fullname": "Resource Groups",
+    "name": "resource-groups"
+  },
+  {
+    "path": "icons/general/resource-linked.svg",
+    "tags": [
+      "general"
+    ],
+    "category": "general",
+    "color": "#0078D4",
+    "description": "Resource Linked Azure architecture icon (General).",
+    "fullname": "Resource Linked",
+    "name": "resource-linked"
+  },
+  {
+    "path": "icons/general/scheduler.svg",
+    "tags": [
+      "general"
+    ],
+    "category": "general",
+    "color": "#0078D4",
+    "description": "Scheduler Azure architecture icon (General).",
+    "fullname": "Scheduler",
+    "name": "scheduler"
+  },
+  {
+    "path": "icons/general/search.svg",
+    "tags": [
+      "general"
+    ],
+    "category": "general",
+    "color": "#0078D4",
+    "description": "Search Azure architecture icon (General).",
+    "fullname": "Search",
+    "name": "search"
+  },
+  {
+    "path": "icons/general/search-grid.svg",
+    "tags": [
+      "general"
+    ],
+    "category": "general",
+    "color": "#0078D4",
+    "description": "Search Grid Azure architecture icon (General).",
+    "fullname": "Search Grid",
+    "name": "search-grid"
+  },
+  {
+    "path": "icons/general/server-farm.svg",
+    "tags": [
+      "general"
+    ],
+    "category": "general",
+    "color": "#0078D4",
+    "description": "Server Farm Azure architecture icon (General).",
+    "fullname": "Server Farm",
+    "name": "server-farm"
+  },
+  {
+    "path": "icons/general/service-health.svg",
+    "tags": [
+      "general"
+    ],
+    "category": "general",
+    "color": "#0078D4",
+    "description": "Service Health Azure architecture icon (General).",
+    "fullname": "Service Health",
+    "name": "service-health"
+  },
+  {
+    "path": "icons/general/ssd.svg",
+    "tags": [
+      "general"
+    ],
+    "category": "general",
+    "color": "#0078D4",
+    "description": "Ssd Azure architecture icon (General).",
+    "fullname": "Ssd",
+    "name": "ssd"
+  },
+  {
+    "path": "icons/general/storage-azure-files.svg",
+    "tags": [
+      "general"
+    ],
+    "category": "general",
+    "color": "#0078D4",
+    "description": "Storage Azure Files Azure architecture icon (General).",
+    "fullname": "Storage Azure Files",
+    "name": "storage-azure-files"
+  },
+  {
+    "path": "icons/general/storage-container.svg",
+    "tags": [
+      "general"
+    ],
+    "category": "general",
+    "color": "#0078D4",
+    "description": "Storage Container Azure architecture icon (General).",
+    "fullname": "Storage Container",
+    "name": "storage-container"
+  },
+  {
+    "path": "icons/general/storage-queue.svg",
+    "tags": [
+      "general"
+    ],
+    "category": "general",
+    "color": "#0078D4",
+    "description": "Storage Queue Azure architecture icon (General).",
+    "fullname": "Storage Queue",
+    "name": "storage-queue"
+  },
+  {
+    "path": "icons/general/subscriptions.svg",
+    "tags": [
+      "general"
+    ],
+    "category": "general",
+    "color": "#0078D4",
+    "description": "Subscriptions Azure architecture icon (General).",
+    "fullname": "Subscriptions",
+    "name": "subscriptions"
+  },
+  {
+    "path": "icons/general/table.svg",
+    "tags": [
+      "general"
+    ],
+    "category": "general",
+    "color": "#0078D4",
+    "description": "Table Azure architecture icon (General).",
+    "fullname": "Table",
+    "name": "table"
+  },
+  {
+    "path": "icons/general/tag.svg",
+    "tags": [
+      "general"
+    ],
+    "category": "general",
+    "color": "#0078D4",
+    "description": "Tag Azure architecture icon (General).",
+    "fullname": "Tag",
+    "name": "tag"
+  },
+  {
+    "path": "icons/general/tags.svg",
+    "tags": [
+      "general"
+    ],
+    "category": "general",
+    "color": "#0078D4",
+    "description": "Tags Azure architecture icon (General).",
+    "fullname": "Tags",
+    "name": "tags"
+  },
+  {
+    "path": "icons/general/templates.svg",
+    "tags": [
+      "general"
+    ],
+    "category": "general",
+    "color": "#0078D4",
+    "description": "Templates Azure architecture icon (General).",
+    "fullname": "Templates",
+    "name": "templates"
+  },
+  {
+    "path": "icons/general/tfs-vc-repository.svg",
+    "tags": [
+      "general"
+    ],
+    "category": "general",
+    "color": "#0078D4",
+    "description": "Tfs Vc Repository Azure architecture icon (General).",
+    "fullname": "Tfs Vc Repository",
+    "name": "tfs-vc-repository"
+  },
+  {
+    "path": "icons/general/toolbox.svg",
+    "tags": [
+      "general"
+    ],
+    "category": "general",
+    "color": "#0078D4",
+    "description": "Toolbox Azure architecture icon (General).",
+    "fullname": "Toolbox",
+    "name": "toolbox"
+  },
+  {
+    "path": "icons/general/troubleshoot.svg",
+    "tags": [
+      "general"
+    ],
+    "category": "general",
+    "color": "#0078D4",
+    "description": "Troubleshoot Azure architecture icon (General).",
+    "fullname": "Troubleshoot",
+    "name": "troubleshoot"
+  },
+  {
+    "path": "icons/general/versions.svg",
+    "tags": [
+      "general"
+    ],
+    "category": "general",
+    "color": "#0078D4",
+    "description": "Versions Azure architecture icon (General).",
+    "fullname": "Versions",
+    "name": "versions"
+  },
+  {
+    "path": "icons/general/web-slots.svg",
+    "tags": [
+      "general"
+    ],
+    "category": "general",
+    "color": "#0078D4",
+    "description": "Web Slots Azure architecture icon (General).",
+    "fullname": "Web Slots",
+    "name": "web-slots"
+  },
+  {
+    "path": "icons/general/web-test.svg",
+    "tags": [
+      "general"
+    ],
+    "category": "general",
+    "color": "#0078D4",
+    "description": "Web Test Azure architecture icon (General).",
+    "fullname": "Web Test",
+    "name": "web-test"
+  },
+  {
+    "path": "icons/general/website-power.svg",
+    "tags": [
+      "general"
+    ],
+    "category": "general",
+    "color": "#0078D4",
+    "description": "Website Power Azure architecture icon (General).",
+    "fullname": "Website Power",
+    "name": "website-power"
+  },
+  {
+    "path": "icons/general/website-staging.svg",
+    "tags": [
+      "general"
+    ],
+    "category": "general",
+    "color": "#0078D4",
+    "description": "Website Staging Azure architecture icon (General).",
+    "fullname": "Website Staging",
+    "name": "website-staging"
+  },
+  {
+    "path": "icons/general/workbooks.svg",
+    "tags": [
+      "general"
+    ],
+    "category": "general",
+    "color": "#0078D4",
+    "description": "Workbooks Azure architecture icon (General).",
+    "fullname": "Workbooks",
+    "name": "workbooks"
+  },
+  {
+    "path": "icons/general/workflow.svg",
+    "tags": [
+      "general"
+    ],
+    "category": "general",
+    "color": "#0078D4",
+    "description": "Workflow Azure architecture icon (General).",
+    "fullname": "Workflow",
+    "name": "workflow"
+  },
+  {
+    "path": "icons/hybrid-multicloud/ai-at-edge.svg",
+    "tags": [
+      "hybrid-multicloud"
+    ],
+    "category": "hybrid-multicloud",
+    "color": "#0078D4",
+    "description": "AI At Edge Azure architecture icon (Hybrid + Multicloud).",
+    "fullname": "AI At Edge",
+    "name": "ai-at-edge"
+  },
+  {
+    "path": "icons/hybrid-multicloud/arc-kubernetes.svg",
+    "tags": [
+      "hybrid-multicloud"
+    ],
+    "category": "hybrid-multicloud",
+    "color": "#0078D4",
+    "description": "Arc Kubernetes Azure architecture icon (Hybrid + Multicloud).",
+    "fullname": "Arc Kubernetes",
+    "name": "arc-kubernetes"
+  },
+  {
+    "path": "icons/hybrid-multicloud/azure-local.svg",
+    "tags": [
+      "hybrid-multicloud"
+    ],
+    "category": "hybrid-multicloud",
+    "color": "#0078D4",
+    "description": "Azure Local Azure architecture icon (Hybrid + Multicloud).",
+    "fullname": "Azure Local",
+    "name": "azure-local"
+  },
+  {
+    "path": "icons/hybrid-multicloud/azure-monitor-pipeline.svg",
+    "tags": [
+      "hybrid-multicloud"
+    ],
+    "category": "hybrid-multicloud",
+    "color": "#0078D4",
+    "description": "Azure Monitor Pipeline Azure architecture icon (Hybrid + Multicloud).",
+    "fullname": "Azure Monitor Pipeline",
+    "name": "azure-monitor-pipeline"
+  },
+  {
+    "path": "icons/hybrid-multicloud/azure-operator-5g-core.svg",
+    "tags": [
+      "hybrid-multicloud"
+    ],
+    "category": "hybrid-multicloud",
+    "color": "#0078D4",
+    "description": "Azure Operator 5g Core Azure architecture icon (Hybrid + Multicloud).",
+    "fullname": "Azure Operator 5g Core",
+    "name": "azure-operator-5g-core"
+  },
+  {
+    "path": "icons/hybrid-multicloud/azure-operator-insights.svg",
+    "tags": [
+      "hybrid-multicloud"
+    ],
+    "category": "hybrid-multicloud",
+    "color": "#0078D4",
+    "description": "Azure Operator Insights Azure architecture icon (Hybrid + Multicloud).",
+    "fullname": "Azure Operator Insights",
+    "name": "azure-operator-insights"
+  },
+  {
+    "path": "icons/hybrid-multicloud/azure-operator-nexus.svg",
+    "tags": [
+      "hybrid-multicloud"
+    ],
+    "category": "hybrid-multicloud",
+    "color": "#0078D4",
+    "description": "Azure Operator Nexus Azure architecture icon (Hybrid + Multicloud).",
+    "fullname": "Azure Operator Nexus",
+    "name": "azure-operator-nexus"
+  },
+  {
+    "path": "icons/hybrid-multicloud/azure-operator-service-manager.svg",
+    "tags": [
+      "hybrid-multicloud"
+    ],
+    "category": "hybrid-multicloud",
+    "color": "#0078D4",
+    "description": "Azure Operator Service Manager Azure architecture icon (Hybrid + Multicloud).",
+    "fullname": "Azure Operator Service Manager",
+    "name": "azure-operator-service-manager"
+  },
+  {
+    "path": "icons/hybrid-multicloud/azure-programmable-connectivity.svg",
+    "tags": [
+      "hybrid-multicloud"
+    ],
+    "category": "hybrid-multicloud",
+    "color": "#0078D4",
+    "description": "Azure Programmable Connectivity Azure architecture icon (Hybrid + Multicloud).",
+    "fullname": "Azure Programmable Connectivity",
+    "name": "azure-programmable-connectivity"
+  },
+  {
+    "path": "icons/hybrid-multicloud/edge-storage-accelerator.svg",
+    "tags": [
+      "hybrid-multicloud"
+    ],
+    "category": "hybrid-multicloud",
+    "color": "#0078D4",
+    "description": "Edge Storage Accelerator Azure architecture icon (Hybrid + Multicloud).",
+    "fullname": "Edge Storage Accelerator",
+    "name": "edge-storage-accelerator"
+  },
+  {
+    "path": "icons/hybrid-multicloud/workload-orchestration.svg",
+    "tags": [
+      "hybrid-multicloud"
+    ],
+    "category": "hybrid-multicloud",
+    "color": "#0078D4",
+    "description": "Workload Orchestration Azure architecture icon (Hybrid + Multicloud).",
+    "fullname": "Workload Orchestration",
+    "name": "workload-orchestration"
+  },
+  {
+    "path": "icons/identity/active-directory-connect-health.svg",
+    "tags": [
+      "identity"
+    ],
+    "category": "identity",
+    "color": "#0078D4",
+    "description": "Active Directory Connect Health Azure architecture icon (Identity).",
+    "fullname": "Active Directory Connect Health",
+    "name": "active-directory-connect-health"
+  },
+  {
+    "path": "icons/identity/administrative-units.svg",
+    "tags": [
+      "identity"
+    ],
+    "category": "identity",
+    "color": "#0078D4",
+    "description": "Administrative Units Azure architecture icon (Identity).",
+    "fullname": "Administrative Units",
+    "name": "administrative-units"
+  },
+  {
+    "path": "icons/identity/api-proxy.svg",
+    "tags": [
+      "identity"
+    ],
+    "category": "identity",
+    "color": "#0078D4",
+    "description": "API Proxy Azure architecture icon (Identity).",
+    "fullname": "API Proxy",
+    "name": "api-proxy"
+  },
+  {
+    "path": "icons/identity/app-registrations.svg",
+    "tags": [
+      "identity"
+    ],
+    "category": "identity",
+    "color": "#0078D4",
+    "description": "App Registrations Azure architecture icon (Identity).",
+    "fullname": "App Registrations",
+    "name": "app-registrations"
+  },
+  {
+    "path": "icons/identity/azure-ad-b2c.svg",
+    "tags": [
+      "identity"
+    ],
+    "category": "identity",
+    "color": "#0078D4",
+    "description": "Azure Ad B2c Azure architecture icon (Identity).",
+    "fullname": "Azure Ad B2c",
+    "name": "azure-ad-b2c"
+  },
+  {
+    "path": "icons/identity/enterprise-applications.svg",
+    "tags": [
+      "identity"
+    ],
+    "category": "identity",
+    "color": "#0078D4",
+    "description": "Enterprise Applications Azure architecture icon (Identity).",
+    "fullname": "Enterprise Applications",
+    "name": "enterprise-applications"
+  },
+  {
+    "path": "icons/identity/entra-connect.svg",
+    "tags": [
+      "identity"
+    ],
+    "category": "identity",
+    "color": "#0078D4",
+    "description": "Entra Connect Azure architecture icon (Identity).",
+    "fullname": "Entra Connect",
+    "name": "entra-connect"
+  },
+  {
+    "path": "icons/identity/entra-connect-health.svg",
+    "tags": [
+      "identity"
+    ],
+    "category": "identity",
+    "color": "#0078D4",
+    "description": "Entra Connect Health Azure architecture icon (Identity).",
+    "fullname": "Entra Connect Health",
+    "name": "entra-connect-health"
+  },
+  {
+    "path": "icons/identity/entra-connect-sync.svg",
+    "tags": [
+      "identity"
+    ],
+    "category": "identity",
+    "color": "#0078D4",
+    "description": "Entra Connect Sync Azure architecture icon (Identity).",
+    "fullname": "Entra Connect Sync",
+    "name": "entra-connect-sync"
+  },
+  {
+    "path": "icons/identity/entra-domain-services.svg",
+    "tags": [
+      "identity"
+    ],
+    "category": "identity",
+    "color": "#0078D4",
+    "description": "Entra Domain Services Azure architecture icon (Identity).",
+    "fullname": "Entra Domain Services",
+    "name": "entra-domain-services"
+  },
+  {
+    "path": "icons/identity/entra-global-secure-access.svg",
+    "tags": [
+      "identity"
+    ],
+    "category": "identity",
+    "color": "#0078D4",
+    "description": "Entra Global Secure Access Azure architecture icon (Identity).",
+    "fullname": "Entra Global Secure Access",
+    "name": "entra-global-secure-access"
+  },
+  {
+    "path": "icons/identity/entra-id-protection.svg",
+    "tags": [
+      "identity"
+    ],
+    "category": "identity",
+    "color": "#0078D4",
+    "description": "Entra Id Protection Azure architecture icon (Identity).",
+    "fullname": "Entra Id Protection",
+    "name": "entra-id-protection"
+  },
+  {
+    "path": "icons/identity/entra-identity-custom-roles.svg",
+    "tags": [
+      "identity"
+    ],
+    "category": "identity",
+    "color": "#0078D4",
+    "description": "Entra Identity Custom Roles Azure architecture icon (Identity).",
+    "fullname": "Entra Identity Custom Roles",
+    "name": "entra-identity-custom-roles"
+  },
+  {
+    "path": "icons/identity/entra-identity-licenses.svg",
+    "tags": [
+      "identity"
+    ],
+    "category": "identity",
+    "color": "#0078D4",
+    "description": "Entra Identity Licenses Azure architecture icon (Identity).",
+    "fullname": "Entra Identity Licenses",
+    "name": "entra-identity-licenses"
+  },
+  {
+    "path": "icons/identity/entra-identity-roles-and-administrators.svg",
+    "tags": [
+      "identity"
+    ],
+    "category": "identity",
+    "color": "#0078D4",
+    "description": "Entra Identity Roles And Administrators Azure architecture icon (Identity).",
+    "fullname": "Entra Identity Roles And Administrators",
+    "name": "entra-identity-roles-and-administrators"
+  },
+  {
+    "path": "icons/identity/entra-internet-access.svg",
+    "tags": [
+      "identity"
+    ],
+    "category": "identity",
+    "color": "#0078D4",
+    "description": "Entra Internet Access Azure architecture icon (Identity).",
+    "fullname": "Entra Internet Access",
+    "name": "entra-internet-access"
+  },
+  {
+    "path": "icons/identity/entra-managed-identities.svg",
+    "tags": [
+      "identity"
+    ],
+    "category": "identity",
+    "color": "#0078D4",
+    "description": "Entra Managed Identities Azure architecture icon (Identity).",
+    "fullname": "Entra Managed Identities",
+    "name": "entra-managed-identities"
+  },
+  {
+    "path": "icons/identity/entra-private-access.svg",
+    "tags": [
+      "identity"
+    ],
+    "category": "identity",
+    "color": "#0078D4",
+    "description": "Entra Private Access Azure architecture icon (Identity).",
+    "fullname": "Entra Private Access",
+    "name": "entra-private-access"
+  },
+  {
+    "path": "icons/identity/entra-privleged-identity-management.svg",
+    "tags": [
+      "identity"
+    ],
+    "category": "identity",
+    "color": "#0078D4",
+    "description": "Entra Privleged Identity Management Azure architecture icon (Identity).",
+    "fullname": "Entra Privleged Identity Management",
+    "name": "entra-privleged-identity-management"
+  },
+  {
+    "path": "icons/identity/entra-verified-id.svg",
+    "tags": [
+      "identity"
+    ],
+    "category": "identity",
+    "color": "#0078D4",
+    "description": "Entra Verified Id Azure architecture icon (Identity).",
+    "fullname": "Entra Verified Id",
+    "name": "entra-verified-id"
+  },
+  {
+    "path": "icons/identity/external-id.svg",
+    "tags": [
+      "identity"
+    ],
+    "category": "identity",
+    "color": "#0078D4",
+    "description": "External Id Azure architecture icon (Identity).",
+    "fullname": "External Id",
+    "name": "external-id"
+  },
+  {
+    "path": "icons/identity/external-id-modified.svg",
+    "tags": [
+      "identity"
+    ],
+    "category": "identity",
+    "color": "#0078D4",
+    "description": "External Id Modified Azure architecture icon (Identity).",
+    "fullname": "External Id Modified",
+    "name": "external-id-modified"
+  },
+  {
+    "path": "icons/identity/external-identities.svg",
+    "tags": [
+      "identity"
+    ],
+    "category": "identity",
+    "color": "#0078D4",
+    "description": "External Identities Azure architecture icon (Identity).",
+    "fullname": "External Identities",
+    "name": "external-identities"
+  },
+  {
+    "path": "icons/identity/groups.svg",
+    "tags": [
+      "identity"
+    ],
+    "category": "identity",
+    "color": "#0078D4",
+    "description": "Groups Azure architecture icon (Identity).",
+    "fullname": "Groups",
+    "name": "groups"
+  },
+  {
+    "path": "icons/identity/identity-governance.svg",
+    "tags": [
+      "identity"
+    ],
+    "category": "identity",
+    "color": "#0078D4",
+    "description": "Identity Governance Azure architecture icon (Identity).",
+    "fullname": "Identity Governance",
+    "name": "identity-governance"
+  },
+  {
+    "path": "icons/identity/managed-identities.svg",
+    "tags": [
+      "identity"
+    ],
+    "category": "identity",
+    "color": "#0078D4",
+    "description": "Managed Identities Azure architecture icon (Identity).",
+    "fullname": "Managed Identities",
+    "name": "managed-identities"
+  },
+  {
+    "path": "icons/identity/multi-factor-authentication.svg",
+    "tags": [
+      "identity"
+    ],
+    "category": "identity",
+    "color": "#0078D4",
+    "description": "Multi Factor Authentication Azure architecture icon (Identity).",
+    "fullname": "Multi Factor Authentication",
+    "name": "multi-factor-authentication"
+  },
+  {
+    "path": "icons/identity/multi-tenancy.svg",
+    "tags": [
+      "identity"
+    ],
+    "category": "identity",
+    "color": "#0078D4",
+    "description": "Multi Tenancy Azure architecture icon (Identity).",
+    "fullname": "Multi Tenancy",
+    "name": "multi-tenancy"
+  },
+  {
+    "path": "icons/identity/security.svg",
+    "tags": [
+      "identity"
+    ],
+    "category": "identity",
+    "color": "#0078D4",
+    "description": "Security Azure architecture icon (Identity).",
+    "fullname": "Security",
+    "name": "security"
+  },
+  {
+    "path": "icons/identity/tenant-properties.svg",
+    "tags": [
+      "identity"
+    ],
+    "category": "identity",
+    "color": "#0078D4",
+    "description": "Tenant Properties Azure architecture icon (Identity).",
+    "fullname": "Tenant Properties",
+    "name": "tenant-properties"
+  },
+  {
+    "path": "icons/identity/user-subscriptions.svg",
+    "tags": [
+      "identity"
+    ],
+    "category": "identity",
+    "color": "#0078D4",
+    "description": "User Subscriptions Azure architecture icon (Identity).",
+    "fullname": "User Subscriptions",
+    "name": "user-subscriptions"
+  },
+  {
+    "path": "icons/identity/users.svg",
+    "tags": [
+      "identity"
+    ],
+    "category": "identity",
+    "color": "#0078D4",
+    "description": "Users Azure architecture icon (Identity).",
+    "fullname": "Users",
+    "name": "users"
+  },
+  {
+    "path": "icons/identity/verifiable-credentials.svg",
+    "tags": [
+      "identity"
+    ],
+    "category": "identity",
+    "color": "#0078D4",
+    "description": "Verifiable Credentials Azure architecture icon (Identity).",
+    "fullname": "Verifiable Credentials",
+    "name": "verifiable-credentials"
+  },
+  {
+    "path": "icons/identity/verification-as-a-service.svg",
+    "tags": [
+      "identity"
+    ],
+    "category": "identity",
+    "color": "#0078D4",
+    "description": "Verification As A Service Azure architecture icon (Identity).",
+    "fullname": "Verification As A Service",
+    "name": "verification-as-a-service"
+  },
+  {
+    "path": "icons/integration/app-configuration.svg",
+    "tags": [
+      "integration"
+    ],
+    "category": "integration",
+    "color": "#0078D4",
+    "description": "App Configuration Azure architecture icon (Integration).",
+    "fullname": "App Configuration",
+    "name": "app-configuration"
+  },
+  {
+    "path": "icons/integration/azure-api-for-fhir.svg",
+    "tags": [
+      "integration"
+    ],
+    "category": "integration",
+    "color": "#0078D4",
+    "description": "Azure API For Fhir Azure architecture icon (Integration).",
+    "fullname": "Azure API For Fhir",
+    "name": "azure-api-for-fhir"
+  },
+  {
+    "path": "icons/integration/azure-data-catalog.svg",
+    "tags": [
+      "integration"
+    ],
+    "category": "integration",
+    "color": "#0078D4",
+    "description": "Azure Data Catalog Azure architecture icon (Integration).",
+    "fullname": "Azure Data Catalog",
+    "name": "azure-data-catalog"
+  },
+  {
+    "path": "icons/integration/azure-service-bus.svg",
+    "tags": [
+      "integration",
+      "messaging",
+      "queue"
+    ],
+    "category": "integration",
+    "color": "#0078D4",
+    "description": "Azure Service Bus Azure architecture icon (Integration).",
+    "fullname": "Azure Service Bus",
+    "name": "azure-service-bus"
+  },
+  {
+    "path": "icons/integration/business-process-tracking.svg",
+    "tags": [
+      "integration"
+    ],
+    "category": "integration",
+    "color": "#0078D4",
+    "description": "Business Process Tracking Azure architecture icon (Integration).",
+    "fullname": "Business Process Tracking",
+    "name": "business-process-tracking"
+  },
+  {
+    "path": "icons/integration/event-grid-domains.svg",
+    "tags": [
+      "integration"
+    ],
+    "category": "integration",
+    "color": "#0078D4",
+    "description": "Event Grid Domains Azure architecture icon (Integration).",
+    "fullname": "Event Grid Domains",
+    "name": "event-grid-domains"
+  },
+  {
+    "path": "icons/integration/event-grid-subscriptions.svg",
+    "tags": [
+      "integration"
+    ],
+    "category": "integration",
+    "color": "#0078D4",
+    "description": "Event Grid Subscriptions Azure architecture icon (Integration).",
+    "fullname": "Event Grid Subscriptions",
+    "name": "event-grid-subscriptions"
+  },
+  {
+    "path": "icons/integration/event-grid-topics.svg",
+    "tags": [
+      "integration"
+    ],
+    "category": "integration",
+    "color": "#0078D4",
+    "description": "Event Grid Topics Azure architecture icon (Integration).",
+    "fullname": "Event Grid Topics",
+    "name": "event-grid-topics"
+  },
+  {
+    "path": "icons/integration/integration-accounts.svg",
+    "tags": [
+      "integration"
+    ],
+    "category": "integration",
+    "color": "#0078D4",
+    "description": "Integration Accounts Azure architecture icon (Integration).",
+    "fullname": "Integration Accounts",
+    "name": "integration-accounts"
+  },
+  {
+    "path": "icons/integration/integration-environments.svg",
+    "tags": [
+      "integration"
+    ],
+    "category": "integration",
+    "color": "#0078D4",
+    "description": "Integration Environments Azure architecture icon (Integration).",
+    "fullname": "Integration Environments",
+    "name": "integration-environments"
+  },
+  {
+    "path": "icons/integration/integration-service-environments.svg",
+    "tags": [
+      "integration"
+    ],
+    "category": "integration",
+    "color": "#0078D4",
+    "description": "Integration Service Environments Azure architecture icon (Integration).",
+    "fullname": "Integration Service Environments",
+    "name": "integration-service-environments"
+  },
+  {
+    "path": "icons/integration/logic-apps.svg",
+    "tags": [
+      "integration"
+    ],
+    "category": "integration",
+    "color": "#0078D4",
+    "description": "Logic Apps Azure architecture icon (Integration).",
+    "fullname": "Logic Apps",
+    "name": "logic-apps"
+  },
+  {
+    "path": "icons/integration/logic-apps-custom-connector.svg",
+    "tags": [
+      "integration"
+    ],
+    "category": "integration",
+    "color": "#0078D4",
+    "description": "Logic Apps Custom Connector Azure architecture icon (Integration).",
+    "fullname": "Logic Apps Custom Connector",
+    "name": "logic-apps-custom-connector"
+  },
+  {
+    "path": "icons/integration/logic-apps-template.svg",
+    "tags": [
+      "integration"
+    ],
+    "category": "integration",
+    "color": "#0078D4",
+    "description": "Logic Apps Template Azure architecture icon (Integration).",
+    "fullname": "Logic Apps Template",
+    "name": "logic-apps-template"
+  },
+  {
+    "path": "icons/integration/partner-namespace.svg",
+    "tags": [
+      "integration"
+    ],
+    "category": "integration",
+    "color": "#0078D4",
+    "description": "Partner Namespace Azure architecture icon (Integration).",
+    "fullname": "Partner Namespace",
+    "name": "partner-namespace"
+  },
+  {
+    "path": "icons/integration/partner-registration.svg",
+    "tags": [
+      "integration"
+    ],
+    "category": "integration",
+    "color": "#0078D4",
+    "description": "Partner Registration Azure architecture icon (Integration).",
+    "fullname": "Partner Registration",
+    "name": "partner-registration"
+  },
+  {
+    "path": "icons/integration/partner-topic.svg",
+    "tags": [
+      "integration"
+    ],
+    "category": "integration",
+    "color": "#0078D4",
+    "description": "Partner Topic Azure architecture icon (Integration).",
+    "fullname": "Partner Topic",
+    "name": "partner-topic"
+  },
+  {
+    "path": "icons/integration/pubsub.svg",
+    "tags": [
+      "integration"
+    ],
+    "category": "integration",
+    "color": "#0078D4",
+    "description": "Pubsub Azure architecture icon (Integration).",
+    "fullname": "Pubsub",
+    "name": "pubsub"
+  },
+  {
+    "path": "icons/integration/relays.svg",
+    "tags": [
+      "integration"
+    ],
+    "category": "integration",
+    "color": "#0078D4",
+    "description": "Relays Azure architecture icon (Integration).",
+    "fullname": "Relays",
+    "name": "relays"
+  },
+  {
+    "path": "icons/integration/sendgrid-accounts.svg",
+    "tags": [
+      "integration"
+    ],
+    "category": "integration",
+    "color": "#0078D4",
+    "description": "Sendgrid Accounts Azure architecture icon (Integration).",
+    "fullname": "Sendgrid Accounts",
+    "name": "sendgrid-accounts"
+  },
+  {
+    "path": "icons/integration/software-as-a-service.svg",
+    "tags": [
+      "integration"
+    ],
+    "category": "integration",
+    "color": "#0078D4",
+    "description": "Software As A Service Azure architecture icon (Integration).",
+    "fullname": "Software As A Service",
+    "name": "software-as-a-service"
+  },
+  {
+    "path": "icons/integration/system-topic.svg",
+    "tags": [
+      "integration"
+    ],
+    "category": "integration",
+    "color": "#0078D4",
+    "description": "System Topic Azure architecture icon (Integration).",
+    "fullname": "System Topic",
+    "name": "system-topic"
+  },
+  {
+    "path": "icons/intune/client-apps.svg",
+    "tags": [
+      "intune"
+    ],
+    "category": "intune",
+    "color": "#0078D4",
+    "description": "Client Apps Azure architecture icon (Intune).",
+    "fullname": "Client Apps",
+    "name": "client-apps"
+  },
+  {
+    "path": "icons/intune/device-compliance.svg",
+    "tags": [
+      "intune"
+    ],
+    "category": "intune",
+    "color": "#0078D4",
+    "description": "Device Compliance Azure architecture icon (Intune).",
+    "fullname": "Device Compliance",
+    "name": "device-compliance"
+  },
+  {
+    "path": "icons/intune/device-configuration.svg",
+    "tags": [
+      "intune"
+    ],
+    "category": "intune",
+    "color": "#0078D4",
+    "description": "Device Configuration Azure architecture icon (Intune).",
+    "fullname": "Device Configuration",
+    "name": "device-configuration"
+  },
+  {
+    "path": "icons/intune/device-enrollment.svg",
+    "tags": [
+      "intune"
+    ],
+    "category": "intune",
+    "color": "#0078D4",
+    "description": "Device Enrollment Azure architecture icon (Intune).",
+    "fullname": "Device Enrollment",
+    "name": "device-enrollment"
+  },
+  {
+    "path": "icons/intune/device-security-apple.svg",
+    "tags": [
+      "intune"
+    ],
+    "category": "intune",
+    "color": "#0078D4",
+    "description": "Device Security Apple Azure architecture icon (Intune).",
+    "fullname": "Device Security Apple",
+    "name": "device-security-apple"
+  },
+  {
+    "path": "icons/intune/device-security-google.svg",
+    "tags": [
+      "intune"
+    ],
+    "category": "intune",
+    "color": "#0078D4",
+    "description": "Device Security Google Azure architecture icon (Intune).",
+    "fullname": "Device Security Google",
+    "name": "device-security-google"
+  },
+  {
+    "path": "icons/intune/device-security-windows.svg",
+    "tags": [
+      "intune"
+    ],
+    "category": "intune",
+    "color": "#0078D4",
+    "description": "Device Security Windows Azure architecture icon (Intune).",
+    "fullname": "Device Security Windows",
+    "name": "device-security-windows"
+  },
+  {
+    "path": "icons/intune/devices.svg",
+    "tags": [
+      "intune"
+    ],
+    "category": "intune",
+    "color": "#0078D4",
+    "description": "Devices Azure architecture icon (Intune).",
+    "fullname": "Devices",
+    "name": "devices"
+  },
+  {
+    "path": "icons/intune/ebooks.svg",
+    "tags": [
+      "intune"
+    ],
+    "category": "intune",
+    "color": "#0078D4",
+    "description": "Ebooks Azure architecture icon (Intune).",
+    "fullname": "Ebooks",
+    "name": "ebooks"
+  },
+  {
+    "path": "icons/intune/engage-center-connect.svg",
+    "tags": [
+      "intune"
+    ],
+    "category": "intune",
+    "color": "#0078D4",
+    "description": "Engage Center Connect Azure architecture icon (Intune).",
+    "fullname": "Engage Center Connect",
+    "name": "engage-center-connect"
+  },
+  {
+    "path": "icons/intune/exchange-access.svg",
+    "tags": [
+      "intune"
+    ],
+    "category": "intune",
+    "color": "#0078D4",
+    "description": "Exchange Access Azure architecture icon (Intune).",
+    "fullname": "Exchange Access",
+    "name": "exchange-access"
+  },
+  {
+    "path": "icons/intune/intune.svg",
+    "tags": [
+      "intune"
+    ],
+    "category": "intune",
+    "color": "#0078D4",
+    "description": "Intune Azure architecture icon (Intune).",
+    "fullname": "Intune",
+    "name": "intune"
+  },
+  {
+    "path": "icons/intune/intune-app-protection.svg",
+    "tags": [
+      "intune"
+    ],
+    "category": "intune",
+    "color": "#0078D4",
+    "description": "Intune App Protection Azure architecture icon (Intune).",
+    "fullname": "Intune App Protection",
+    "name": "intune-app-protection"
+  },
+  {
+    "path": "icons/intune/intune-for-education.svg",
+    "tags": [
+      "intune"
+    ],
+    "category": "intune",
+    "color": "#0078D4",
+    "description": "Intune For Education Azure architecture icon (Intune).",
+    "fullname": "Intune For Education",
+    "name": "intune-for-education"
+  },
+  {
+    "path": "icons/intune/mindaro.svg",
+    "tags": [
+      "intune"
+    ],
+    "category": "intune",
+    "color": "#0078D4",
+    "description": "Mindaro Azure architecture icon (Intune).",
+    "fullname": "Mindaro",
+    "name": "mindaro"
+  },
+  {
+    "path": "icons/intune/security-baselines.svg",
+    "tags": [
+      "intune"
+    ],
+    "category": "intune",
+    "color": "#0078D4",
+    "description": "Security Baselines Azure architecture icon (Intune).",
+    "fullname": "Security Baselines",
+    "name": "security-baselines"
+  },
+  {
+    "path": "icons/intune/software-updates.svg",
+    "tags": [
+      "intune"
+    ],
+    "category": "intune",
+    "color": "#0078D4",
+    "description": "Software Updates Azure architecture icon (Intune).",
+    "fullname": "Software Updates",
+    "name": "software-updates"
+  },
+  {
+    "path": "icons/intune/tenant-status.svg",
+    "tags": [
+      "intune"
+    ],
+    "category": "intune",
+    "color": "#0078D4",
+    "description": "Tenant Status Azure architecture icon (Intune).",
+    "fullname": "Tenant Status",
+    "name": "tenant-status"
+  },
+  {
+    "path": "icons/iot/azure-iot-operations.svg",
+    "tags": [
+      "iot"
+    ],
+    "category": "iot",
+    "color": "#0078D4",
+    "description": "Azure IoT Operations Azure architecture icon (IoT).",
+    "fullname": "Azure IoT Operations",
+    "name": "azure-iot-operations"
+  },
+  {
+    "path": "icons/iot/azure-maps-accounts.svg",
+    "tags": [
+      "iot"
+    ],
+    "category": "iot",
+    "color": "#0078D4",
+    "description": "Azure Maps Accounts Azure architecture icon (IoT).",
+    "fullname": "Azure Maps Accounts",
+    "name": "azure-maps-accounts"
+  },
+  {
+    "path": "icons/iot/azure-stack-hci-sizer.svg",
+    "tags": [
+      "iot"
+    ],
+    "category": "iot",
+    "color": "#0078D4",
+    "description": "Azure Stack Hci Sizer Azure architecture icon (IoT).",
+    "fullname": "Azure Stack Hci Sizer",
+    "name": "azure-stack-hci-sizer"
+  },
+  {
+    "path": "icons/iot/device-provisioning-services.svg",
+    "tags": [
+      "iot"
+    ],
+    "category": "iot",
+    "color": "#0078D4",
+    "description": "Device Provisioning Services Azure architecture icon (IoT).",
+    "fullname": "Device Provisioning Services",
+    "name": "device-provisioning-services"
+  },
+  {
+    "path": "icons/iot/digital-twins.svg",
+    "tags": [
+      "iot"
+    ],
+    "category": "iot",
+    "color": "#0078D4",
+    "description": "Digital Twins Azure architecture icon (IoT).",
+    "fullname": "Digital Twins",
+    "name": "digital-twins"
+  },
+  {
+    "path": "icons/iot/hybrid-connectivity-hub.svg",
+    "tags": [
+      "iot"
+    ],
+    "category": "iot",
+    "color": "#0078D4",
+    "description": "Hybrid Connectivity Hub Azure architecture icon (IoT).",
+    "fullname": "Hybrid Connectivity Hub",
+    "name": "hybrid-connectivity-hub"
+  },
+  {
+    "path": "icons/iot/industrial-iot.svg",
+    "tags": [
+      "iot"
+    ],
+    "category": "iot",
+    "color": "#0078D4",
+    "description": "Industrial IoT Azure architecture icon (IoT).",
+    "fullname": "Industrial IoT",
+    "name": "industrial-iot"
+  },
+  {
+    "path": "icons/iot/iot-central-applications.svg",
+    "tags": [
+      "iot"
+    ],
+    "category": "iot",
+    "color": "#0078D4",
+    "description": "IoT Central Applications Azure architecture icon (IoT).",
+    "fullname": "IoT Central Applications",
+    "name": "iot-central-applications"
+  },
+  {
+    "path": "icons/iot/iot-edge.svg",
+    "tags": [
+      "iot"
+    ],
+    "category": "iot",
+    "color": "#0078D4",
+    "description": "IoT Edge Azure architecture icon (IoT).",
+    "fullname": "IoT Edge",
+    "name": "iot-edge"
+  },
+  {
+    "path": "icons/iot/iot-hub.svg",
+    "tags": [
+      "iot"
+    ],
+    "category": "iot",
+    "color": "#0078D4",
+    "description": "IoT Hub Azure architecture icon (IoT).",
+    "fullname": "IoT Hub",
+    "name": "iot-hub"
+  },
+  {
+    "path": "icons/iot/notification-hub-namespaces.svg",
+    "tags": [
+      "iot"
+    ],
+    "category": "iot",
+    "color": "#0078D4",
+    "description": "Notification Hub Namespaces Azure architecture icon (IoT).",
+    "fullname": "Notification Hub Namespaces",
+    "name": "notification-hub-namespaces"
+  },
+  {
+    "path": "icons/iot/stack-hci-premium.svg",
+    "tags": [
+      "iot"
+    ],
+    "category": "iot",
+    "color": "#0078D4",
+    "description": "Stack Hci Premium Azure architecture icon (IoT).",
+    "fullname": "Stack Hci Premium",
+    "name": "stack-hci-premium"
+  },
+  {
+    "path": "icons/iot/time-series-data-sets.svg",
+    "tags": [
+      "iot"
+    ],
+    "category": "iot",
+    "color": "#0078D4",
+    "description": "Time Series Data Sets Azure architecture icon (IoT).",
+    "fullname": "Time Series Data Sets",
+    "name": "time-series-data-sets"
+  },
+  {
+    "path": "icons/iot/time-series-insights-access-policies.svg",
+    "tags": [
+      "iot"
+    ],
+    "category": "iot",
+    "color": "#0078D4",
+    "description": "Time Series Insights Access Policies Azure architecture icon (IoT).",
+    "fullname": "Time Series Insights Access Policies",
+    "name": "time-series-insights-access-policies"
+  },
+  {
+    "path": "icons/iot/time-series-insights-environments.svg",
+    "tags": [
+      "iot"
+    ],
+    "category": "iot",
+    "color": "#0078D4",
+    "description": "Time Series Insights Environments Azure architecture icon (IoT).",
+    "fullname": "Time Series Insights Environments",
+    "name": "time-series-insights-environments"
+  },
+  {
+    "path": "icons/iot/time-series-insights-event-sources.svg",
+    "tags": [
+      "iot"
+    ],
+    "category": "iot",
+    "color": "#0078D4",
+    "description": "Time Series Insights Event Sources Azure architecture icon (IoT).",
+    "fullname": "Time Series Insights Event Sources",
+    "name": "time-series-insights-event-sources"
+  },
+  {
+    "path": "icons/iot/windows10-core-services.svg",
+    "tags": [
+      "iot"
+    ],
+    "category": "iot",
+    "color": "#0078D4",
+    "description": "Windows10 Core Services Azure architecture icon (IoT).",
+    "fullname": "Windows10 Core Services",
+    "name": "windows10-core-services"
+  },
+  {
+    "path": "icons/management-governance/advisor.svg",
+    "tags": [
+      "management-governance"
+    ],
+    "category": "management-governance",
+    "color": "#0078D4",
+    "description": "Advisor Azure architecture icon (Management + Governance).",
+    "fullname": "Advisor",
+    "name": "advisor"
+  },
+  {
+    "path": "icons/management-governance/alerts.svg",
+    "tags": [
+      "management-governance"
+    ],
+    "category": "management-governance",
+    "color": "#0078D4",
+    "description": "Alerts Azure architecture icon (Management + Governance).",
+    "fullname": "Alerts",
+    "name": "alerts"
+  },
+  {
+    "path": "icons/management-governance/arc-machines.svg",
+    "tags": [
+      "management-governance"
+    ],
+    "category": "management-governance",
+    "color": "#0078D4",
+    "description": "Arc Machines Azure architecture icon (Management + Governance).",
+    "fullname": "Arc Machines",
+    "name": "arc-machines"
+  },
+  {
+    "path": "icons/management-governance/automation-accounts.svg",
+    "tags": [
+      "management-governance"
+    ],
+    "category": "management-governance",
+    "color": "#0078D4",
+    "description": "Automation Accounts Azure architecture icon (Management + Governance).",
+    "fullname": "Automation Accounts",
+    "name": "automation-accounts"
+  },
+  {
+    "path": "icons/management-governance/azure-arc.svg",
+    "tags": [
+      "management-governance"
+    ],
+    "category": "management-governance",
+    "color": "#0078D4",
+    "description": "Azure Arc Azure architecture icon (Management + Governance).",
+    "fullname": "Azure Arc",
+    "name": "azure-arc"
+  },
+  {
+    "path": "icons/management-governance/azure-lighthouse.svg",
+    "tags": [
+      "management-governance"
+    ],
+    "category": "management-governance",
+    "color": "#0078D4",
+    "description": "Azure Lighthouse Azure architecture icon (Management + Governance).",
+    "fullname": "Azure Lighthouse",
+    "name": "azure-lighthouse"
+  },
+  {
+    "path": "icons/management-governance/blueprints.svg",
+    "tags": [
+      "management-governance"
+    ],
+    "category": "management-governance",
+    "color": "#0078D4",
+    "description": "Blueprints Azure architecture icon (Management + Governance).",
+    "fullname": "Blueprints",
+    "name": "blueprints"
+  },
+  {
+    "path": "icons/management-governance/compliance.svg",
+    "tags": [
+      "management-governance"
+    ],
+    "category": "management-governance",
+    "color": "#0078D4",
+    "description": "Compliance Azure architecture icon (Management + Governance).",
+    "fullname": "Compliance",
+    "name": "compliance"
+  },
+  {
+    "path": "icons/management-governance/cost-management-and-billing.svg",
+    "tags": [
+      "management-governance"
+    ],
+    "category": "management-governance",
+    "color": "#0078D4",
+    "description": "Cost Management And Billing Azure architecture icon (Management + Governance).",
+    "fullname": "Cost Management And Billing",
+    "name": "cost-management-and-billing"
+  },
+  {
+    "path": "icons/management-governance/customer-lockbox-for-microsoft-azure.svg",
+    "tags": [
+      "management-governance"
+    ],
+    "category": "management-governance",
+    "color": "#0078D4",
+    "description": "Customer Lockbox For Microsoft Azure Azure architecture icon (Management + Governance).",
+    "fullname": "Customer Lockbox For Microsoft Azure",
+    "name": "customer-lockbox-for-microsoft-azure"
+  },
+  {
+    "path": "icons/management-governance/education.svg",
+    "tags": [
+      "management-governance"
+    ],
+    "category": "management-governance",
+    "color": "#0078D4",
+    "description": "Education Azure architecture icon (Management + Governance).",
+    "fullname": "Education",
+    "name": "education"
+  },
+  {
+    "path": "icons/management-governance/intune-trends.svg",
+    "tags": [
+      "management-governance"
+    ],
+    "category": "management-governance",
+    "color": "#0078D4",
+    "description": "Intune Trends Azure architecture icon (Management + Governance).",
+    "fullname": "Intune Trends",
+    "name": "intune-trends"
+  },
+  {
+    "path": "icons/management-governance/machinesazurearc.svg",
+    "tags": [
+      "management-governance"
+    ],
+    "category": "management-governance",
+    "color": "#0078D4",
+    "description": "Machinesazurearc Azure architecture icon (Management + Governance).",
+    "fullname": "Machinesazurearc",
+    "name": "machinesazurearc"
+  },
+  {
+    "path": "icons/management-governance/managed-applications-center.svg",
+    "tags": [
+      "management-governance"
+    ],
+    "category": "management-governance",
+    "color": "#0078D4",
+    "description": "Managed Applications Center Azure architecture icon (Management + Governance).",
+    "fullname": "Managed Applications Center",
+    "name": "managed-applications-center"
+  },
+  {
+    "path": "icons/management-governance/managed-desktop.svg",
+    "tags": [
+      "management-governance"
+    ],
+    "category": "management-governance",
+    "color": "#0078D4",
+    "description": "Managed Desktop Azure architecture icon (Management + Governance).",
+    "fullname": "Managed Desktop",
+    "name": "managed-desktop"
+  },
+  {
+    "path": "icons/management-governance/my-customers.svg",
+    "tags": [
+      "management-governance"
+    ],
+    "category": "management-governance",
+    "color": "#0078D4",
+    "description": "My Customers Azure architecture icon (Management + Governance).",
+    "fullname": "My Customers",
+    "name": "my-customers"
+  },
+  {
+    "path": "icons/management-governance/operation-log-classic.svg",
+    "tags": [
+      "management-governance"
+    ],
+    "category": "management-governance",
+    "color": "#0078D4",
+    "description": "Operation Log Classic Azure architecture icon (Management + Governance).",
+    "fullname": "Operation Log Classic",
+    "name": "operation-log-classic"
+  },
+  {
+    "path": "icons/management-governance/policy.svg",
+    "tags": [
+      "management-governance"
+    ],
+    "category": "management-governance",
+    "color": "#0078D4",
+    "description": "Policy Azure architecture icon (Management + Governance).",
+    "fullname": "Policy",
+    "name": "policy"
+  },
+  {
+    "path": "icons/management-governance/resource-graph-explorer.svg",
+    "tags": [
+      "management-governance"
+    ],
+    "category": "management-governance",
+    "color": "#0078D4",
+    "description": "Resource Graph Explorer Azure architecture icon (Management + Governance).",
+    "fullname": "Resource Graph Explorer",
+    "name": "resource-graph-explorer"
+  },
+  {
+    "path": "icons/management-governance/resources-provider.svg",
+    "tags": [
+      "management-governance"
+    ],
+    "category": "management-governance",
+    "color": "#0078D4",
+    "description": "Resources Provider Azure architecture icon (Management + Governance).",
+    "fullname": "Resources Provider",
+    "name": "resources-provider"
+  },
+  {
+    "path": "icons/management-governance/scheduler-job-collections.svg",
+    "tags": [
+      "management-governance"
+    ],
+    "category": "management-governance",
+    "color": "#0078D4",
+    "description": "Scheduler Job Collections Azure architecture icon (Management + Governance).",
+    "fullname": "Scheduler Job Collections",
+    "name": "scheduler-job-collections"
+  },
+  {
+    "path": "icons/management-governance/service-catalog-mad.svg",
+    "tags": [
+      "management-governance"
+    ],
+    "category": "management-governance",
+    "color": "#0078D4",
+    "description": "Service Catalog Mad Azure architecture icon (Management + Governance).",
+    "fullname": "Service Catalog Mad",
+    "name": "service-catalog-mad"
+  },
+  {
+    "path": "icons/management-governance/service-group-relationships.svg",
+    "tags": [
+      "management-governance"
+    ],
+    "category": "management-governance",
+    "color": "#0078D4",
+    "description": "Service Group Relationships Azure architecture icon (Management + Governance).",
+    "fullname": "Service Group Relationships",
+    "name": "service-group-relationships"
+  },
+  {
+    "path": "icons/management-governance/service-providers.svg",
+    "tags": [
+      "management-governance"
+    ],
+    "category": "management-governance",
+    "color": "#0078D4",
+    "description": "Service Providers Azure architecture icon (Management + Governance).",
+    "fullname": "Service Providers",
+    "name": "service-providers"
+  },
+  {
+    "path": "icons/management-governance/solutions.svg",
+    "tags": [
+      "management-governance"
+    ],
+    "category": "management-governance",
+    "color": "#0078D4",
+    "description": "Solutions Azure architecture icon (Management + Governance).",
+    "fullname": "Solutions",
+    "name": "solutions"
+  },
+  {
+    "path": "icons/management-governance/universal-print.svg",
+    "tags": [
+      "management-governance"
+    ],
+    "category": "management-governance",
+    "color": "#0078D4",
+    "description": "Universal Print Azure architecture icon (Management + Governance).",
+    "fullname": "Universal Print",
+    "name": "universal-print"
+  },
+  {
+    "path": "icons/management-governance/user-privacy.svg",
+    "tags": [
+      "management-governance"
+    ],
+    "category": "management-governance",
+    "color": "#0078D4",
+    "description": "User Privacy Azure architecture icon (Management + Governance).",
+    "fullname": "User Privacy",
+    "name": "user-privacy"
+  },
+  {
+    "path": "icons/menu/keys.svg",
+    "tags": [
+      "menu"
+    ],
+    "category": "menu",
+    "color": "#0078D4",
+    "description": "Keys Azure architecture icon (Menu).",
+    "fullname": "Keys",
+    "name": "keys"
+  },
+  {
+    "path": "icons/migrate/azure-migrate.svg",
+    "tags": [
+      "migrate"
+    ],
+    "category": "migrate",
+    "color": "#0078D4",
+    "description": "Azure Migrate Azure architecture icon (Migrate).",
+    "fullname": "Azure Migrate",
+    "name": "azure-migrate"
+  },
+  {
+    "path": "icons/mixed-reality/remote-rendering.svg",
+    "tags": [
+      "mixed-reality"
+    ],
+    "category": "mixed-reality",
+    "color": "#0078D4",
+    "description": "Remote Rendering Azure architecture icon (Mixed Reality).",
+    "fullname": "Remote Rendering",
+    "name": "remote-rendering"
+  },
+  {
+    "path": "icons/mixed-reality/spatial-anchor-accounts.svg",
+    "tags": [
+      "mixed-reality"
+    ],
+    "category": "mixed-reality",
+    "color": "#0078D4",
+    "description": "Spatial Anchor Accounts Azure architecture icon (Mixed Reality).",
+    "fullname": "Spatial Anchor Accounts",
+    "name": "spatial-anchor-accounts"
+  },
+  {
+    "path": "icons/monitor/activity-log.svg",
+    "tags": [
+      "monitor"
+    ],
+    "category": "monitor",
+    "color": "#0078D4",
+    "description": "Activity Log Azure architecture icon (Monitor).",
+    "fullname": "Activity Log",
+    "name": "activity-log"
+  },
+  {
+    "path": "icons/monitor/auto-scale.svg",
+    "tags": [
+      "monitor"
+    ],
+    "category": "monitor",
+    "color": "#0078D4",
+    "description": "Auto Scale Azure architecture icon (Monitor).",
+    "fullname": "Auto Scale",
+    "name": "auto-scale"
+  },
+  {
+    "path": "icons/monitor/azure-monitors-for-sap-solutions.svg",
+    "tags": [
+      "monitor"
+    ],
+    "category": "monitor",
+    "color": "#0078D4",
+    "description": "Azure Monitors For Sap Solutions Azure architecture icon (Monitor).",
+    "fullname": "Azure Monitors For Sap Solutions",
+    "name": "azure-monitors-for-sap-solutions"
+  },
+  {
+    "path": "icons/monitor/diagnostics-settings.svg",
+    "tags": [
+      "monitor"
+    ],
+    "category": "monitor",
+    "color": "#0078D4",
+    "description": "Diagnostics Settings Azure architecture icon (Monitor).",
+    "fullname": "Diagnostics Settings",
+    "name": "diagnostics-settings"
+  },
+  {
+    "path": "icons/monitor/metrics.svg",
+    "tags": [
+      "monitor"
+    ],
+    "category": "monitor",
+    "color": "#0078D4",
+    "description": "Metrics Azure architecture icon (Monitor).",
+    "fullname": "Metrics",
+    "name": "metrics"
+  },
+  {
+    "path": "icons/monitor/monitor.svg",
+    "tags": [
+      "monitor"
+    ],
+    "category": "monitor",
+    "color": "#0078D4",
+    "description": "Monitor Azure architecture icon (Monitor).",
+    "fullname": "Monitor",
+    "name": "monitor"
+  },
+  {
+    "path": "icons/networking/application-gateway-containers.svg",
+    "tags": [
+      "networking"
+    ],
+    "category": "networking",
+    "color": "#0078D4",
+    "description": "Application Gateway Containers Azure architecture icon (Networking).",
+    "fullname": "Application Gateway Containers",
+    "name": "application-gateway-containers"
+  },
+  {
+    "path": "icons/networking/application-gateways.svg",
+    "tags": [
+      "appgw",
+      "networking",
+      "waf"
+    ],
+    "category": "networking",
+    "color": "#0078D4",
+    "description": "Application Gateways Azure architecture icon (Networking).",
+    "fullname": "Application Gateways",
+    "name": "application-gateways"
+  },
+  {
+    "path": "icons/networking/atm-multistack.svg",
+    "tags": [
+      "networking"
+    ],
+    "category": "networking",
+    "color": "#0078D4",
+    "description": "Atm Multistack Azure architecture icon (Networking).",
+    "fullname": "Atm Multistack",
+    "name": "atm-multistack"
+  },
+  {
+    "path": "icons/networking/azure-communications-gateway.svg",
+    "tags": [
+      "networking"
+    ],
+    "category": "networking",
+    "color": "#0078D4",
+    "description": "Azure Communications Gateway Azure architecture icon (Networking).",
+    "fullname": "Azure Communications Gateway",
+    "name": "azure-communications-gateway"
+  },
+  {
+    "path": "icons/networking/azure-firewall-manager.svg",
+    "tags": [
+      "networking"
+    ],
+    "category": "networking",
+    "color": "#0078D4",
+    "description": "Azure Firewall Manager Azure architecture icon (Networking).",
+    "fullname": "Azure Firewall Manager",
+    "name": "azure-firewall-manager"
+  },
+  {
+    "path": "icons/networking/azure-firewall-policy.svg",
+    "tags": [
+      "networking"
+    ],
+    "category": "networking",
+    "color": "#0078D4",
+    "description": "Azure Firewall Policy Azure architecture icon (Networking).",
+    "fullname": "Azure Firewall Policy",
+    "name": "azure-firewall-policy"
+  },
+  {
+    "path": "icons/networking/bastions.svg",
+    "tags": [
+      "networking"
+    ],
+    "category": "networking",
+    "color": "#0078D4",
+    "description": "Bastions Azure architecture icon (Networking).",
+    "fullname": "Bastions",
+    "name": "bastions"
+  },
+  {
+    "path": "icons/networking/cdn-profiles.svg",
+    "tags": [
+      "networking"
+    ],
+    "category": "networking",
+    "color": "#0078D4",
+    "description": "CDN Profiles Azure architecture icon (Networking).",
+    "fullname": "CDN Profiles",
+    "name": "cdn-profiles"
+  },
+  {
+    "path": "icons/networking/connected-cache.svg",
+    "tags": [
+      "networking"
+    ],
+    "category": "networking",
+    "color": "#0078D4",
+    "description": "Connected Cache Azure architecture icon (Networking).",
+    "fullname": "Connected Cache",
+    "name": "connected-cache"
+  },
+  {
+    "path": "icons/networking/connections.svg",
+    "tags": [
+      "networking"
+    ],
+    "category": "networking",
+    "color": "#0078D4",
+    "description": "Connections Azure architecture icon (Networking).",
+    "fullname": "Connections",
+    "name": "connections"
+  },
+  {
+    "path": "icons/networking/ddos-protection-plans.svg",
+    "tags": [
+      "networking"
+    ],
+    "category": "networking",
+    "color": "#0078D4",
+    "description": "Ddos Protection Plans Azure architecture icon (Networking).",
+    "fullname": "Ddos Protection Plans",
+    "name": "ddos-protection-plans"
+  },
+  {
+    "path": "icons/networking/dns-multistack.svg",
+    "tags": [
+      "networking"
+    ],
+    "category": "networking",
+    "color": "#0078D4",
+    "description": "DNS Multistack Azure architecture icon (Networking).",
+    "fullname": "DNS Multistack",
+    "name": "dns-multistack"
+  },
+  {
+    "path": "icons/networking/dns-private-resolver.svg",
+    "tags": [
+      "networking"
+    ],
+    "category": "networking",
+    "color": "#0078D4",
+    "description": "DNS Private Resolver Azure architecture icon (Networking).",
+    "fullname": "DNS Private Resolver",
+    "name": "dns-private-resolver"
+  },
+  {
+    "path": "icons/networking/dns-security-policy.svg",
+    "tags": [
+      "networking"
+    ],
+    "category": "networking",
+    "color": "#0078D4",
+    "description": "DNS Security Policy Azure architecture icon (Networking).",
+    "fullname": "DNS Security Policy",
+    "name": "dns-security-policy"
+  },
+  {
+    "path": "icons/networking/dns-zones.svg",
+    "tags": [
+      "networking"
+    ],
+    "category": "networking",
+    "color": "#0078D4",
+    "description": "DNS Zones Azure architecture icon (Networking).",
+    "fullname": "DNS Zones",
+    "name": "dns-zones"
+  },
+  {
+    "path": "icons/networking/edge-actions.svg",
+    "tags": [
+      "networking"
+    ],
+    "category": "networking",
+    "color": "#0078D4",
+    "description": "Edge Actions Azure architecture icon (Networking).",
+    "fullname": "Edge Actions",
+    "name": "edge-actions"
+  },
+  {
+    "path": "icons/networking/expressroute-circuits.svg",
+    "tags": [
+      "networking"
+    ],
+    "category": "networking",
+    "color": "#0078D4",
+    "description": "Expressroute Circuits Azure architecture icon (Networking).",
+    "fullname": "Expressroute Circuits",
+    "name": "expressroute-circuits"
+  },
+  {
+    "path": "icons/networking/firewalls.svg",
+    "tags": [
+      "networking"
+    ],
+    "category": "networking",
+    "color": "#0078D4",
+    "description": "Firewalls Azure architecture icon (Networking).",
+    "fullname": "Firewalls",
+    "name": "firewalls"
+  },
+  {
+    "path": "icons/networking/front-door-and-cdn-profiles.svg",
+    "tags": [
+      "afd",
+      "cdn",
+      "front-door",
+      "networking"
+    ],
+    "category": "networking",
+    "color": "#0078D4",
+    "description": "Front Door And CDN Profiles Azure architecture icon (Networking).",
+    "fullname": "Front Door And CDN Profiles",
+    "name": "front-door-and-cdn-profiles"
+  },
+  {
+    "path": "icons/networking/ip-address-manager.svg",
+    "tags": [
+      "networking"
+    ],
+    "category": "networking",
+    "color": "#0078D4",
+    "description": "IP Address Manager Azure architecture icon (Networking).",
+    "fullname": "IP Address Manager",
+    "name": "ip-address-manager"
+  },
+  {
+    "path": "icons/networking/ip-groups.svg",
+    "tags": [
+      "networking"
+    ],
+    "category": "networking",
+    "color": "#0078D4",
+    "description": "IP Groups Azure architecture icon (Networking).",
+    "fullname": "IP Groups",
+    "name": "ip-groups"
+  },
+  {
+    "path": "icons/networking/load-balancer-hub.svg",
+    "tags": [
+      "networking"
+    ],
+    "category": "networking",
+    "color": "#0078D4",
+    "description": "Load Balancer Hub Azure architecture icon (Networking).",
+    "fullname": "Load Balancer Hub",
+    "name": "load-balancer-hub"
+  },
+  {
+    "path": "icons/networking/load-balancer-hub-029029174.svg",
+    "tags": [
+      "networking"
+    ],
+    "category": "networking",
+    "color": "#0078D4",
+    "description": "Load Balancer Hub 029029174 Azure architecture icon (Networking).",
+    "fullname": "Load Balancer Hub 029029174",
+    "name": "load-balancer-hub-029029174"
+  },
+  {
+    "path": "icons/networking/load-balancers.svg",
+    "tags": [
+      "lb",
+      "networking"
+    ],
+    "category": "networking",
+    "color": "#0078D4",
+    "description": "Load Balancers Azure architecture icon (Networking).",
+    "fullname": "Load Balancers",
+    "name": "load-balancers"
+  },
+  {
+    "path": "icons/networking/local-network-gateways.svg",
+    "tags": [
+      "networking"
+    ],
+    "category": "networking",
+    "color": "#0078D4",
+    "description": "Local Network Gateways Azure architecture icon (Networking).",
+    "fullname": "Local Network Gateways",
+    "name": "local-network-gateways"
+  },
+  {
+    "path": "icons/networking/nat.svg",
+    "tags": [
+      "networking"
+    ],
+    "category": "networking",
+    "color": "#0078D4",
+    "description": "Nat Azure architecture icon (Networking).",
+    "fullname": "Nat",
+    "name": "nat"
+  },
+  {
+    "path": "icons/networking/network-foundation-hub.svg",
+    "tags": [
+      "networking"
+    ],
+    "category": "networking",
+    "color": "#0078D4",
+    "description": "Network Foundation Hub Azure architecture icon (Networking).",
+    "fullname": "Network Foundation Hub",
+    "name": "network-foundation-hub"
+  },
+  {
+    "path": "icons/networking/network-interfaces.svg",
+    "tags": [
+      "networking"
+    ],
+    "category": "networking",
+    "color": "#0078D4",
+    "description": "Network Interfaces Azure architecture icon (Networking).",
+    "fullname": "Network Interfaces",
+    "name": "network-interfaces"
+  },
+  {
+    "path": "icons/networking/network-security-groups.svg",
+    "tags": [
+      "networking"
+    ],
+    "category": "networking",
+    "color": "#0078D4",
+    "description": "Network Security Groups Azure architecture icon (Networking).",
+    "fullname": "Network Security Groups",
+    "name": "network-security-groups"
+  },
+  {
+    "path": "icons/networking/network-security-hub.svg",
+    "tags": [
+      "networking"
+    ],
+    "category": "networking",
+    "color": "#0078D4",
+    "description": "Network Security Hub Azure architecture icon (Networking).",
+    "fullname": "Network Security Hub",
+    "name": "network-security-hub"
+  },
+  {
+    "path": "icons/networking/network-watcher.svg",
+    "tags": [
+      "networking"
+    ],
+    "category": "networking",
+    "color": "#0078D4",
+    "description": "Network Watcher Azure architecture icon (Networking).",
+    "fullname": "Network Watcher",
+    "name": "network-watcher"
+  },
+  {
+    "path": "icons/networking/on-premises-data-gateways.svg",
+    "tags": [
+      "networking"
+    ],
+    "category": "networking",
+    "color": "#0078D4",
+    "description": "On Premises Data Gateways Azure architecture icon (Networking).",
+    "fullname": "On Premises Data Gateways",
+    "name": "on-premises-data-gateways"
+  },
+  {
+    "path": "icons/networking/private-link.svg",
+    "tags": [
+      "networking"
+    ],
+    "category": "networking",
+    "color": "#0078D4",
+    "description": "Private Link Azure architecture icon (Networking).",
+    "fullname": "Private Link",
+    "name": "private-link"
+  },
+  {
+    "path": "icons/networking/private-link-service.svg",
+    "tags": [
+      "networking"
+    ],
+    "category": "networking",
+    "color": "#0078D4",
+    "description": "Private Link Service Azure architecture icon (Networking).",
+    "fullname": "Private Link Service",
+    "name": "private-link-service"
+  },
+  {
+    "path": "icons/networking/private-link-services.svg",
+    "tags": [
+      "networking"
+    ],
+    "category": "networking",
+    "color": "#0078D4",
+    "description": "Private Link Services Azure architecture icon (Networking).",
+    "fullname": "Private Link Services",
+    "name": "private-link-services"
+  },
+  {
+    "path": "icons/networking/proximity-placement-groups.svg",
+    "tags": [
+      "networking"
+    ],
+    "category": "networking",
+    "color": "#0078D4",
+    "description": "Proximity Placement Groups Azure architecture icon (Networking).",
+    "fullname": "Proximity Placement Groups",
+    "name": "proximity-placement-groups"
+  },
+  {
+    "path": "icons/networking/public-ip-addresses.svg",
+    "tags": [
+      "networking"
+    ],
+    "category": "networking",
+    "color": "#0078D4",
+    "description": "Public IP Addresses Azure architecture icon (Networking).",
+    "fullname": "Public IP Addresses",
+    "name": "public-ip-addresses"
+  },
+  {
+    "path": "icons/networking/public-ip-addresses-classic.svg",
+    "tags": [
+      "networking"
+    ],
+    "category": "networking",
+    "color": "#0078D4",
+    "description": "Public IP Addresses Classic Azure architecture icon (Networking).",
+    "fullname": "Public IP Addresses Classic",
+    "name": "public-ip-addresses-classic"
+  },
+  {
+    "path": "icons/networking/public-ip-prefixes.svg",
+    "tags": [
+      "networking"
+    ],
+    "category": "networking",
+    "color": "#0078D4",
+    "description": "Public IP Prefixes Azure architecture icon (Networking).",
+    "fullname": "Public IP Prefixes",
+    "name": "public-ip-prefixes"
+  },
+  {
+    "path": "icons/networking/reserved-ip-addresses-classic.svg",
+    "tags": [
+      "networking"
+    ],
+    "category": "networking",
+    "color": "#0078D4",
+    "description": "Reserved IP Addresses Classic Azure architecture icon (Networking).",
+    "fullname": "Reserved IP Addresses Classic",
+    "name": "reserved-ip-addresses-classic"
+  },
+  {
+    "path": "icons/networking/resource-management-private-link.svg",
+    "tags": [
+      "networking"
+    ],
+    "category": "networking",
+    "color": "#0078D4",
+    "description": "Resource Management Private Link Azure architecture icon (Networking).",
+    "fullname": "Resource Management Private Link",
+    "name": "resource-management-private-link"
+  },
+  {
+    "path": "icons/networking/route-filters.svg",
+    "tags": [
+      "networking"
+    ],
+    "category": "networking",
+    "color": "#0078D4",
+    "description": "Route Filters Azure architecture icon (Networking).",
+    "fullname": "Route Filters",
+    "name": "route-filters"
+  },
+  {
+    "path": "icons/networking/route-tables.svg",
+    "tags": [
+      "networking"
+    ],
+    "category": "networking",
+    "color": "#0078D4",
+    "description": "Route Tables Azure architecture icon (Networking).",
+    "fullname": "Route Tables",
+    "name": "route-tables"
+  },
+  {
+    "path": "icons/networking/service-endpoint-policies.svg",
+    "tags": [
+      "networking"
+    ],
+    "category": "networking",
+    "color": "#0078D4",
+    "description": "Service Endpoint Policies Azure architecture icon (Networking).",
+    "fullname": "Service Endpoint Policies",
+    "name": "service-endpoint-policies"
+  },
+  {
+    "path": "icons/networking/spot-vm.svg",
+    "tags": [
+      "networking"
+    ],
+    "category": "networking",
+    "color": "#0078D4",
+    "description": "Spot VM Azure architecture icon (Networking).",
+    "fullname": "Spot VM",
+    "name": "spot-vm"
+  },
+  {
+    "path": "icons/networking/spot-vmss.svg",
+    "tags": [
+      "networking"
+    ],
+    "category": "networking",
+    "color": "#0078D4",
+    "description": "Spot Vmss Azure architecture icon (Networking).",
+    "fullname": "Spot Vmss",
+    "name": "spot-vmss"
+  },
+  {
+    "path": "icons/networking/subnet.svg",
+    "tags": [
+      "networking"
+    ],
+    "category": "networking",
+    "color": "#0078D4",
+    "description": "Subnet Azure architecture icon (Networking).",
+    "fullname": "Subnet",
+    "name": "subnet"
+  },
+  {
+    "path": "icons/networking/traffic-manager-profiles.svg",
+    "tags": [
+      "networking"
+    ],
+    "category": "networking",
+    "color": "#0078D4",
+    "description": "Traffic Manager Profiles Azure architecture icon (Networking).",
+    "fullname": "Traffic Manager Profiles",
+    "name": "traffic-manager-profiles"
+  },
+  {
+    "path": "icons/networking/virtual-network-gateways.svg",
+    "tags": [
+      "networking"
+    ],
+    "category": "networking",
+    "color": "#0078D4",
+    "description": "Virtual Network Gateways Azure architecture icon (Networking).",
+    "fullname": "Virtual Network Gateways",
+    "name": "virtual-network-gateways"
+  },
+  {
+    "path": "icons/networking/virtual-networks.svg",
+    "tags": [
+      "network",
+      "networking",
+      "vnet"
+    ],
+    "category": "networking",
+    "color": "#0078D4",
+    "description": "Virtual Networks Azure architecture icon (Networking).",
+    "fullname": "Virtual Networks",
+    "name": "virtual-networks"
+  },
+  {
+    "path": "icons/networking/virtual-networks-classic.svg",
+    "tags": [
+      "networking"
+    ],
+    "category": "networking",
+    "color": "#0078D4",
+    "description": "Virtual Networks Classic Azure architecture icon (Networking).",
+    "fullname": "Virtual Networks Classic",
+    "name": "virtual-networks-classic"
+  },
+  {
+    "path": "icons/networking/virtual-router.svg",
+    "tags": [
+      "networking"
+    ],
+    "category": "networking",
+    "color": "#0078D4",
+    "description": "Virtual Router Azure architecture icon (Networking).",
+    "fullname": "Virtual Router",
+    "name": "virtual-router"
+  },
+  {
+    "path": "icons/networking/virtual-wan-hub.svg",
+    "tags": [
+      "networking"
+    ],
+    "category": "networking",
+    "color": "#0078D4",
+    "description": "Virtual Wan Hub Azure architecture icon (Networking).",
+    "fullname": "Virtual Wan Hub",
+    "name": "virtual-wan-hub"
+  },
+  {
+    "path": "icons/networking/virtual-wans.svg",
+    "tags": [
+      "networking"
+    ],
+    "category": "networking",
+    "color": "#0078D4",
+    "description": "Virtual Wans Azure architecture icon (Networking).",
+    "fullname": "Virtual Wans",
+    "name": "virtual-wans"
+  },
+  {
+    "path": "icons/networking/vnet-appliance.svg",
+    "tags": [
+      "networking"
+    ],
+    "category": "networking",
+    "color": "#0078D4",
+    "description": "VNet Appliance Azure architecture icon (Networking).",
+    "fullname": "VNet Appliance",
+    "name": "vnet-appliance"
+  },
+  {
+    "path": "icons/networking/vpnclientwindows.svg",
+    "tags": [
+      "networking"
+    ],
+    "category": "networking",
+    "color": "#0078D4",
+    "description": "Vpnclientwindows Azure architecture icon (Networking).",
+    "fullname": "Vpnclientwindows",
+    "name": "vpnclientwindows"
+  },
+  {
+    "path": "icons/networking/web-application-firewall-policies-waf.svg",
+    "tags": [
+      "networking"
+    ],
+    "category": "networking",
+    "color": "#0078D4",
+    "description": "Web Application Firewall Policies Waf Azure architecture icon (Networking).",
+    "fullname": "Web Application Firewall Policies Waf",
+    "name": "web-application-firewall-policies-waf"
+  },
+  {
+    "path": "icons/new-icons/agentic-web-apps.svg",
+    "tags": [
+      "new-icons"
+    ],
+    "category": "new-icons",
+    "color": "#0078D4",
+    "description": "Agentic Web Apps Azure architecture icon (New Icons).",
+    "fullname": "Agentic Web Apps",
+    "name": "agentic-web-apps"
+  },
+  {
+    "path": "icons/new-icons/ai-gateway.svg",
+    "tags": [
+      "new-icons"
+    ],
+    "category": "new-icons",
+    "color": "#0078D4",
+    "description": "AI Gateway Azure architecture icon (New Icons).",
+    "fullname": "AI Gateway",
+    "name": "ai-gateway"
+  },
+  {
+    "path": "icons/new-icons/azure-access-point.svg",
+    "tags": [
+      "new-icons"
+    ],
+    "category": "new-icons",
+    "color": "#0078D4",
+    "description": "Azure Access Point Azure architecture icon (New Icons).",
+    "fullname": "Azure Access Point",
+    "name": "azure-access-point"
+  },
+  {
+    "path": "icons/new-icons/azure-data-sharing.svg",
+    "tags": [
+      "new-icons"
+    ],
+    "category": "new-icons",
+    "color": "#0078D4",
+    "description": "Azure Data Sharing Azure architecture icon (New Icons).",
+    "fullname": "Azure Data Sharing",
+    "name": "azure-data-sharing"
+  },
+  {
+    "path": "icons/new-icons/azure-data-transfer.svg",
+    "tags": [
+      "new-icons"
+    ],
+    "category": "new-icons",
+    "color": "#0078D4",
+    "description": "Azure Data Transfer Azure architecture icon (New Icons).",
+    "fullname": "Azure Data Transfer",
+    "name": "azure-data-transfer"
+  },
+  {
+    "path": "icons/new-icons/ddos-custom-policy.svg",
+    "tags": [
+      "new-icons"
+    ],
+    "category": "new-icons",
+    "color": "#0078D4",
+    "description": "Ddos Custom Policy Azure architecture icon (New Icons).",
+    "fullname": "Ddos Custom Policy",
+    "name": "ddos-custom-policy"
+  },
+  {
+    "path": "icons/new-icons/disconnected-operations.svg",
+    "tags": [
+      "new-icons"
+    ],
+    "category": "new-icons",
+    "color": "#0078D4",
+    "description": "Disconnected Operations Azure architecture icon (New Icons).",
+    "fullname": "Disconnected Operations",
+    "name": "disconnected-operations"
+  },
+  {
+    "path": "icons/new-icons/landing-zone.svg",
+    "tags": [
+      "new-icons"
+    ],
+    "category": "new-icons",
+    "color": "#0078D4",
+    "description": "Landing Zone Azure architecture icon (New Icons).",
+    "fullname": "Landing Zone",
+    "name": "landing-zone"
+  },
+  {
+    "path": "icons/new-icons/resiliency.svg",
+    "tags": [
+      "new-icons"
+    ],
+    "category": "new-icons",
+    "color": "#0078D4",
+    "description": "Resiliency Azure architecture icon (New Icons).",
+    "fullname": "Resiliency",
+    "name": "resiliency"
+  },
+  {
+    "path": "icons/new-icons/toolchain-orchestrator.svg",
+    "tags": [
+      "new-icons"
+    ],
+    "category": "new-icons",
+    "color": "#0078D4",
+    "description": "Toolchain Orchestrator Azure architecture icon (New Icons).",
+    "fullname": "Toolchain Orchestrator",
+    "name": "toolchain-orchestrator"
+  },
+  {
+    "path": "icons/other/aks-istio.svg",
+    "tags": [
+      "other"
+    ],
+    "category": "other",
+    "color": "#0078D4",
+    "description": "AKS Istio Azure architecture icon (Other).",
+    "fullname": "AKS Istio",
+    "name": "aks-istio"
+  },
+  {
+    "path": "icons/other/app-compliance-automation.svg",
+    "tags": [
+      "other"
+    ],
+    "category": "other",
+    "color": "#0078D4",
+    "description": "App Compliance Automation Azure architecture icon (Other).",
+    "fullname": "App Compliance Automation",
+    "name": "app-compliance-automation"
+  },
+  {
+    "path": "icons/other/aquila.svg",
+    "tags": [
+      "other"
+    ],
+    "category": "other",
+    "color": "#0078D4",
+    "description": "Aquila Azure architecture icon (Other).",
+    "fullname": "Aquila",
+    "name": "aquila"
+  },
+  {
+    "path": "icons/other/arc-data-services.svg",
+    "tags": [
+      "other"
+    ],
+    "category": "other",
+    "color": "#0078D4",
+    "description": "Arc Data Services Azure architecture icon (Other).",
+    "fullname": "Arc Data Services",
+    "name": "arc-data-services"
+  },
+  {
+    "path": "icons/other/arc-postgresql.svg",
+    "tags": [
+      "other"
+    ],
+    "category": "other",
+    "color": "#0078D4",
+    "description": "Arc Postgresql Azure architecture icon (Other).",
+    "fullname": "Arc Postgresql",
+    "name": "arc-postgresql"
+  },
+  {
+    "path": "icons/other/arc-sql-managed-instance.svg",
+    "tags": [
+      "other"
+    ],
+    "category": "other",
+    "color": "#0078D4",
+    "description": "Arc SQL Managed Instance Azure architecture icon (Other).",
+    "fullname": "Arc SQL Managed Instance",
+    "name": "arc-sql-managed-instance"
+  },
+  {
+    "path": "icons/other/arc-sql-server.svg",
+    "tags": [
+      "other"
+    ],
+    "category": "other",
+    "color": "#0078D4",
+    "description": "Arc SQL Server Azure architecture icon (Other).",
+    "fullname": "Arc SQL Server",
+    "name": "arc-sql-server"
+  },
+  {
+    "path": "icons/other/avs-vm.svg",
+    "tags": [
+      "other"
+    ],
+    "category": "other",
+    "color": "#0078D4",
+    "description": "Avs VM Azure architecture icon (Other).",
+    "fullname": "Avs VM",
+    "name": "avs-vm"
+  },
+  {
+    "path": "icons/other/azure-a.svg",
+    "tags": [
+      "other"
+    ],
+    "category": "other",
+    "color": "#0078D4",
+    "description": "Azure A Azure architecture icon (Other).",
+    "fullname": "Azure A",
+    "name": "azure-a"
+  },
+  {
+    "path": "icons/other/azure-backup-center.svg",
+    "tags": [
+      "other"
+    ],
+    "category": "other",
+    "color": "#0078D4",
+    "description": "Azure Backup Center Azure architecture icon (Other).",
+    "fullname": "Azure Backup Center",
+    "name": "azure-backup-center"
+  },
+  {
+    "path": "icons/other/azure-center-for-sap.svg",
+    "tags": [
+      "other"
+    ],
+    "category": "other",
+    "color": "#0078D4",
+    "description": "Azure Center For Sap Azure architecture icon (Other).",
+    "fullname": "Azure Center For Sap",
+    "name": "azure-center-for-sap"
+  },
+  {
+    "path": "icons/other/azure-chaos-studio.svg",
+    "tags": [
+      "other"
+    ],
+    "category": "other",
+    "color": "#0078D4",
+    "description": "Azure Chaos Studio Azure architecture icon (Other).",
+    "fullname": "Azure Chaos Studio",
+    "name": "azure-chaos-studio"
+  },
+  {
+    "path": "icons/other/azure-cloud-shell.svg",
+    "tags": [
+      "other"
+    ],
+    "category": "other",
+    "color": "#0078D4",
+    "description": "Azure Cloud Shell Azure architecture icon (Other).",
+    "fullname": "Azure Cloud Shell",
+    "name": "azure-cloud-shell"
+  },
+  {
+    "path": "icons/other/azure-communication-services.svg",
+    "tags": [
+      "other"
+    ],
+    "category": "other",
+    "color": "#0078D4",
+    "description": "Azure Communication Services Azure architecture icon (Other).",
+    "fullname": "Azure Communication Services",
+    "name": "azure-communication-services"
+  },
+  {
+    "path": "icons/other/azure-consumption-commitment.svg",
+    "tags": [
+      "other"
+    ],
+    "category": "other",
+    "color": "#0078D4",
+    "description": "Azure Consumption Commitment Azure architecture icon (Other).",
+    "fullname": "Azure Consumption Commitment",
+    "name": "azure-consumption-commitment"
+  },
+  {
+    "path": "icons/other/azure-deployment-environments.svg",
+    "tags": [
+      "other"
+    ],
+    "category": "other",
+    "color": "#0078D4",
+    "description": "Azure Deployment Environments Azure architecture icon (Other).",
+    "fullname": "Azure Deployment Environments",
+    "name": "azure-deployment-environments"
+  },
+  {
+    "path": "icons/other/azure-dev-tunnels.svg",
+    "tags": [
+      "other"
+    ],
+    "category": "other",
+    "color": "#0078D4",
+    "description": "Azure Dev Tunnels Azure architecture icon (Other).",
+    "fullname": "Azure Dev Tunnels",
+    "name": "azure-dev-tunnels"
+  },
+  {
+    "path": "icons/other/azure-edge-hardware-center.svg",
+    "tags": [
+      "other"
+    ],
+    "category": "other",
+    "color": "#0078D4",
+    "description": "Azure Edge Hardware Center Azure architecture icon (Other).",
+    "fullname": "Azure Edge Hardware Center",
+    "name": "azure-edge-hardware-center"
+  },
+  {
+    "path": "icons/other/azure-enclaves.svg",
+    "tags": [
+      "other"
+    ],
+    "category": "other",
+    "color": "#0078D4",
+    "description": "Azure Enclaves Azure architecture icon (Other).",
+    "fullname": "Azure Enclaves",
+    "name": "azure-enclaves"
+  },
+  {
+    "path": "icons/other/azure-hpc-workbenches.svg",
+    "tags": [
+      "other"
+    ],
+    "category": "other",
+    "color": "#0078D4",
+    "description": "Azure Hpc Workbenches Azure architecture icon (Other).",
+    "fullname": "Azure Hpc Workbenches",
+    "name": "azure-hpc-workbenches"
+  },
+  {
+    "path": "icons/other/azure-load-testing.svg",
+    "tags": [
+      "other"
+    ],
+    "category": "other",
+    "color": "#0078D4",
+    "description": "Azure Load Testing Azure architecture icon (Other).",
+    "fullname": "Azure Load Testing",
+    "name": "azure-load-testing"
+  },
+  {
+    "path": "icons/other/azure-managed-grafana.svg",
+    "tags": [
+      "other"
+    ],
+    "category": "other",
+    "color": "#0078D4",
+    "description": "Azure Managed Grafana Azure architecture icon (Other).",
+    "fullname": "Azure Managed Grafana",
+    "name": "azure-managed-grafana"
+  },
+  {
+    "path": "icons/other/azure-monitor-dashboard.svg",
+    "tags": [
+      "other"
+    ],
+    "category": "other",
+    "color": "#0078D4",
+    "description": "Azure Monitor Dashboard Azure architecture icon (Other).",
+    "fullname": "Azure Monitor Dashboard",
+    "name": "azure-monitor-dashboard"
+  },
+  {
+    "path": "icons/other/azure-network-function-manager.svg",
+    "tags": [
+      "other"
+    ],
+    "category": "other",
+    "color": "#0078D4",
+    "description": "Azure Network Function Manager Azure architecture icon (Other).",
+    "fullname": "Azure Network Function Manager",
+    "name": "azure-network-function-manager"
+  },
+  {
+    "path": "icons/other/azure-network-function-manager-functions.svg",
+    "tags": [
+      "other"
+    ],
+    "category": "other",
+    "color": "#0078D4",
+    "description": "Azure Network Function Manager Functions Azure architecture icon (Other).",
+    "fullname": "Azure Network Function Manager Functions",
+    "name": "azure-network-function-manager-functions"
+  },
+  {
+    "path": "icons/other/azure-orbital.svg",
+    "tags": [
+      "other"
+    ],
+    "category": "other",
+    "color": "#0078D4",
+    "description": "Azure Orbital Azure architecture icon (Other).",
+    "fullname": "Azure Orbital",
+    "name": "azure-orbital"
+  },
+  {
+    "path": "icons/other/azure-quotas.svg",
+    "tags": [
+      "other"
+    ],
+    "category": "other",
+    "color": "#0078D4",
+    "description": "Azure Quotas Azure architecture icon (Other).",
+    "fullname": "Azure Quotas",
+    "name": "azure-quotas"
+  },
+  {
+    "path": "icons/other/azure-sphere.svg",
+    "tags": [
+      "other"
+    ],
+    "category": "other",
+    "color": "#0078D4",
+    "description": "Azure Sphere Azure architecture icon (Other).",
+    "fullname": "Azure Sphere",
+    "name": "azure-sphere"
+  },
+  {
+    "path": "icons/other/azure-storage-mover.svg",
+    "tags": [
+      "other"
+    ],
+    "category": "other",
+    "color": "#0078D4",
+    "description": "Azure Storage Mover Azure architecture icon (Other).",
+    "fullname": "Azure Storage Mover",
+    "name": "azure-storage-mover"
+  },
+  {
+    "path": "icons/other/azure-support-center-blue.svg",
+    "tags": [
+      "other"
+    ],
+    "category": "other",
+    "color": "#0078D4",
+    "description": "Azure Support Center Blue Azure architecture icon (Other).",
+    "fullname": "Azure Support Center Blue",
+    "name": "azure-support-center-blue"
+  },
+  {
+    "path": "icons/other/azure-sustainability.svg",
+    "tags": [
+      "other"
+    ],
+    "category": "other",
+    "color": "#0078D4",
+    "description": "Azure Sustainability Azure architecture icon (Other).",
+    "fullname": "Azure Sustainability",
+    "name": "azure-sustainability"
+  },
+  {
+    "path": "icons/other/azure-video-indexer.svg",
+    "tags": [
+      "other"
+    ],
+    "category": "other",
+    "color": "#0078D4",
+    "description": "Azure Video Indexer Azure architecture icon (Other).",
+    "fullname": "Azure Video Indexer",
+    "name": "azure-video-indexer"
+  },
+  {
+    "path": "icons/other/azure-virtual-desktop.svg",
+    "tags": [
+      "other"
+    ],
+    "category": "other",
+    "color": "#0078D4",
+    "description": "Azure Virtual Desktop Azure architecture icon (Other).",
+    "fullname": "Azure Virtual Desktop",
+    "name": "azure-virtual-desktop"
+  },
+  {
+    "path": "icons/other/azure-vmware-solution.svg",
+    "tags": [
+      "other"
+    ],
+    "category": "other",
+    "color": "#0078D4",
+    "description": "Azure Vmware Solution Azure architecture icon (Other).",
+    "fullname": "Azure Vmware Solution",
+    "name": "azure-vmware-solution"
+  },
+  {
+    "path": "icons/other/azureattestation.svg",
+    "tags": [
+      "other"
+    ],
+    "category": "other",
+    "color": "#0078D4",
+    "description": "Azureattestation Azure architecture icon (Other).",
+    "fullname": "Azureattestation",
+    "name": "azureattestation"
+  },
+  {
+    "path": "icons/other/azurite.svg",
+    "tags": [
+      "other"
+    ],
+    "category": "other",
+    "color": "#0078D4",
+    "description": "Azurite Azure architecture icon (Other).",
+    "fullname": "Azurite",
+    "name": "azurite"
+  },
+  {
+    "path": "icons/other/backup-vault.svg",
+    "tags": [
+      "other"
+    ],
+    "category": "other",
+    "color": "#0078D4",
+    "description": "Backup Vault Azure architecture icon (Other).",
+    "fullname": "Backup Vault",
+    "name": "backup-vault"
+  },
+  {
+    "path": "icons/other/bare-metal-infrastructure.svg",
+    "tags": [
+      "other"
+    ],
+    "category": "other",
+    "color": "#0078D4",
+    "description": "Bare Metal Infrastructure Azure architecture icon (Other).",
+    "fullname": "Bare Metal Infrastructure",
+    "name": "bare-metal-infrastructure"
+  },
+  {
+    "path": "icons/other/breeze.svg",
+    "tags": [
+      "other"
+    ],
+    "category": "other",
+    "color": "#0078D4",
+    "description": "Breeze Azure architecture icon (Other).",
+    "fullname": "Breeze",
+    "name": "breeze"
+  },
+  {
+    "path": "icons/other/capacity-reservation-groups.svg",
+    "tags": [
+      "other"
+    ],
+    "category": "other",
+    "color": "#0078D4",
+    "description": "Capacity Reservation Groups Azure architecture icon (Other).",
+    "fullname": "Capacity Reservation Groups",
+    "name": "capacity-reservation-groups"
+  },
+  {
+    "path": "icons/other/central-service-instance-for-sap.svg",
+    "tags": [
+      "other"
+    ],
+    "category": "other",
+    "color": "#0078D4",
+    "description": "Central Service Instance For Sap Azure architecture icon (Other).",
+    "fullname": "Central Service Instance For Sap",
+    "name": "central-service-instance-for-sap"
+  },
+  {
+    "path": "icons/other/ceres.svg",
+    "tags": [
+      "other"
+    ],
+    "category": "other",
+    "color": "#0078D4",
+    "description": "Ceres Azure architecture icon (Other).",
+    "fullname": "Ceres",
+    "name": "ceres"
+  },
+  {
+    "path": "icons/other/cloud-services-extended-support.svg",
+    "tags": [
+      "other"
+    ],
+    "category": "other",
+    "color": "#0078D4",
+    "description": "Cloud Services Extended Support Azure architecture icon (Other).",
+    "fullname": "Cloud Services Extended Support",
+    "name": "cloud-services-extended-support"
+  },
+  {
+    "path": "icons/other/community-images.svg",
+    "tags": [
+      "other"
+    ],
+    "category": "other",
+    "color": "#0078D4",
+    "description": "Community Images Azure architecture icon (Other).",
+    "fullname": "Community Images",
+    "name": "community-images"
+  },
+  {
+    "path": "icons/other/compliance-center.svg",
+    "tags": [
+      "other"
+    ],
+    "category": "other",
+    "color": "#0078D4",
+    "description": "Compliance Center Azure architecture icon (Other).",
+    "fullname": "Compliance Center",
+    "name": "compliance-center"
+  },
+  {
+    "path": "icons/other/confidential-ledgers.svg",
+    "tags": [
+      "other"
+    ],
+    "category": "other",
+    "color": "#0078D4",
+    "description": "Confidential Ledgers Azure architecture icon (Other).",
+    "fullname": "Confidential Ledgers",
+    "name": "confidential-ledgers"
+  },
+  {
+    "path": "icons/other/connected-vehicle-platform.svg",
+    "tags": [
+      "other"
+    ],
+    "category": "other",
+    "color": "#0078D4",
+    "description": "Connected Vehicle Platform Azure architecture icon (Other).",
+    "fullname": "Connected Vehicle Platform",
+    "name": "connected-vehicle-platform"
+  },
+  {
+    "path": "icons/other/container-apps-environments.svg",
+    "tags": [
+      "other"
+    ],
+    "category": "other",
+    "color": "#0078D4",
+    "description": "Container Apps Environments Azure architecture icon (Other).",
+    "fullname": "Container Apps Environments",
+    "name": "container-apps-environments"
+  },
+  {
+    "path": "icons/other/cost-export.svg",
+    "tags": [
+      "other"
+    ],
+    "category": "other",
+    "color": "#0078D4",
+    "description": "Cost Export Azure architecture icon (Other).",
+    "fullname": "Cost Export",
+    "name": "cost-export"
+  },
+  {
+    "path": "icons/other/custom-ip-prefix.svg",
+    "tags": [
+      "other"
+    ],
+    "category": "other",
+    "color": "#0078D4",
+    "description": "Custom IP Prefix Azure architecture icon (Other).",
+    "fullname": "Custom IP Prefix",
+    "name": "custom-ip-prefix"
+  },
+  {
+    "path": "icons/other/dashboard-hub.svg",
+    "tags": [
+      "other"
+    ],
+    "category": "other",
+    "color": "#0078D4",
+    "description": "Dashboard Hub Azure architecture icon (Other).",
+    "fullname": "Dashboard Hub",
+    "name": "dashboard-hub"
+  },
+  {
+    "path": "icons/other/data-collection-rules.svg",
+    "tags": [
+      "other"
+    ],
+    "category": "other",
+    "color": "#0078D4",
+    "description": "Data Collection Rules Azure architecture icon (Other).",
+    "fullname": "Data Collection Rules",
+    "name": "data-collection-rules"
+  },
+  {
+    "path": "icons/other/database-instance-for-sap.svg",
+    "tags": [
+      "other"
+    ],
+    "category": "other",
+    "color": "#0078D4",
+    "description": "Database Instance For Sap Azure architecture icon (Other).",
+    "fullname": "Database Instance For Sap",
+    "name": "database-instance-for-sap"
+  },
+  {
+    "path": "icons/other/dedicated-hsm.svg",
+    "tags": [
+      "other"
+    ],
+    "category": "other",
+    "color": "#0078D4",
+    "description": "Dedicated HSM Azure architecture icon (Other).",
+    "fullname": "Dedicated HSM",
+    "name": "dedicated-hsm"
+  },
+  {
+    "path": "icons/other/defender-cm-local-manager.svg",
+    "tags": [
+      "other"
+    ],
+    "category": "other",
+    "color": "#0078D4",
+    "description": "Defender Cm Local Manager Azure architecture icon (Other).",
+    "fullname": "Defender Cm Local Manager",
+    "name": "defender-cm-local-manager"
+  },
+  {
+    "path": "icons/other/defender-dcs-controller.svg",
+    "tags": [
+      "other"
+    ],
+    "category": "other",
+    "color": "#0078D4",
+    "description": "Defender Dcs Controller Azure architecture icon (Other).",
+    "fullname": "Defender Dcs Controller",
+    "name": "defender-dcs-controller"
+  },
+  {
+    "path": "icons/other/defender-distributer-control-system.svg",
+    "tags": [
+      "other"
+    ],
+    "category": "other",
+    "color": "#0078D4",
+    "description": "Defender Distributer Control System Azure architecture icon (Other).",
+    "fullname": "Defender Distributer Control System",
+    "name": "defender-distributer-control-system"
+  },
+  {
+    "path": "icons/other/defender-engineering-station.svg",
+    "tags": [
+      "other"
+    ],
+    "category": "other",
+    "color": "#0078D4",
+    "description": "Defender Engineering Station Azure architecture icon (Other).",
+    "fullname": "Defender Engineering Station",
+    "name": "defender-engineering-station"
+  },
+  {
+    "path": "icons/other/defender-external-management.svg",
+    "tags": [
+      "other"
+    ],
+    "category": "other",
+    "color": "#0078D4",
+    "description": "Defender External Management Azure architecture icon (Other).",
+    "fullname": "Defender External Management",
+    "name": "defender-external-management"
+  },
+  {
+    "path": "icons/other/defender-freezer-monitor.svg",
+    "tags": [
+      "other"
+    ],
+    "category": "other",
+    "color": "#0078D4",
+    "description": "Defender Freezer Monitor Azure architecture icon (Other).",
+    "fullname": "Defender Freezer Monitor",
+    "name": "defender-freezer-monitor"
+  },
+  {
+    "path": "icons/other/defender-historian.svg",
+    "tags": [
+      "other"
+    ],
+    "category": "other",
+    "color": "#0078D4",
+    "description": "Defender Historian Azure architecture icon (Other).",
+    "fullname": "Defender Historian",
+    "name": "defender-historian"
+  },
+  {
+    "path": "icons/other/defender-hmi.svg",
+    "tags": [
+      "other"
+    ],
+    "category": "other",
+    "color": "#0078D4",
+    "description": "Defender Hmi Azure architecture icon (Other).",
+    "fullname": "Defender Hmi",
+    "name": "defender-hmi"
+  },
+  {
+    "path": "icons/other/defender-industrial-packaging-system.svg",
+    "tags": [
+      "other"
+    ],
+    "category": "other",
+    "color": "#0078D4",
+    "description": "Defender Industrial Packaging System Azure architecture icon (Other).",
+    "fullname": "Defender Industrial Packaging System",
+    "name": "defender-industrial-packaging-system"
+  },
+  {
+    "path": "icons/other/defender-industrial-printer.svg",
+    "tags": [
+      "other"
+    ],
+    "category": "other",
+    "color": "#0078D4",
+    "description": "Defender Industrial Printer Azure architecture icon (Other).",
+    "fullname": "Defender Industrial Printer",
+    "name": "defender-industrial-printer"
+  },
+  {
+    "path": "icons/other/defender-industrial-robot.svg",
+    "tags": [
+      "other"
+    ],
+    "category": "other",
+    "color": "#0078D4",
+    "description": "Defender Industrial Robot Azure architecture icon (Other).",
+    "fullname": "Defender Industrial Robot",
+    "name": "defender-industrial-robot"
+  },
+  {
+    "path": "icons/other/defender-industrial-scale-system.svg",
+    "tags": [
+      "other"
+    ],
+    "category": "other",
+    "color": "#0078D4",
+    "description": "Defender Industrial Scale System Azure architecture icon (Other).",
+    "fullname": "Defender Industrial Scale System",
+    "name": "defender-industrial-scale-system"
+  },
+  {
+    "path": "icons/other/defender-marquee.svg",
+    "tags": [
+      "other"
+    ],
+    "category": "other",
+    "color": "#0078D4",
+    "description": "Defender Marquee Azure architecture icon (Other).",
+    "fullname": "Defender Marquee",
+    "name": "defender-marquee"
+  },
+  {
+    "path": "icons/other/defender-meter.svg",
+    "tags": [
+      "other"
+    ],
+    "category": "other",
+    "color": "#0078D4",
+    "description": "Defender Meter Azure architecture icon (Other).",
+    "fullname": "Defender Meter",
+    "name": "defender-meter"
+  },
+  {
+    "path": "icons/other/defender-plc.svg",
+    "tags": [
+      "other"
+    ],
+    "category": "other",
+    "color": "#0078D4",
+    "description": "Defender Plc Azure architecture icon (Other).",
+    "fullname": "Defender Plc",
+    "name": "defender-plc"
+  },
+  {
+    "path": "icons/other/defender-pneumatic-device.svg",
+    "tags": [
+      "other"
+    ],
+    "category": "other",
+    "color": "#0078D4",
+    "description": "Defender Pneumatic Device Azure architecture icon (Other).",
+    "fullname": "Defender Pneumatic Device",
+    "name": "defender-pneumatic-device"
+  },
+  {
+    "path": "icons/other/defender-programable-board.svg",
+    "tags": [
+      "other"
+    ],
+    "category": "other",
+    "color": "#0078D4",
+    "description": "Defender Programable Board Azure architecture icon (Other).",
+    "fullname": "Defender Programable Board",
+    "name": "defender-programable-board"
+  },
+  {
+    "path": "icons/other/defender-relay.svg",
+    "tags": [
+      "other"
+    ],
+    "category": "other",
+    "color": "#0078D4",
+    "description": "Defender Relay Azure architecture icon (Other).",
+    "fullname": "Defender Relay",
+    "name": "defender-relay"
+  },
+  {
+    "path": "icons/other/defender-robot-controller.svg",
+    "tags": [
+      "other"
+    ],
+    "category": "other",
+    "color": "#0078D4",
+    "description": "Defender Robot Controller Azure architecture icon (Other).",
+    "fullname": "Defender Robot Controller",
+    "name": "defender-robot-controller"
+  },
+  {
+    "path": "icons/other/defender-rtu.svg",
+    "tags": [
+      "other"
+    ],
+    "category": "other",
+    "color": "#0078D4",
+    "description": "Defender Rtu Azure architecture icon (Other).",
+    "fullname": "Defender Rtu",
+    "name": "defender-rtu"
+  },
+  {
+    "path": "icons/other/defender-sensor.svg",
+    "tags": [
+      "other"
+    ],
+    "category": "other",
+    "color": "#0078D4",
+    "description": "Defender Sensor Azure architecture icon (Other).",
+    "fullname": "Defender Sensor",
+    "name": "defender-sensor"
+  },
+  {
+    "path": "icons/other/defender-slot.svg",
+    "tags": [
+      "other"
+    ],
+    "category": "other",
+    "color": "#0078D4",
+    "description": "Defender Slot Azure architecture icon (Other).",
+    "fullname": "Defender Slot",
+    "name": "defender-slot"
+  },
+  {
+    "path": "icons/other/defender-web-guiding-system.svg",
+    "tags": [
+      "other"
+    ],
+    "category": "other",
+    "color": "#0078D4",
+    "description": "Defender Web Guiding System Azure architecture icon (Other).",
+    "fullname": "Defender Web Guiding System",
+    "name": "defender-web-guiding-system"
+  },
+  {
+    "path": "icons/other/device-update-iot-hub.svg",
+    "tags": [
+      "other"
+    ],
+    "category": "other",
+    "color": "#0078D4",
+    "description": "Device Update IoT Hub Azure architecture icon (Other).",
+    "fullname": "Device Update IoT Hub",
+    "name": "device-update-iot-hub"
+  },
+  {
+    "path": "icons/other/disk-pool.svg",
+    "tags": [
+      "other"
+    ],
+    "category": "other",
+    "color": "#0078D4",
+    "description": "Disk Pool Azure architecture icon (Other).",
+    "fullname": "Disk Pool",
+    "name": "disk-pool"
+  },
+  {
+    "path": "icons/other/edge-management.svg",
+    "tags": [
+      "other"
+    ],
+    "category": "other",
+    "color": "#0078D4",
+    "description": "Edge Management Azure architecture icon (Other).",
+    "fullname": "Edge Management",
+    "name": "edge-management"
+  },
+  {
+    "path": "icons/other/elastic-san.svg",
+    "tags": [
+      "other"
+    ],
+    "category": "other",
+    "color": "#0078D4",
+    "description": "Elastic San Azure architecture icon (Other).",
+    "fullname": "Elastic San",
+    "name": "elastic-san"
+  },
+  {
+    "path": "icons/other/exchange-on-premises-access.svg",
+    "tags": [
+      "other"
+    ],
+    "category": "other",
+    "color": "#0078D4",
+    "description": "Exchange On Premises Access Azure architecture icon (Other).",
+    "fullname": "Exchange On Premises Access",
+    "name": "exchange-on-premises-access"
+  },
+  {
+    "path": "icons/other/express-route-traffic-collector.svg",
+    "tags": [
+      "other"
+    ],
+    "category": "other",
+    "color": "#0078D4",
+    "description": "Express Route Traffic Collector Azure architecture icon (Other).",
+    "fullname": "Express Route Traffic Collector",
+    "name": "express-route-traffic-collector"
+  },
+  {
+    "path": "icons/other/expressroute-direct.svg",
+    "tags": [
+      "other"
+    ],
+    "category": "other",
+    "color": "#0078D4",
+    "description": "Expressroute Direct Azure architecture icon (Other).",
+    "fullname": "Expressroute Direct",
+    "name": "expressroute-direct"
+  },
+  {
+    "path": "icons/other/fhir-service.svg",
+    "tags": [
+      "other"
+    ],
+    "category": "other",
+    "color": "#0078D4",
+    "description": "Fhir Service Azure architecture icon (Other).",
+    "fullname": "Fhir Service",
+    "name": "fhir-service"
+  },
+  {
+    "path": "icons/other/fiji.svg",
+    "tags": [
+      "other"
+    ],
+    "category": "other",
+    "color": "#0078D4",
+    "description": "Fiji Azure architecture icon (Other).",
+    "fullname": "Fiji",
+    "name": "fiji"
+  },
+  {
+    "path": "icons/other/hdi-aks-cluster.svg",
+    "tags": [
+      "other"
+    ],
+    "category": "other",
+    "color": "#0078D4",
+    "description": "Hdi AKS Cluster Azure architecture icon (Other).",
+    "fullname": "Hdi AKS Cluster",
+    "name": "hdi-aks-cluster"
+  },
+  {
+    "path": "icons/other/icm-troubleshooting.svg",
+    "tags": [
+      "other"
+    ],
+    "category": "other",
+    "color": "#0078D4",
+    "description": "Icm Troubleshooting Azure architecture icon (Other).",
+    "fullname": "Icm Troubleshooting",
+    "name": "icm-troubleshooting"
+  },
+  {
+    "path": "icons/other/internet-analyzer-profiles.svg",
+    "tags": [
+      "other"
+    ],
+    "category": "other",
+    "color": "#0078D4",
+    "description": "Internet Analyzer Profiles Azure architecture icon (Other).",
+    "fullname": "Internet Analyzer Profiles",
+    "name": "internet-analyzer-profiles"
+  },
+  {
+    "path": "icons/other/kubernetes-fleet-manager.svg",
+    "tags": [
+      "other"
+    ],
+    "category": "other",
+    "color": "#0078D4",
+    "description": "Kubernetes Fleet Manager Azure architecture icon (Other).",
+    "fullname": "Kubernetes Fleet Manager",
+    "name": "kubernetes-fleet-manager"
+  },
+  {
+    "path": "icons/other/log-analytics-query-pack.svg",
+    "tags": [
+      "other"
+    ],
+    "category": "other",
+    "color": "#0078D4",
+    "description": "Log Analytics Query Pack Azure architecture icon (Other).",
+    "fullname": "Log Analytics Query Pack",
+    "name": "log-analytics-query-pack"
+  },
+  {
+    "path": "icons/other/managed-instance-apache-cassandra.svg",
+    "tags": [
+      "other"
+    ],
+    "category": "other",
+    "color": "#0078D4",
+    "description": "Managed Instance Apache Cassandra Azure architecture icon (Other).",
+    "fullname": "Managed Instance Apache Cassandra",
+    "name": "managed-instance-apache-cassandra"
+  },
+  {
+    "path": "icons/other/medtech-service.svg",
+    "tags": [
+      "other"
+    ],
+    "category": "other",
+    "color": "#0078D4",
+    "description": "Medtech Service Azure architecture icon (Other).",
+    "fullname": "Medtech Service",
+    "name": "medtech-service"
+  },
+  {
+    "path": "icons/other/microsoft-dev-box.svg",
+    "tags": [
+      "other"
+    ],
+    "category": "other",
+    "color": "#0078D4",
+    "description": "Microsoft Dev Box Azure architecture icon (Other).",
+    "fullname": "Microsoft Dev Box",
+    "name": "microsoft-dev-box"
+  },
+  {
+    "path": "icons/other/microsoft-discovery.svg",
+    "tags": [
+      "other"
+    ],
+    "category": "other",
+    "color": "#0078D4",
+    "description": "Microsoft Discovery Azure architecture icon (Other).",
+    "fullname": "Microsoft Discovery",
+    "name": "microsoft-discovery"
+  },
+  {
+    "path": "icons/other/mission-landing-zone.svg",
+    "tags": [
+      "other"
+    ],
+    "category": "other",
+    "color": "#0078D4",
+    "description": "Mission Landing Zone Azure architecture icon (Other).",
+    "fullname": "Mission Landing Zone",
+    "name": "mission-landing-zone"
+  },
+  {
+    "path": "icons/other/mobile-networks.svg",
+    "tags": [
+      "other"
+    ],
+    "category": "other",
+    "color": "#0078D4",
+    "description": "Mobile Networks Azure architecture icon (Other).",
+    "fullname": "Mobile Networks",
+    "name": "mobile-networks"
+  },
+  {
+    "path": "icons/other/modular-data-center.svg",
+    "tags": [
+      "other"
+    ],
+    "category": "other",
+    "color": "#0078D4",
+    "description": "Modular Data Center Azure architecture icon (Other).",
+    "fullname": "Modular Data Center",
+    "name": "modular-data-center"
+  },
+  {
+    "path": "icons/other/monitor-health-models.svg",
+    "tags": [
+      "other"
+    ],
+    "category": "other",
+    "color": "#0078D4",
+    "description": "Monitor Health Models Azure architecture icon (Other).",
+    "fullname": "Monitor Health Models",
+    "name": "monitor-health-models"
+  },
+  {
+    "path": "icons/other/network-managers.svg",
+    "tags": [
+      "other"
+    ],
+    "category": "other",
+    "color": "#0078D4",
+    "description": "Network Managers Azure architecture icon (Other).",
+    "fullname": "Network Managers",
+    "name": "network-managers"
+  },
+  {
+    "path": "icons/other/network-security-perimeters.svg",
+    "tags": [
+      "other"
+    ],
+    "category": "other",
+    "color": "#0078D4",
+    "description": "Network Security Perimeters Azure architecture icon (Other).",
+    "fullname": "Network Security Perimeters",
+    "name": "network-security-perimeters"
+  },
+  {
+    "path": "icons/other/open-supply-chain-platform.svg",
+    "tags": [
+      "other"
+    ],
+    "category": "other",
+    "color": "#0078D4",
+    "description": "Open Supply Chain Platform Azure architecture icon (Other).",
+    "fullname": "Open Supply Chain Platform",
+    "name": "open-supply-chain-platform"
+  },
+  {
+    "path": "icons/other/osconfig.svg",
+    "tags": [
+      "other"
+    ],
+    "category": "other",
+    "color": "#0078D4",
+    "description": "Osconfig Azure architecture icon (Other).",
+    "fullname": "Osconfig",
+    "name": "osconfig"
+  },
+  {
+    "path": "icons/other/peering-service.svg",
+    "tags": [
+      "other"
+    ],
+    "category": "other",
+    "color": "#0078D4",
+    "description": "Peering Service Azure architecture icon (Other).",
+    "fullname": "Peering Service",
+    "name": "peering-service"
+  },
+  {
+    "path": "icons/other/peerings.svg",
+    "tags": [
+      "other"
+    ],
+    "category": "other",
+    "color": "#0078D4",
+    "description": "Peerings Azure architecture icon (Other).",
+    "fullname": "Peerings",
+    "name": "peerings"
+  },
+  {
+    "path": "icons/other/private-endpoints.svg",
+    "tags": [
+      "other"
+    ],
+    "category": "other",
+    "color": "#0078D4",
+    "description": "Private Endpoints Azure architecture icon (Other).",
+    "fullname": "Private Endpoints",
+    "name": "private-endpoints"
+  },
+  {
+    "path": "icons/other/promethus.svg",
+    "tags": [
+      "other"
+    ],
+    "category": "other",
+    "color": "#0078D4",
+    "description": "Promethus Azure architecture icon (Other).",
+    "fullname": "Promethus",
+    "name": "promethus"
+  },
+  {
+    "path": "icons/other/reserved-capacity.svg",
+    "tags": [
+      "other"
+    ],
+    "category": "other",
+    "color": "#0078D4",
+    "description": "Reserved Capacity Azure architecture icon (Other).",
+    "fullname": "Reserved Capacity",
+    "name": "reserved-capacity"
+  },
+  {
+    "path": "icons/other/resource-guard.svg",
+    "tags": [
+      "other"
+    ],
+    "category": "other",
+    "color": "#0078D4",
+    "description": "Resource Guard Azure architecture icon (Other).",
+    "fullname": "Resource Guard",
+    "name": "resource-guard"
+  },
+  {
+    "path": "icons/other/resource-mover.svg",
+    "tags": [
+      "other"
+    ],
+    "category": "other",
+    "color": "#0078D4",
+    "description": "Resource Mover Azure architecture icon (Other).",
+    "fullname": "Resource Mover",
+    "name": "resource-mover"
+  },
+  {
+    "path": "icons/other/rtos.svg",
+    "tags": [
+      "other"
+    ],
+    "category": "other",
+    "color": "#0078D4",
+    "description": "Rtos Azure architecture icon (Other).",
+    "fullname": "Rtos",
+    "name": "rtos"
+  },
+  {
+    "path": "icons/other/savings-plans.svg",
+    "tags": [
+      "other"
+    ],
+    "category": "other",
+    "color": "#0078D4",
+    "description": "Savings Plans Azure architecture icon (Other).",
+    "fullname": "Savings Plans",
+    "name": "savings-plans"
+  },
+  {
+    "path": "icons/other/scvmm-management-servers.svg",
+    "tags": [
+      "other"
+    ],
+    "category": "other",
+    "color": "#0078D4",
+    "description": "Scvmm Management Servers Azure architecture icon (Other).",
+    "fullname": "Scvmm Management Servers",
+    "name": "scvmm-management-servers"
+  },
+  {
+    "path": "icons/other/sonic-dash.svg",
+    "tags": [
+      "other"
+    ],
+    "category": "other",
+    "color": "#0078D4",
+    "description": "Sonic Dash Azure architecture icon (Other).",
+    "fullname": "Sonic Dash",
+    "name": "sonic-dash"
+  },
+  {
+    "path": "icons/other/ssh-keys.svg",
+    "tags": [
+      "other"
+    ],
+    "category": "other",
+    "color": "#0078D4",
+    "description": "SSH Keys Azure architecture icon (Other).",
+    "fullname": "SSH Keys",
+    "name": "ssh-keys"
+  },
+  {
+    "path": "icons/other/storage-functions.svg",
+    "tags": [
+      "other"
+    ],
+    "category": "other",
+    "color": "#0078D4",
+    "description": "Storage Functions Azure architecture icon (Other).",
+    "fullname": "Storage Functions",
+    "name": "storage-functions"
+  },
+  {
+    "path": "icons/other/targets-management.svg",
+    "tags": [
+      "other"
+    ],
+    "category": "other",
+    "color": "#0078D4",
+    "description": "Targets Management Azure architecture icon (Other).",
+    "fullname": "Targets Management",
+    "name": "targets-management"
+  },
+  {
+    "path": "icons/other/template-specs.svg",
+    "tags": [
+      "other"
+    ],
+    "category": "other",
+    "color": "#0078D4",
+    "description": "Template Specs Azure architecture icon (Other).",
+    "fullname": "Template Specs",
+    "name": "template-specs"
+  },
+  {
+    "path": "icons/other/test-base.svg",
+    "tags": [
+      "other"
+    ],
+    "category": "other",
+    "color": "#0078D4",
+    "description": "Test Base Azure architecture icon (Other).",
+    "fullname": "Test Base",
+    "name": "test-base"
+  },
+  {
+    "path": "icons/other/update-management-center.svg",
+    "tags": [
+      "other"
+    ],
+    "category": "other",
+    "color": "#0078D4",
+    "description": "Update Management Center Azure architecture icon (Other).",
+    "fullname": "Update Management Center",
+    "name": "update-management-center"
+  },
+  {
+    "path": "icons/other/video-analyzers.svg",
+    "tags": [
+      "other"
+    ],
+    "category": "other",
+    "color": "#0078D4",
+    "description": "Video Analyzers Azure architecture icon (Other).",
+    "fullname": "Video Analyzers",
+    "name": "video-analyzers"
+  },
+  {
+    "path": "icons/other/virtual-instance-for-sap.svg",
+    "tags": [
+      "other"
+    ],
+    "category": "other",
+    "color": "#0078D4",
+    "description": "Virtual Instance For Sap Azure architecture icon (Other).",
+    "fullname": "Virtual Instance For Sap",
+    "name": "virtual-instance-for-sap"
+  },
+  {
+    "path": "icons/other/virtual-visits-builder.svg",
+    "tags": [
+      "other"
+    ],
+    "category": "other",
+    "color": "#0078D4",
+    "description": "Virtual Visits Builder Azure architecture icon (Other).",
+    "fullname": "Virtual Visits Builder",
+    "name": "virtual-visits-builder"
+  },
+  {
+    "path": "icons/other/vm-app-definitions.svg",
+    "tags": [
+      "other"
+    ],
+    "category": "other",
+    "color": "#0078D4",
+    "description": "VM App Definitions Azure architecture icon (Other).",
+    "fullname": "VM App Definitions",
+    "name": "vm-app-definitions"
+  },
+  {
+    "path": "icons/other/vm-app-versions.svg",
+    "tags": [
+      "other"
+    ],
+    "category": "other",
+    "color": "#0078D4",
+    "description": "VM App Versions Azure architecture icon (Other).",
+    "fullname": "VM App Versions",
+    "name": "vm-app-versions"
+  },
+  {
+    "path": "icons/other/vm-image-version.svg",
+    "tags": [
+      "other"
+    ],
+    "category": "other",
+    "color": "#0078D4",
+    "description": "VM Image Version Azure architecture icon (Other).",
+    "fullname": "VM Image Version",
+    "name": "vm-image-version"
+  },
+  {
+    "path": "icons/other/wac.svg",
+    "tags": [
+      "other"
+    ],
+    "category": "other",
+    "color": "#0078D4",
+    "description": "Wac Azure architecture icon (Other).",
+    "fullname": "Wac",
+    "name": "wac"
+  },
+  {
+    "path": "icons/other/wac-installer.svg",
+    "tags": [
+      "other"
+    ],
+    "category": "other",
+    "color": "#0078D4",
+    "description": "Wac Installer Azure architecture icon (Other).",
+    "fullname": "Wac Installer",
+    "name": "wac-installer"
+  },
+  {
+    "path": "icons/other/web-app-database.svg",
+    "tags": [
+      "other"
+    ],
+    "category": "other",
+    "color": "#0078D4",
+    "description": "Web App Database Azure architecture icon (Other).",
+    "fullname": "Web App Database",
+    "name": "web-app-database"
+  },
+  {
+    "path": "icons/other/web-jobs.svg",
+    "tags": [
+      "other"
+    ],
+    "category": "other",
+    "color": "#0078D4",
+    "description": "Web Jobs Azure architecture icon (Other).",
+    "fullname": "Web Jobs",
+    "name": "web-jobs"
+  },
+  {
+    "path": "icons/other/windows-notification-services.svg",
+    "tags": [
+      "other"
+    ],
+    "category": "other",
+    "color": "#0078D4",
+    "description": "Windows Notification Services Azure architecture icon (Other).",
+    "fullname": "Windows Notification Services",
+    "name": "windows-notification-services"
+  },
+  {
+    "path": "icons/other/worker-container-app.svg",
+    "tags": [
+      "other"
+    ],
+    "category": "other",
+    "color": "#0078D4",
+    "description": "Worker Container App Azure architecture icon (Other).",
+    "fullname": "Worker Container App",
+    "name": "worker-container-app"
+  },
+  {
+    "path": "icons/security/application-security-groups.svg",
+    "tags": [
+      "security"
+    ],
+    "category": "security",
+    "color": "#0078D4",
+    "description": "Application Security Groups Azure architecture icon (Security).",
+    "fullname": "Application Security Groups",
+    "name": "application-security-groups"
+  },
+  {
+    "path": "icons/security/azure-information-protection.svg",
+    "tags": [
+      "security"
+    ],
+    "category": "security",
+    "color": "#0078D4",
+    "description": "Azure Information Protection Azure architecture icon (Security).",
+    "fullname": "Azure Information Protection",
+    "name": "azure-information-protection"
+  },
+  {
+    "path": "icons/security/azure-sentinel.svg",
+    "tags": [
+      "security"
+    ],
+    "category": "security",
+    "color": "#0078D4",
+    "description": "Azure Sentinel Azure architecture icon (Security).",
+    "fullname": "Azure Sentinel",
+    "name": "azure-sentinel"
+  },
+  {
+    "path": "icons/security/conditional-access.svg",
+    "tags": [
+      "security"
+    ],
+    "category": "security",
+    "color": "#0078D4",
+    "description": "Conditional Access Azure architecture icon (Security).",
+    "fullname": "Conditional Access",
+    "name": "conditional-access"
+  },
+  {
+    "path": "icons/security/detonation.svg",
+    "tags": [
+      "security"
+    ],
+    "category": "security",
+    "color": "#0078D4",
+    "description": "Detonation Azure architecture icon (Security).",
+    "fullname": "Detonation",
+    "name": "detonation"
+  },
+  {
+    "path": "icons/security/entra-identity-risky-signins.svg",
+    "tags": [
+      "security"
+    ],
+    "category": "security",
+    "color": "#0078D4",
+    "description": "Entra Identity Risky Signins Azure architecture icon (Security).",
+    "fullname": "Entra Identity Risky Signins",
+    "name": "entra-identity-risky-signins"
+  },
+  {
+    "path": "icons/security/entra-identity-risky-users.svg",
+    "tags": [
+      "security"
+    ],
+    "category": "security",
+    "color": "#0078D4",
+    "description": "Entra Identity Risky Users Azure architecture icon (Security).",
+    "fullname": "Entra Identity Risky Users",
+    "name": "entra-identity-risky-users"
+  },
+  {
+    "path": "icons/security/extendedsecurityupdates.svg",
+    "tags": [
+      "security"
+    ],
+    "category": "security",
+    "color": "#0078D4",
+    "description": "Extendedsecurityupdates Azure architecture icon (Security).",
+    "fullname": "Extendedsecurityupdates",
+    "name": "extendedsecurityupdates"
+  },
+  {
+    "path": "icons/security/identity-secure-score.svg",
+    "tags": [
+      "security"
+    ],
+    "category": "security",
+    "color": "#0078D4",
+    "description": "Identity Secure Score Azure architecture icon (Security).",
+    "fullname": "Identity Secure Score",
+    "name": "identity-secure-score"
+  },
+  {
+    "path": "icons/security/key-vaults.svg",
+    "tags": [
+      "certificates",
+      "secrets",
+      "security"
+    ],
+    "category": "security",
+    "color": "#0078D4",
+    "description": "Key Vaults Azure architecture icon (Security).",
+    "fullname": "Key Vaults",
+    "name": "key-vaults"
+  },
+  {
+    "path": "icons/security/microsoft-defender-easm.svg",
+    "tags": [
+      "security"
+    ],
+    "category": "security",
+    "color": "#0078D4",
+    "description": "Microsoft Defender Easm Azure architecture icon (Security).",
+    "fullname": "Microsoft Defender Easm",
+    "name": "microsoft-defender-easm"
+  },
+  {
+    "path": "icons/security/microsoft-defender-for-cloud.svg",
+    "tags": [
+      "security"
+    ],
+    "category": "security",
+    "color": "#0078D4",
+    "description": "Microsoft Defender For Cloud Azure architecture icon (Security).",
+    "fullname": "Microsoft Defender For Cloud",
+    "name": "microsoft-defender-for-cloud"
+  },
+  {
+    "path": "icons/security/microsoft-defender-for-iot.svg",
+    "tags": [
+      "security"
+    ],
+    "category": "security",
+    "color": "#0078D4",
+    "description": "Microsoft Defender For IoT Azure architecture icon (Security).",
+    "fullname": "Microsoft Defender For IoT",
+    "name": "microsoft-defender-for-iot"
+  },
+  {
+    "path": "icons/security/multifactor-authentication.svg",
+    "tags": [
+      "security"
+    ],
+    "category": "security",
+    "color": "#0078D4",
+    "description": "Multifactor Authentication Azure architecture icon (Security).",
+    "fullname": "Multifactor Authentication",
+    "name": "multifactor-authentication"
+  },
+  {
+    "path": "icons/security/user-settings.svg",
+    "tags": [
+      "security"
+    ],
+    "category": "security",
+    "color": "#0078D4",
+    "description": "User Settings Azure architecture icon (Security).",
+    "fullname": "User Settings",
+    "name": "user-settings"
+  },
+  {
+    "path": "icons/storage/azure-databox-gateway.svg",
+    "tags": [
+      "storage"
+    ],
+    "category": "storage",
+    "color": "#0078D4",
+    "description": "Azure Databox Gateway Azure architecture icon (Storage).",
+    "fullname": "Azure Databox Gateway",
+    "name": "azure-databox-gateway"
+  },
+  {
+    "path": "icons/storage/azure-fileshares.svg",
+    "tags": [
+      "storage"
+    ],
+    "category": "storage",
+    "color": "#0078D4",
+    "description": "Azure Fileshares Azure architecture icon (Storage).",
+    "fullname": "Azure Fileshares",
+    "name": "azure-fileshares"
+  },
+  {
+    "path": "icons/storage/azure-hcp-cache.svg",
+    "tags": [
+      "storage"
+    ],
+    "category": "storage",
+    "color": "#0078D4",
+    "description": "Azure Hcp Cache Azure architecture icon (Storage).",
+    "fullname": "Azure Hcp Cache",
+    "name": "azure-hcp-cache"
+  },
+  {
+    "path": "icons/storage/azure-netapp-files.svg",
+    "tags": [
+      "storage"
+    ],
+    "category": "storage",
+    "color": "#0078D4",
+    "description": "Azure Netapp Files Azure architecture icon (Storage).",
+    "fullname": "Azure Netapp Files",
+    "name": "azure-netapp-files"
+  },
+  {
+    "path": "icons/storage/data-box.svg",
+    "tags": [
+      "storage"
+    ],
+    "category": "storage",
+    "color": "#0078D4",
+    "description": "Data Box Azure architecture icon (Storage).",
+    "fullname": "Data Box",
+    "name": "data-box"
+  },
+  {
+    "path": "icons/storage/data-lake-storage-gen1.svg",
+    "tags": [
+      "storage"
+    ],
+    "category": "storage",
+    "color": "#0078D4",
+    "description": "Data Lake Storage Gen1 Azure architecture icon (Storage).",
+    "fullname": "Data Lake Storage Gen1",
+    "name": "data-lake-storage-gen1"
+  },
+  {
+    "path": "icons/storage/data-share-invitations.svg",
+    "tags": [
+      "storage"
+    ],
+    "category": "storage",
+    "color": "#0078D4",
+    "description": "Data Share Invitations Azure architecture icon (Storage).",
+    "fullname": "Data Share Invitations",
+    "name": "data-share-invitations"
+  },
+  {
+    "path": "icons/storage/data-shares.svg",
+    "tags": [
+      "storage"
+    ],
+    "category": "storage",
+    "color": "#0078D4",
+    "description": "Data Shares Azure architecture icon (Storage).",
+    "fullname": "Data Shares",
+    "name": "data-shares"
+  },
+  {
+    "path": "icons/storage/data-virtualization.svg",
+    "tags": [
+      "storage"
+    ],
+    "category": "storage",
+    "color": "#0078D4",
+    "description": "Data Virtualization Azure architecture icon (Storage).",
+    "fullname": "Data Virtualization",
+    "name": "data-virtualization"
+  },
+  {
+    "path": "icons/storage/import-export-jobs.svg",
+    "tags": [
+      "storage"
+    ],
+    "category": "storage",
+    "color": "#0078D4",
+    "description": "Import Export Jobs Azure architecture icon (Storage).",
+    "fullname": "Import Export Jobs",
+    "name": "import-export-jobs"
+  },
+  {
+    "path": "icons/storage/managed-file-shares.svg",
+    "tags": [
+      "storage"
+    ],
+    "category": "storage",
+    "color": "#0078D4",
+    "description": "Managed File Shares Azure architecture icon (Storage).",
+    "fullname": "Managed File Shares",
+    "name": "managed-file-shares"
+  },
+  {
+    "path": "icons/storage/recovery-services-vaults.svg",
+    "tags": [
+      "storage"
+    ],
+    "category": "storage",
+    "color": "#0078D4",
+    "description": "Recovery Services Vaults Azure architecture icon (Storage).",
+    "fullname": "Recovery Services Vaults",
+    "name": "recovery-services-vaults"
+  },
+  {
+    "path": "icons/storage/storage-accounts.svg",
+    "tags": [
+      "blob",
+      "storage"
+    ],
+    "category": "storage",
+    "color": "#0078D4",
+    "description": "Storage Accounts Azure architecture icon (Storage).",
+    "fullname": "Storage Accounts",
+    "name": "storage-accounts"
+  },
+  {
+    "path": "icons/storage/storage-accounts-classic.svg",
+    "tags": [
+      "storage"
+    ],
+    "category": "storage",
+    "color": "#0078D4",
+    "description": "Storage Accounts Classic Azure architecture icon (Storage).",
+    "fullname": "Storage Accounts Classic",
+    "name": "storage-accounts-classic"
+  },
+  {
+    "path": "icons/storage/storage-actions.svg",
+    "tags": [
+      "storage"
+    ],
+    "category": "storage",
+    "color": "#0078D4",
+    "description": "Storage Actions Azure architecture icon (Storage).",
+    "fullname": "Storage Actions",
+    "name": "storage-actions"
+  },
+  {
+    "path": "icons/storage/storage-explorer.svg",
+    "tags": [
+      "storage"
+    ],
+    "category": "storage",
+    "color": "#0078D4",
+    "description": "Storage Explorer Azure architecture icon (Storage).",
+    "fullname": "Storage Explorer",
+    "name": "storage-explorer"
+  },
+  {
+    "path": "icons/storage/storage-hubs.svg",
+    "tags": [
+      "storage"
+    ],
+    "category": "storage",
+    "color": "#0078D4",
+    "description": "Storage Hubs Azure architecture icon (Storage).",
+    "fullname": "Storage Hubs",
+    "name": "storage-hubs"
+  },
+  {
+    "path": "icons/storage/storage-sync-services.svg",
+    "tags": [
+      "storage"
+    ],
+    "category": "storage",
+    "color": "#0078D4",
+    "description": "Storage Sync Services Azure architecture icon (Storage).",
+    "fullname": "Storage Sync Services",
+    "name": "storage-sync-services"
+  },
+  {
+    "path": "icons/storage/storsimple-data-managers.svg",
+    "tags": [
+      "storage"
+    ],
+    "category": "storage",
+    "color": "#0078D4",
+    "description": "Storsimple Data Managers Azure architecture icon (Storage).",
+    "fullname": "Storsimple Data Managers",
+    "name": "storsimple-data-managers"
+  },
+  {
+    "path": "icons/storage/storsimple-device-managers.svg",
+    "tags": [
+      "storage"
+    ],
+    "category": "storage",
+    "color": "#0078D4",
+    "description": "Storsimple Device Managers Azure architecture icon (Storage).",
+    "fullname": "Storsimple Device Managers",
+    "name": "storsimple-device-managers"
+  },
+  {
+    "path": "icons/web/api-center.svg",
+    "tags": [
+      "web"
+    ],
+    "category": "web",
+    "color": "#0078D4",
+    "description": "API Center Azure architecture icon (Web).",
+    "fullname": "API Center",
+    "name": "api-center"
+  },
+  {
+    "path": "icons/web/app-space.svg",
+    "tags": [
+      "web"
+    ],
+    "category": "web",
+    "color": "#0078D4",
+    "description": "App Space Azure architecture icon (Web).",
+    "fullname": "App Space",
+    "name": "app-space"
+  },
+  {
+    "path": "icons/web/app-space-component.svg",
+    "tags": [
+      "web"
+    ],
+    "category": "web",
+    "color": "#0078D4",
+    "description": "App Space Component Azure architecture icon (Web).",
+    "fullname": "App Space Component",
+    "name": "app-space-component"
+  },
+  {
+    "path": "icons/web/azure-media-service.svg",
+    "tags": [
+      "web"
+    ],
+    "category": "web",
+    "color": "#0078D4",
+    "description": "Azure Media Service Azure architecture icon (Web).",
+    "fullname": "Azure Media Service",
+    "name": "azure-media-service"
+  },
+  {
+    "path": "icons/web/signalr.svg",
+    "tags": [
+      "web"
+    ],
+    "category": "web",
+    "color": "#0078D4",
+    "description": "Signalr Azure architecture icon (Web).",
+    "fullname": "Signalr",
+    "name": "signalr"
+  },
+  {
+    "path": "icons/web/static-apps.svg",
+    "tags": [
+      "web"
+    ],
+    "category": "web",
+    "color": "#0078D4",
+    "description": "Static Apps Azure architecture icon (Web).",
+    "fullname": "Static Apps",
+    "name": "static-apps"
+  }
+]
